@@ -13,10 +13,14 @@ navbar-links:
     #- Join us: "join"
     - Contactanos: "contact"
     #- Code of Conduct: "CODE_OF_CONDUCT"
+  Areas: 
+    - Astronomía y Astrofísica:
+    - Ciencia de los Materiales:
+    - Física Teórica:
+    - Física de Altas Energías:
   Blog: "blog"
   Miembros: "people"
   Projectos: "projects"
-  #Resources: "resources"
   Eventos: "events"
   #Funding: "funding"
   Foro: "forum"
