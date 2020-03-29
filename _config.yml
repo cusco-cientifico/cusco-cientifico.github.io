@@ -8,18 +8,18 @@ description: We are a group of international experts in infectious disease model
 
 # List of links in the navigation bar
 navbar-links:
-  About RECON:
+  Acerca de:
     - What we do: ""
     - Join us: "join"
     - Contact: "contact"
     - Code of Conduct: "CODE_OF_CONDUCT"
   Blog: "blog"
   Miembros: "people"
-  Projects: "projects"
-  Resources: "resources"
-  Events: "events"
-  Funding: "funding"
-  Forum: "forum"
+  Projectos: "projects"
+  #Resources: "resources"
+  Eventoss: "events"
+  #Funding: "funding"
+  Foro: "forum"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
