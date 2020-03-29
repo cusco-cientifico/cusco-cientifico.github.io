@@ -299,9 +299,9 @@ Miembros que colaboran como ponentes durante los eventos académicos (ENCEFIS) o
 
 
 
-## Advisory board
+<!--## Advisory board-->
 
-We are extremely lucky to have the following people supporting and guiding our efforts:
+<!--We are extremely lucky to have the following people supporting and guiding our efforts:-->
 
-{% include list-circles.html items=page.advisory-board %}
+<!--{% include list-circles.html items=page.advisory-board %}-->
 
