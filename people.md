@@ -1,8 +1,8 @@
 ---
-title: Miembros
-subtitle: 
-Miembros áctivos:
-  - name: Fredi Quispe Huaynasi
+title: People
+subtitle: The humans behind this project
+executive-board:
+  - name: Finlay Campbell
     img: /img/people/finlay-campbell.jpg
     desc: Sofware Coordinator. Data scientist interested in outbreak analysis and R package development. WHO Geneva, Switzerland.
     github: http://github.com/finlaycampbell
@@ -295,9 +295,9 @@ members:
 ---
 
 
-## Miembros áctivos
+## Executive board
 
-Miembros áctivos del grupo Cusco Científico.
+These people are currently heading RECON.
 
 {% include list-circles.html items=page.executive-board %}
 
