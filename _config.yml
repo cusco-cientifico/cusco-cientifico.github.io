@@ -14,7 +14,7 @@ navbar-links:
     - Contactanos: "contact"
     #- Code of Conduct: "CODE_OF_CONDUCT"
   Areas: 
-    - Astronomía y Astrofísica: "astronomia_astrofisica"
+    - Astronomía y Astrofísica: "_areas/astronomia_astrofisica"
     - Ciencia de los Materiales: "ciencia_materiales"
     - Física Teórica: "fisica_teorica"
     - Física de Altas Energías: "altas_energias"
