@@ -13,8 +13,8 @@ navbar-links:
     - Join us: "join"
     - Contact: "contact"
     - Code of Conduct: "CODE_OF_CONDUCT"
-  News: "blog"
-  People: "people"
+  Blog: "blog"
+  Miembros: "people"
   Projects: "projects"
   Resources: "resources"
   Events: "events"
@@ -46,7 +46,7 @@ share-links-active:
   linkedin: true
   
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "reconhub-github-io"
+disqus: "cusco-cientifico.github.io"
 
 # Google Analytics ID
 google_analytics: "UA-83713279-1"
