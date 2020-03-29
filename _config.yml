@@ -9,10 +9,10 @@ description: We are a group of international experts in infectious disease model
 # List of links in the navigation bar
 navbar-links:
   Acerca de:
-    - What we do: ""
-    - Join us: "join"
-    - Contact: "contact"
-    - Code of Conduct: "CODE_OF_CONDUCT"
+    - Que hacemos: ""
+    #- Join us: "join"
+    - Contactanos: "contact"
+    #- Code of Conduct: "CODE_OF_CONDUCT"
   Blog: "blog"
   Miembros: "people"
   Projectos: "projects"
