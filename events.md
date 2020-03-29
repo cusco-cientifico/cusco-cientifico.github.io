@@ -3,15 +3,25 @@ title: Eventos
 ---
 
 
-## Up and coming!
+## Próximos Eventos!
 
 <!-- From the closest to the more distant, these are our next events: -->
 
-- [ESCAIDE 2019 workshop](https://recon-escaide-2019.netlify.com/) 2 short courses in parallel, 2 days before ESCAIDE, 25-26 November Stockholm, Sweden
+III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC (ENCIEFIS 2020)
 
+## Eventos Pasados
 
+### ENCEFIS 2019
+ 
+I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2019) 
 
-## Past events
+Evento llevado a cabo los días 09 y 10 de Enero del 2019
+
+### ENCEFIS 2020
+
+II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020) 
+
+Evento llevado a cabo los días 08, 09 y 10 de Enero del 2020
 
 ### Short courses
 
