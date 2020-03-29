@@ -32,7 +32,7 @@ author:
   email: "cusco.cientifico@gmail.com"
   github: cusco-cientifico
   facebook: yourname  # eg. daattali
-  twitter: yourname   # eg. daattali
+  twitter: CientificoCusco   # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
@@ -40,7 +40,7 @@ footer-links-active:
   email: true
   rss: false
   facebook: false
-  twitter: false
+  twitter: true
 
 # Select which share links to show in posts
 share-links-active:
