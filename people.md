@@ -9,7 +9,7 @@ executive-board:
     url: http://github.com/finlaycampbell
     twitter: http://twitter.com/fcampbell_
   - name: Gustavo Cuba Supanta
-    img: /img/people/anne-cori.jpg
+    img: /img/miembros_cc/einstein.jpg
     desc: Dr. en el área de Ciencia de los Materiales. Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/a.cori
     url: http://www.imperial.ac.uk/people/a.cori
@@ -28,7 +28,7 @@ executive-board:
     github: https://github.com/thibautjombart/
     twitter: https://twitter.com/TeebzR
   - name: Elluz Pacheco Cabrera
-    img: /img/people/patrick-keating.jpg
+    img: /img/people/janetta-skarp.jpg
     desc: Estudiante de doctorado, Field Deployment Coordinator. Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
   - name: Milida Zarella Pinto Vergara
     img: /img/people/greg-martin.jpeg
@@ -38,12 +38,12 @@ executive-board:
     twitter: https://twitter.com/drgregmartin
     github: https://github.com/drgregmartin
   - name: Fredi Quispe Huaynasi
-    img: /img/people/lulla-opatowski.jpg
+    img: /img/miembros_cc/einstein.jpg
     desc: Estudiante de doctorado. Lecturer in mathematical epidemiology. Universite Versailles St Quentin / Institut Pasteur / Inserm, France.
     website: https://research.pasteur.fr/en/member/lulla-opatowski/
     url: https://research.pasteur.fr/en/member/lulla-opatowski/
   - name: Carlos Soncco Meza
-    img: /img/people/janetta-skarp.jpg
+    img: /img/miembros_cc/einstein.jpg
     desc: Estudiante de doctorado. PhD student working in infectious disease modelling, contributor to RECON packages. Imperial College London, UK.
     github: https://github.com/jeskarp
     url: https://github.com/jeskarp
