@@ -1,9 +1,9 @@
 ---
 title: Miembros
-<!---subtitle: The humans behind this project-->
-<!---executive-board:-->
-  - name: Fredi Quispe Huaynasi
-    img: /img/miembros_cc/einstein_tongue.jpg
+subtitle: The humans behind this project
+executive-board:
+  - name: Finlay Campbell
+    img: /img/people/finlay-campbell.jpg
     desc: Sofware Coordinator. Data scientist interested in outbreak analysis and R package development. WHO Geneva, Switzerland.
     github: http://github.com/finlaycampbell
     url: http://github.com/finlaycampbell
