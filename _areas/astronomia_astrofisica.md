@@ -1,3 +1,0 @@
----
-title: Astronomía y Astrofísica
----
