@@ -4,58 +4,58 @@ subtitle: Grupo de personas dedicados a promover la ciencia y tecnología en la 
 executive-board:
   - name: Pedro Amao Cutipa
     img: /img/miembros_cc/einstein.jpg
-    desc: Director de la CERN. Data scientist interested in outbreak analysis and R package development. WHO Geneva, Switzerland.
+    desc: Estudiante de doctorado. Data scientist interested in outbreak analysis and R package development. WHO Geneva, Switzerland.
     github: http://github.com/finlaycampbell
     url: http://github.com/finlaycampbell
     twitter: http://twitter.com/fcampbell_
   - name: Gustavo Cuba Supanta
     img: /img/people/anne-cori.jpg
-    desc: Directora del Observatorio Arecibo. Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
+    desc: Dr. en el área de Ciencia de los Materiales. Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/a.cori
     url: http://www.imperial.ac.uk/people/a.cori
     github: https://github.com/annecori/
   - name: Soraya Isabel Flores Chalco
     img: /img/people/flavio-finger.jpg
-    desc: Vice President. Epidemiologist & Outbreak Analyst at Epicentre, Paris, France
+    desc: Estudiante de doctorado. Epidemiologist & Outbreak Analyst at Epicentre, Paris, France
     url: https://ffinger.github.io
     website: https://ffinger.github.io
     github: https://github.com/ffinger
   - name: Verónia Loaiza Tacuri
     img: /img/people/thibaut-jombart.jpg
-    desc: Founder, President, Treasurer. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
+    desc: Estudiante de doctorado. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://thibautjombart.netlify.com/
     url: https://thibautjombart.netlify.com/
     github: https://github.com/thibautjombart/
     twitter: https://twitter.com/TeebzR
   - name: Elluz Pacheco Cabrera
     img: /img/people/patrick-keating.jpg
-    desc: Deputy Secretary, Field Deployment Coordinator. Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
+    desc: Estudiante de doctorado, Field Deployment Coordinator. Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
   - name: Milida Zarella Pinto Vergara
     img: /img/people/greg-martin.jpeg
-    desc: Communication Coordinator. Health service executive; host of Global Health and R Programming 101 YouTube series
+    desc: Candidada a Dr. Directora del grupo Cusco Científico. ...
     website: https://www.youtube.com/c/drgregmartin
     url: https://www.youtube.com/c/drgregmartin
     twitter: https://twitter.com/drgregmartin
     github: https://github.com/drgregmartin
   - name: Fredi Quispe Huaynasi
     img: /img/people/lulla-opatowski.jpg
-    desc: Deputy Secretary. Lecturer in mathematical epidemiology. Universite Versailles St Quentin / Institut Pasteur / Inserm, France.
+    desc: Estudiante de doctorado. Lecturer in mathematical epidemiology. Universite Versailles St Quentin / Institut Pasteur / Inserm, France.
     website: https://research.pasteur.fr/en/member/lulla-opatowski/
     url: https://research.pasteur.fr/en/member/lulla-opatowski/
   - name: Carlos Soncco Meza
     img: /img/people/janetta-skarp.jpg
-    desc: Training Coordinator. PhD student working in infectious disease modelling, contributor to RECON packages. Imperial College London, UK.
+    desc: Estudiante de doctorado. PhD student working in infectious disease modelling, contributor to RECON packages. Imperial College London, UK.
     github: https://github.com/jeskarp
     url: https://github.com/jeskarp
 advisory-board:
-  - name: Gregory Armstrong
+  - name: David Choque Quispe
     img: /img/people/gregory-armstrong.jpg
     desc: Director of the Advanced Molecular Detection initiative, with extensive experience in epidemiology and outbreak response at CDC, Atlanta, USA.
     website: http://www.cdc.gov/amd/
     url: http://www.cdc.gov/amd/
     twitter: https://twitter.com/CDC_AMD
 members:
-  - name: Dean Attali
+  - name: Olintho de la Torre
     img: /img/people/dean-attali.jpg
     desc: Web and R developer, designer of the RECON website. AttaliTech, Canada.
     website: http://deanattali.com/
