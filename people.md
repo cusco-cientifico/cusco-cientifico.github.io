@@ -31,7 +31,7 @@ executive-board:
     img: /img/miembros_cc/Marie_Curie.jpg
     desc: Estudiante de doctorado, Field Deployment Coordinator. Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
   - name: Milida Zarella Pinto Vergara
-    img: /img/people/greg-martin.jpeg
+    img: /img/miembros_cc/Marie_Curie.jpg
     desc: Candidada a Dr. Directora del grupo Cusco Científico. ...
     website: https://www.youtube.com/c/drgregmartin
     url: https://www.youtube.com/c/drgregmartin
