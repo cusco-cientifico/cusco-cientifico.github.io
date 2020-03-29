@@ -3,7 +3,7 @@ title: Miembros
 subtitle: Grupo de personas dedicados a promover la ciencia y tecnología en la región del Cusco
 executive-board:
   - name: Finlay Campbell
-    img: img/miembros_cc/einstein_tongue.jpg
+    img: /img/people/anne-cori.jpg
     desc: Sofware Coordinator. Data scientist interested in outbreak analysis and R package development. WHO Geneva, Switzerland.
     github: http://github.com/finlaycampbell
     url: http://github.com/finlaycampbell
