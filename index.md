@@ -1,7 +1,7 @@
 ---
 ---
 
-<!--- <img src="/img/logo.png" title="RECON logo" alt="RECON logo" /> -->
+<img src="img/miembros_cc/imagen_moche.png" title="Imagen Moche" alt="Imagen Moche" /> 
 
 The **R** **E**pidemics **Con**sortium (RECON) is an international
 not-for-profit, **non-governmental organisation** gathering experts in data
