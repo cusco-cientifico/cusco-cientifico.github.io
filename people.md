@@ -1,8 +1,8 @@
 ---
 title: Miembros
 <!---subtitle: The humans behind this project-->
-executive-board:
-  - name: Finlay Campbell
+<!---executive-board:-->
+  - name: Fredi Quispe Huaynasi
     img: /img/people/finlay-campbell.jpg
     desc: Sofware Coordinator. Data scientist interested in outbreak analysis and R package development. WHO Geneva, Switzerland.
     github: http://github.com/finlaycampbell
