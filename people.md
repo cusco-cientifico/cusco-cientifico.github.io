@@ -295,7 +295,7 @@ members:
 ---
 
 
-## Executive board
+## Miembros áctivos
 
 Miembros áctivos del grupo Cusco Científico.
 
