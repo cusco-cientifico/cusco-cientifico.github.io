@@ -81,7 +81,7 @@ Miembros que colaboran como ponentes durante los eventos académicos (ENCEFIS) o
 
 
 
-## colaboradores externos
+## Colaboradores externos
 
 We are extremely lucky to have the following people supporting and guiding our efforts:
 
