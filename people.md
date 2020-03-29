@@ -1,5 +1,5 @@
 ---
-title: People
+title: Miembros
 subtitle: The humans behind this project
 executive-board:
   - name: Finlay Campbell

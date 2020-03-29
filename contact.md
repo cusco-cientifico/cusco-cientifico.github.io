@@ -1,5 +1,5 @@
 ---
-title: Contact us
+title: Contactanos
 ---
 
 RECON is headed by an Executive Board. The right person to contact depends on
