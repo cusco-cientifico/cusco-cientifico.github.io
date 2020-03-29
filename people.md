@@ -15,20 +15,20 @@ executive-board:
     url: http://www.imperial.ac.uk/people/a.cori
     github: https://github.com/annecori/
   - name: Soraya Isabel Flores Chalco
-    img: /img/people/flavio-finger.jpg
+    img: /img/miembros_cc/Marie_Curie.jpg
     desc: Estudiante de doctorado. Epidemiologist & Outbreak Analyst at Epicentre, Paris, France
     url: https://ffinger.github.io
     website: https://ffinger.github.io
     github: https://github.com/ffinger
   - name: Verónia Loaiza Tacuri
-    img: /img/people/thibaut-jombart.jpg
+    img: /img/miembros_cc/Marie_Curie.jpg
     desc: Estudiante de doctorado. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://thibautjombart.netlify.com/
     url: https://thibautjombart.netlify.com/
     github: https://github.com/thibautjombart/
     twitter: https://twitter.com/TeebzR
   - name: Elluz Pacheco Cabrera
-    img: /img/people/janetta-skarp.jpg
+    img: /img/miembros_cc/Marie_Curie.jpg
     desc: Estudiante de doctorado, Field Deployment Coordinator. Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
   - name: Milida Zarella Pinto Vergara
     img: /img/people/greg-martin.jpeg
