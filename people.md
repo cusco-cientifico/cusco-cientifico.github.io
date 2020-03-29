@@ -1,6 +1,6 @@
 ---
 title: Miembros
-subtitle: The humans behind this project
+<!---subtitle: The humans behind this project-->
 executive-board:
   - name: Finlay Campbell
     img: /img/people/finlay-campbell.jpg
