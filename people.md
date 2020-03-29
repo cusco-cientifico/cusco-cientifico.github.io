@@ -297,7 +297,7 @@ members:
 
 ## Executive board
 
-These people are currently heading RECON.
+Miembros áctivos del grupo Cusco Científico.
 
 {% include list-circles.html items=page.executive-board %}
 
