@@ -28,9 +28,9 @@ navbar-links:
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: "RECON - R Epidemics Consortium"
-  email: "thibautjombart@gmail.com"
-  github: reconhub/reconhub.github.io
+  name: "Cusco Científico"
+  email: "cusco.cientifico@gmail.com"
+  github: https://github.com/cusco-cientifico
   facebook: yourname  # eg. daattali
   twitter: yourname   # eg. daattali
 
