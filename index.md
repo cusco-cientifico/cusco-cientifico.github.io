@@ -1,5 +1,6 @@
 ---
 layout: base
+---
 
 <img src="img/miembros_cc/imagen_moche.png" title=" " alt="Imagen Moche" /> 
 
