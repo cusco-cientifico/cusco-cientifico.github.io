@@ -13,7 +13,6 @@ Cusco Científico es un grupo conformado por ex-alumnos de la [escuela profesior
 4. Desarrollo de proyectos de investigación
 5. Desarrollo de eventos científicos
 
-$$\frac{a}{b}$$
 
 The **R** **E**pidemics **Con**sortium (RECON) is an international
 not-for-profit, **non-governmental organisation** gathering experts in data
