@@ -3,7 +3,7 @@
 
 <img src="img/miembros_cc/imagen_moche.png" title=" " alt="Imagen Moche" /> 
 
-Cusco Científico es un grupo conformado por ex-alumnos de la [escuela profesiornal de física](https://docs.google.com/forms/d/e/1FAIpQLScDOYWfKQJMzF0tG4nuV0miR1KvWN35XfXTssgq9pKAFtfp0g/viewform) de la Universidad Nacional San Antonio Abad del Cusco (UNSAAC). Los objetivos del grupo son detallados a continuación.
+Cusco Científico es un grupo conformado por ex-alumnos de la [escuela profesional de física](https://docs.google.com/forms/d/e/1FAIpQLScDOYWfKQJMzF0tG4nuV0miR1KvWN35XfXTssgq9pKAFtfp0g/viewform) de la Universidad Nacional San Antonio Abad del Cusco (UNSAAC). Los objetivos del grupo son detallados a continuación.
 
 ## **Objetivos del grupo**
 
