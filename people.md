@@ -9,7 +9,7 @@ executive-board:
     url: http://github.com/finlaycampbell
     twitter: http://twitter.com/fcampbell_
   - name: Gustavo Cuba Supanta
-    img: /img/miembros_cc/einstein.jpg
+    img: /img/miembros_cc/photo_GCS.jpg
     desc: Dr. en el área de Ciencia de los Materiales. Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/a.cori
     url: http://www.imperial.ac.uk/people/a.cori
