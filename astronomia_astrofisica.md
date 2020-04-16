@@ -2,7 +2,7 @@
 ---
 
 ![](img/astronomy/galaxy.png)
-* <font size="1"> Imagen de nuestra Galaxia tomada por el astrofotografo peruano Jheison Huerta </font> [link](https://www.bbc.com/portuguese/internacional-50274440)* 
+<font size="1.5"> Imagen de nuestra Galaxia tomada por el astrofotografo peruano Jheison Huerta </font> [link](https://www.bbc.com/portuguese/internacional-50274440)
 # **Astronomía y Astrofísica**
 
 
