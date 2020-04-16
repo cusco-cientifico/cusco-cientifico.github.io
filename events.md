@@ -15,7 +15,32 @@ title: Eventos
  
 I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2019) 
 
-Evento llevado a cabo los días 09 y 10 de Enero del 2019. El afiche del evento puede ser descargado del siguiente [enlace]().
+El 1 er Encuentro de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 9 y 10 de enero del 2019. Dicho evento contó con la participación de 14 charlas orales, 2 talleres, 9 posters presentados y 40 asistentes entre profesionales y estudiantes. Los tópicos de las ponencias correspondieron a las áreas de Física Teórica, Física No-lineal, Física Aplicada, Ciencia de Materiales, Física Médica, Física de Altas Energías, Astronomía y Astrofísica. Los ponentes invitados, son exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Estados Unidos, Chile y Perú. El comité organizador, estuvo conformado por el comité local, comité de exalumnos y el comité científico. El afiche del evento puede ser descargado del siguiente [enlace]().
+
+#### Lista de ponentes
+
+1. Ruben Auccaise, Universidade Estadual de Ponta Grossa - Brasil.
+2. Pedro Amao Cutipa, Pontificia Universidad Católica del Perú - Perú.
+3. David Choque Quispe, Universidad Adolfo Ibañez - Chile.
+4. Gustavo Cuba Supanta, Universidad Nacional Mayor de San Marcos - Perú.
+5. Milida Z. Pinto Vergara, Universidad Nacional Mayor de San Marcos - Perú.
+6. David W. Puma Ttito, Universidad Nacional de Ingeniería - Perú.
+7. Verónica Loaiza Tacuri, Observatorio Nacional - Brasil.
+8. Fredi Quispe Huaynasi, Observatorio Nacional - Brasil.
+9. Milton Rojas Gamarra, Universidad Nacional Mayor de San Marcos - Perú.
+10. Elluz Pacheco Cabrera, Universidad de Puerto Rico, Rio Piedras - Puerto Rico.
+11. John Michael Briceño, Elekta - Estados Unidos.
+12. Carlos Soncco Meza, Pontificia Universidad Católica del Perú - Perú.
+13. Fabiola Jara Caytuiro, Universidad Nacional de Ingeniería - Perú.
+
+
+#### Libro de resumenes
+
+El libro de resumenes puede ser descargado del siguiente [enlace](https://www.dropbox.com/s/7mxfdk5zgwgue6e/libro_resumenes_encefis_2019.pdf?dl=0)
+
+#### Balance del evento
+
+El balance é imagenes del evento pueden ser descargados del siguiente [enlace](https://www.dropbox.com/s/szxdl9qdokucny9/Balance-encefis-2019.pdf?dl=0)
 
 #### Foto oficial del evento
 
