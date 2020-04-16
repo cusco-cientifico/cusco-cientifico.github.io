@@ -1,5 +1,5 @@
 ---
 ---
 
-<img src="img/404-people.png" title=" " alt=" " />
-## **Pagina en construcción**
+<img src="img/404-people.png" title=" " alt="image" />
+## **Enlace en construcción**
