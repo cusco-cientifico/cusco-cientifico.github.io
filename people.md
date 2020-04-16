@@ -9,7 +9,7 @@ executive-board:
     <!--url: http://github.com/finlaycampbell-->
     <!--twitter: http://twitter.com/fcampbell-->
   - name: Gustavo Cuba Supanta
-    img: /img/miembros_cc/photo_GCS.jpg
+    img: /img/miembros_cc/photo_GCS.png
     desc: Dr. en el área de Ciencia de los Materiales. Estudio de las propiedades físicas y de transporte de nanomateriales tipo 2D y 1D mediante métodos computacionales. Lima-Perú.
     website: http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=eb1d0cece24752bc9571e11b912e?id_investigador=52462
     url: http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=eb1d0cece24752bc9571e11b912e?id_investigador=52462
@@ -33,7 +33,7 @@ executive-board:
     website: https://www.dropbox.com/s/ahlvxybzwfdnsvc/ELLUZ_PACHECO_CV.pdf?dl=0
     url: https://www.dropbox.com/s/ahlvxybzwfdnsvc/ELLUZ_PACHECO_CV.pdf?dl=0
   - name: Milida Zarella Pinto Vergara
-    img: /img/miembros_cc/Milida-.jpg
+    img: /img/miembros_cc/Milida.png
     desc: Candidada a Dr. Directora del grupo Cusco Científico. Fabricación y caracterización de películas delgadas mediante la técnica de magnetron sputtering. Lima-Perú.
     website: https://drive.google.com/file/d/1UeBw81zdWBVNH5N9lTLelShnUE9NgSSg/view?usp=sharing
     url: https://drive.google.com/file/d/1UeBw81zdWBVNH5N9lTLelShnUE9NgSSg/view?usp=sharing
