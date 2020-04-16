@@ -4,7 +4,7 @@ subtitle: Grupo de personas dedicados a promover la ciencia y tecnología en la 
 executive-board:
   - name: Pedro Amao Cutipa
     img: /img/miembros_cc/einstein.jpg
-    desc: Estudiante de doctorado en la PUCP. Lima-Perú.
+    desc: Estudiante de doctorado. Lima-Perú.
     <!--github: http://github.com/finlaycampbell-->
     <!--url: http://github.com/finlaycampbell-->
     <!--twitter: http://twitter.com/fcampbell-->
