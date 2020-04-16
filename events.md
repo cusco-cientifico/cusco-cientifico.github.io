@@ -5,11 +5,11 @@ title: Eventos
 ## **ENCUENTRO CIENTÍFICO INTERNACIONAL DE EXALUMNOS DE FÍSICA - UNSAAC**
 
 ### **Presentación**
-Las actividades de divulgación científica son uno de los objetivos del grupo Cusco Científico (link) establecida en su reglamento. Una de estas actividades es el "encuentro de exalumnos de física - UNSAAC", que es el evento más importante organizado por el grupo Cusco Científico (link) y que tiene por propósito fortalecer el vínculo de colaboración académico entre estudiantes, profesores y exalumnos de la escuela profesional de Física. Además, brinda espacio oportuno de presentar trabajos de investigación científica y tecnológica a la comunidad Cusqueña, donde los participantes pueden ampliar el conocimiento mediante las conferencias magistrales, charlas y talleres.
+<p style='text-align: justify;'> Las actividades de divulgación científica son uno de los objetivos del grupo Cusco Científico (link) establecida en su reglamento. Una de estas actividades es el "encuentro de exalumnos de física - UNSAAC", que es el evento más importante organizado por el grupo Cusco Científico (link) y que tiene por propósito fortalecer el vínculo de colaboración académico entre estudiantes, profesores y exalumnos de la escuela profesional de Física. Además, brinda espacio oportuno de presentar trabajos de investigación científica y tecnológica a la comunidad Cusqueña, donde los participantes pueden ampliar el conocimiento mediante las conferencias magistrales, charlas y talleres. </p>
 
 ### **Descripción**
 
-Este evento posee un programa de conferencias magistrales, charlas, sesión de pósters, talleres y mesa redonda a cargo de exalumnos que vienen realizando sus estudios de posgrado y trabajos de investigación en diferentes instituciones nacionales y del extranjero. Estos eventos se vienen realizando con ayuda de docentes del departamento académico de Física.
+<p style='text-align: justify;'> Este evento posee un programa de conferencias magistrales, charlas, sesión de pósters, talleres y mesa redonda a cargo de exalumnos que vienen realizando sus estudios de posgrado y trabajos de investigación en diferentes instituciones nacionales y del extranjero. Estos eventos se vienen realizando con ayuda de docentes del departamento académico de Física. </p>
 
 ## Próximos Eventos!
 
