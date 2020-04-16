@@ -5,9 +5,9 @@ executive-board:
   - name: Pedro Amao Cutipa
     img: /img/miembros_cc/einstein.jpg
     desc: Estudiante de doctorado. Data scientist interested in outbreak analysis and R package development. WHO Geneva, Switzerland.
-    github: http://github.com/finlaycampbell
-    url: http://github.com/finlaycampbell
-    twitter: http://twitter.com/fcampbell_
+    <!--github: http://github.com/finlaycampbell-->
+    <!--url: http://github.com/finlaycampbell-->
+    <!--twitter: http://twitter.com/fcampbell-->
   - name: Gustavo Cuba Supanta
     img: /img/miembros_cc/photo_GCS.jpg
     desc: Dr. en el área de Ciencia de los Materiales. Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
@@ -17,36 +17,40 @@ executive-board:
   - name: Soraya Isabel Flores Chalco
     img: /img/miembros_cc/Soraya_FloresCh.jpg
     desc: Estudiante de doctorado. Epidemiologist & Outbreak Analyst at Epicentre, Paris, France
-    url: https://ffinger.github.io
-    website: https://ffinger.github.io
-    github: https://github.com/ffinger
-  - name: Verónia Loaiza Tacuri
+    url: https://www.dropbox.com/s/1t6bieckdsnoz9c/CV_2020_Soraya_Flores.pdf?dl=0
+    website: https://www.dropbox.com/s/1t6bieckdsnoz9c/CV_2020_Soraya_Flores.pdf?dl=0
+    <!--github: https://github.com/ffinger-->
+  - name: Verónica Loaiza Tacuri
     img: /img/miembros_cc/Veronica_LT.png
     desc: Estudiante de doctorado. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
-    website: https://thibautjombart.netlify.com/
-    url: https://thibautjombart.netlify.com/
-    github: https://github.com/thibautjombart/
-    twitter: https://twitter.com/TeebzR
+    website: https://www.dropbox.com/s/ueskdzl3amcai3z/CV.pdf?dl=0
+    url: https://www.dropbox.com/s/ueskdzl3amcai3z/CV.pdf?dl=0
+    <!--github: https://github.com/thibautjombart/-->
+    <!--twitter: https://twitter.com/TeebzR-->
   - name: Elluz Pacheco Cabrera
     img: /img/miembros_cc/ElluzPC.jpg
     desc: Estudiante de doctorado, Field Deployment Coordinator. Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
+    website: https://www.dropbox.com/s/ahlvxybzwfdnsvc/ELLUZ_PACHECO_CV.pdf?dl=0
+    url: https://www.dropbox.com/s/ahlvxybzwfdnsvc/ELLUZ_PACHECO_CV.pdf?dl=0
   - name: Milida Zarella Pinto Vergara
     img: /img/miembros_cc/Milida-.jpg
     desc: Candidada a Dr. Directora del grupo Cusco Científico. ...
-    website: https://www.youtube.com/c/drgregmartin
-    url: https://www.youtube.com/c/drgregmartin
-    twitter: https://twitter.com/drgregmartin
-    github: https://github.com/drgregmartin
+    website: https://drive.google.com/file/d/1UeBw81zdWBVNH5N9lTLelShnUE9NgSSg/view?usp=sharing
+    url: https://drive.google.com/file/d/1UeBw81zdWBVNH5N9lTLelShnUE9NgSSg/view?usp=sharing
+    <!--twitter: https://twitter.com/drgregmartin-->
+    <!--github: https://github.com/drgregmartin-->
   - name: Fredi Quispe Huaynasi
     img: /img/miembros_cc/Fredi_Photo1.jpg.png
     desc: Estudiante de doctorado. Lecturer in mathematical epidemiology. Universite Versailles St Quentin / Institut Pasteur / Inserm, France.
-    website: https://research.pasteur.fr/en/member/lulla-opatowski/
-    url: https://research.pasteur.fr/en/member/lulla-opatowski/
+    website: https://www.dropbox.com/s/2a8nw8u0ydqx81m/Curriculum_Vitae_Fredi_Quispe_H.pdf?dl=0
+    github: https://github.com/fredifqh
+    url: https://www.dropbox.com/s/2a8nw8u0ydqx81m/Curriculum_Vitae_Fredi_Quispe_H.pdf?dl=0
   - name: Carlos Soncco Meza
     img: /img/miembros_cc/carlos_Soncco.jpg
     desc: Estudiante de doctorado. PhD student working in infectious disease modelling, contributor to RECON packages. Imperial College London, UK.
-    github: https://github.com/jeskarp
-    url: https://github.com/jeskarp
+    website: https://drive.google.com/open?id=1-p1-HYUchjKBiC-Mxi2PXecxF_fb1KIN 
+    <!--github: https://github.com/fredifqh-->
+    url: https://drive.google.com/open?id=1-p1-HYUchjKBiC-Mxi2PXecxF_fb1KIN
 advisory-board:
   - name: Olintho de la Torre 
     img: /img/people/gregory-armstrong.jpg
