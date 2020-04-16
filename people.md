@@ -31,7 +31,7 @@ executive-board:
     img: /img/miembros_cc/ElluzPC.jpg
     desc: Estudiante de doctorado, Field Deployment Coordinator. Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
   - name: Milida Zarella Pinto Vergara
-    img: /img/miembros_cc/ElluzPC.jpg
+    img: /img/miembros_cc/Milida-.jpg
     desc: Candidada a Dr. Directora del grupo Cusco Científico. ...
     website: https://www.youtube.com/c/drgregmartin
     url: https://www.youtube.com/c/drgregmartin
