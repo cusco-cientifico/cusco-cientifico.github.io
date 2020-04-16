@@ -9,8 +9,8 @@
 
 Asimismo, algunos integrantes del grupo "cusco científico" vienen investigando diversos temas en este área como por ejemplo:
 
-1.- <p style='text-align: justify;'> La fabricación de prototipos de sensores químicos amperométricos sensibles y selectivos para la detección y monitoreo de gases contaminantes como el CH4, NH3 y NO2 basados en Ftalocianinas metálicas modificadas, que se caracteriza por una alta simetría, planaridad y deslocalización de electrones. Este proyecto está siendo desarrollado por la MSc. Soraya I. Flores C. </p>
+1. <p style='text-align: justify;'> La fabricación de prototipos de sensores químicos amperométricos sensibles y selectivos para la detección y monitoreo de gases contaminantes como el CH4, NH3 y NO2 basados en Ftalocianinas metálicas modificadas, que se caracteriza por una alta simetría, planaridad y deslocalización de electrones. Este proyecto está siendo desarrollado por la MSc. Soraya I. Flores C. </p>
  
-2.- <p style='text-align: justify;'> La fabricación y caracterización de películas delgadas mediante el magnetron sputtering como recubrimientos cerámicos en el caso de Hidroxiapatita para aplicaciones biomédicas y multicapas magnéticas para aplicaciones de descontaminación del medio ambiente. Este proyecto es desarrollado por la MSc. Milida Z. Pinto V. </p>
+2. <p style='text-align: justify;'> La fabricación y caracterización de películas delgadas mediante el magnetron sputtering como recubrimientos cerámicos en el caso de Hidroxiapatita para aplicaciones biomédicas y multicapas magnéticas para aplicaciones de descontaminación del medio ambiente. Este proyecto es desarrollado por la MSc. Milida Z. Pinto V. </p>
    
-3.- <p style='text-align: justify;'> El estudio de las propiedades físicas y de transporte (bajo diversas influencias como dopaje, temperatura, tamaño, sustrato, entre otras) de varios nanomateriales tipo 2D y 1D mediante métodos computacionales. Diversos proyectos de este tipo vienen siendo desarrollados por el Dr. Gustavo Cuba Supanta. </p>
+3. <p style='text-align: justify;'> El estudio de las propiedades físicas y de transporte (bajo diversas influencias como dopaje, temperatura, tamaño, sustrato, entre otras) de varios nanomateriales tipo 2D y 1D mediante métodos computacionales. Diversos proyectos de este tipo vienen siendo desarrollados por el Dr. Gustavo Cuba Supanta. </p>
