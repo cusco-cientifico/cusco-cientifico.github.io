@@ -15,7 +15,7 @@ title: Eventos
  
 I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2019) 
 
-Evento llevado a cabo los días 09 y 10 de Enero del 2019
+Evento llevado a cabo los días 09 y 10 de Enero del 2019. El afiche del evento puede ser descargado del siguiente [enlace](https://drive.google.com/open?id=1tt5WoR_g3spjc1Xm6z6SgxzTrgh172Ye)
 
 #### Foto oficial del evento
 
@@ -27,7 +27,7 @@ Evento llevado a cabo los días 09 y 10 de Enero del 2019
 
 II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020) 
 
-Evento llevado a cabo los días 08, 09 y 10 de Enero del 2020
+Evento llevado a cabo los días 08, 09 y 10 de Enero del 2020. El afiche del evento puede ser descargado del siguiente [enlace](https://drive.google.com/open?id=1flZBY8kQjpWqmlXMWb-8t1svJl5xDWuQ)
 
 #### Foto oficial del evento
 
