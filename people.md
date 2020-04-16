@@ -12,7 +12,7 @@ executive-board:
     img: /img/miembros_cc/photo_GCS.jpg
     desc: Dr. en el área de Ciencia de los Materiales. Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
     website: http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=eb1d0cece24752bc9571e11b912e?id_investigador=52462
-    url: http://www.imperial.ac.uk/people/a.cori
+    url: http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=eb1d0cece24752bc9571e11b912e?id_investigador=52462
     github: https://github.com/annecori/
   - name: Soraya Isabel Flores Chalco
     img: /img/miembros_cc/Soraya_FloresCh.jpg
