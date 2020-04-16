@@ -17,11 +17,23 @@ I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2019)
 
 Evento llevado a cabo los días 09 y 10 de Enero del 2019
 
+#### Foto oficial del evento
+
+<p align="center"> 
+<img src="img/encefis/Foto_oficial_encefis-2019.png">
+</p>
+
 ### ENCEFIS 2020
 
 II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020) 
 
 Evento llevado a cabo los días 08, 09 y 10 de Enero del 2020
+
+#### Foto oficial del evento
+
+<p align="center"> 
+<img src="img/encefis/Foto_oficial_encefis-2020.jpg">
+</p>
 
 ### Próximos Eventos!
 
