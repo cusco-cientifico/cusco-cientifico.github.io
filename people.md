@@ -15,35 +15,35 @@ executive-board:
     url: http://www.imperial.ac.uk/people/a.cori
     github: https://github.com/annecori/
   - name: Soraya Isabel Flores Chalco
-    img: /img/miembros_cc/Marie_Curie.jpg
+    img: /img/miembros_cc/Soraya_FloresCh.jpg
     desc: Estudiante de doctorado. Epidemiologist & Outbreak Analyst at Epicentre, Paris, France
     url: https://ffinger.github.io
     website: https://ffinger.github.io
     github: https://github.com/ffinger
   - name: Verónia Loaiza Tacuri
-    img: /img/miembros_cc/Marie_Curie.jpg
+    img: /img/miembros_cc/Veronica_LT.png
     desc: Estudiante de doctorado. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://thibautjombart.netlify.com/
     url: https://thibautjombart.netlify.com/
     github: https://github.com/thibautjombart/
     twitter: https://twitter.com/TeebzR
   - name: Elluz Pacheco Cabrera
-    img: /img/miembros_cc/Marie_Curie.jpg
+    img: /img/miembros_cc/ElluzPC.jpg
     desc: Estudiante de doctorado, Field Deployment Coordinator. Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
   - name: Milida Zarella Pinto Vergara
-    img: /img/miembros_cc/Marie_Curie.jpg
+    img: /img/miembros_cc/ElluzPC.jpg
     desc: Candidada a Dr. Directora del grupo Cusco Científico. ...
     website: https://www.youtube.com/c/drgregmartin
     url: https://www.youtube.com/c/drgregmartin
     twitter: https://twitter.com/drgregmartin
     github: https://github.com/drgregmartin
   - name: Fredi Quispe Huaynasi
-    img: /img/miembros_cc/einstein.jpg
+    img: /img/miembros_cc/Fredi_Photo1.jpg.png
     desc: Estudiante de doctorado. Lecturer in mathematical epidemiology. Universite Versailles St Quentin / Institut Pasteur / Inserm, France.
     website: https://research.pasteur.fr/en/member/lulla-opatowski/
     url: https://research.pasteur.fr/en/member/lulla-opatowski/
   - name: Carlos Soncco Meza
-    img: /img/miembros_cc/einstein.jpg
+    img: /img/miembros_cc/carlos_Soncco.jpg
     desc: Estudiante de doctorado. PhD student working in infectious disease modelling, contributor to RECON packages. Imperial College London, UK.
     github: https://github.com/jeskarp
     url: https://github.com/jeskarp
