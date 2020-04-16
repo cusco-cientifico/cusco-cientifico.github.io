@@ -2,6 +2,7 @@
 ---
 
 ![](img/altas_energias/particle_detector.png)
+
 *Imagen extraída del siguiente [link](http://collider.physics.ox.ac.uk/detecting.html)*
 # **Física de altas energías**
 
