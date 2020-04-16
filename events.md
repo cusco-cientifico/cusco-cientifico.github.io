@@ -11,7 +11,7 @@ title: Eventos
 
 <p style='text-align: justify;'> Este evento posee un programa de conferencias magistrales, charlas, sesión de pósters, talleres y mesa redonda a cargo de exalumnos que vienen realizando sus estudios de posgrado y trabajos de investigación en diferentes instituciones nacionales y del extranjero. Estos eventos se vienen realizando con ayuda de docentes del departamento académico de Física. </p>
 
-#### ENCEFIS 2019
+### ENCEFIS 2019
  
 I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2019) 
 
@@ -23,7 +23,7 @@ Evento llevado a cabo los días 09 y 10 de Enero del 2019
 <img src="../img/encefis/Foto_oficial_encefis-2019.png">
 </p>
 
-#### ENCEFIS 2020
+### ENCEFIS 2020
 
 II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020) 
 
