@@ -4,15 +4,21 @@
 <!--<img src="img/miembros_cc/imagen_moche.png" title=" " alt="Imagen Moche" /> -->
 <img src="img/404-people.png" title=" " alt="Imagen Moche" />
 ## **Pagina en construcción**
-Cusco Científico es un grupo conformado por ex-alumnos de la [escuela profesional de física](https://docs.google.com/forms/d/e/1FAIpQLScDOYWfKQJMzF0tG4nuV0miR1KvWN35XfXTssgq9pKAFtfp0g/viewform) de la Universidad Nacional San Antonio Abad del Cusco (UNSAAC). Los objetivos del grupo son detallados a continuación.
+
+<p style='text-align: justify;'> “Cusco Científico”, es un grupo de estudiantes egresados de la Universidad Nacional San Antonio Abad del Cusco de la escuela profesional de Física, cuyo objetivo es mostrar, incentivar y fomentar un vínculo de colaboración entre estudiantes, docentes y ex-alumnos teniendo como fin la investigación científica, para lo cual, queremos compartir nuestras experiencias en el ámbito académico. </p> 
+
+<p style='text-align: justify;'> Con este objetivo se organizó dos eventos “1er y 2do Encuentro Científico de ex-alumnos de Física”  en los años 2019 y 2020 respectivamente, en las cuales se llevó a cabo charlas, talleres y sesiones de pósters en las diferentes áreas de la Física entre ellas: Astronomía, Astrofísica, Astroquímica, Física de Materiales, Física Teórica y Física de Altas Energías. </p>
+
+<p style='text-align: justify;'> Estos dos primeros eventos brindó a los participantes la oportunidad de intercambiar información, así como también identificar nuevos desafíos en las diversas áreas de la Física para comenzar a fortalecer un apoyo mutuo. </p>
+
 
 ## **Objetivos del grupo**
 
-1. Promover la investigación científica
-2. Promover la colaboración científica entre estudiantes, profesores y egresados de la escuela profesional de física.
-3. Divulgación científica
-4. Desarrollo de proyectos de investigación
-5. Desarrollo de eventos científicos
+1. Incentivar y fomentar un vínculo de colaboración entre estudiantes, docentes y ex-alumnos de Física - UNSAAC, teniendo como fin común la investigación científica.
+2. Intercambiar y/o compartir la información, experiencias académicas y temas  afines entre los miembros integrantes del grupo.
+3. Desarrollar y promover colaboraciones y proyectos para el beneficio de los miembros del grupo.
+4. Identificar necesidades y desafíos de nuestra Alma Máter, en las diversas áreas de la Física para fortalecer el apoyo mutuo con docentes y estudiantes. 
+5. Fomentar la amistad y el compañerismo entre los miembros del grupo y otros ex-alumnos de Física.
 
 
 <!--The **R** **E**pidemics **Con**sortium (RECON) is an international
