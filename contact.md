@@ -2,8 +2,6 @@
 title: Contactanos
 ---
 
-#### Email del grupo Cusco Científico
-
 [cusco.cientifico@gmail.com](mailto:cusco.cientifico@gmail.com)
 
 <!--- RECON is headed by an Executive Board. The right person to contact depends on
