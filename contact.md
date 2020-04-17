@@ -2,9 +2,11 @@
 title: Contactanos
 ---
 
+#### Email del grupo Cusco Científico
+
 [cusco.cientifico@gmail.com](mailto:cusco.cientifico@gmail.com)
 
-<!-- RECON is headed by an Executive Board. The right person to contact depends on
+<!--- RECON is headed by an Executive Board. The right person to contact depends on
 the nature of your enquiry. Remember that if you just want to have a chat with members of our community, you can freely join our slack organisation [here](https://reconhub.slack.com/join/shared_invite/enQtNDYxNjI5MjAxMTU3LTBjOTc0MmZjY2FmYjk5ZTc3ZWU3YzdkMzRhMDlhNzM5MGVjYzFiMDU5MWIxNTRkYjVkNjY5NTk4ZGNjYjkyYjI), and coming to chat at [reconhub.slack.com](https://reconhub.slack.com). Alternatively, for announcements, job ads etc. consider using our [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum). For everything else, see below.
 
 
@@ -42,4 +44,4 @@ donations, please fill out the form below:
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="./contact?message=Your message was sent successfully, thanks!" />
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
-</form> -->
+</form> --->
