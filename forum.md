@@ -1,11 +1,9 @@
 ---
-<!--title: Getting in touch
-subtitle: Discussing outbreak analytics and R programming.-->
 ---
 
 
-<!--
-## Getting in touch quickly using *slack*
+
+<!-- ## Getting in touch quickly using *slack*
 
 ### What is slack?
 
@@ -51,4 +49,4 @@ Our mailing list is opened to all, RECON member or not, and is used mostly for a
 
 Follow [this link](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum) to subscribe to this mailing list, browser the archives, etc. 
 
-**To post** to the forum, send an email to [recon-forum@imperial.ac.uk](mailto:recon-forum@imperial.ac.uk). Note that the list is moderated for non-members, so that you will need to [subscribe](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum) to make sure your post goes through.
+**To post** to the forum, send an email to [recon-forum@imperial.ac.uk](mailto:recon-forum@imperial.ac.uk). Note that the list is moderated for non-members, so that you will need to [subscribe](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum) to make sure your post goes through. -->
