@@ -2,7 +2,7 @@
 title: Projects
 <!--bigimg: /img/banners/devel.jpg-->
 recon-list:
-  - name: distcrete
+<!--  - name: distcrete
     desc: Discretized probability distributions.
     github: https://github.com/reconhub/distcrete
     url: https://www.repidemicsconsortium.org/distcrete
@@ -209,12 +209,12 @@ upcoming-list:
     desc: Visualisation and Monitoring of Epidemics, including some outbreak detection algorithms.
     github: https://github.com/thibautjombart/vimes
     url: https://github.com/thibautjombart/vimes
-    img: /img/projects/yellow.png
+    img: /img/projects/yellow.png -->
 ---
 
 
 
-<br>
+<!-- <br>
 
 ## Released projects and packages
 
@@ -246,4 +246,4 @@ already, but a stable version has yet to be released.
 The packages listed below mostly predate RECON, but have been authored by RECON
 members and are relevant for infectious disease epidemiology.
 
-{% include list-circles.html items=page.related-list %}
+{% include list-circles.html items=page.related-list %} -->
