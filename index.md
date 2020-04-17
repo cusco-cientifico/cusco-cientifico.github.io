@@ -15,7 +15,7 @@ Cusco Científico es un grupo conformado por ex-alumnos de la [escuela profesion
 5. Desarrollo de eventos científicos
 
 
-The **R** **E**pidemics **Con**sortium (RECON) is an international
+<!--The **R** **E**pidemics **Con**sortium (RECON) is an international
 not-for-profit, **non-governmental organisation** gathering experts in data
 science, modelling methodology, public health, and software development to
 create the next generation of analytics tools for informing the response
@@ -61,4 +61,4 @@ increasingly dedicated to:
 W751246083), in accordance to the association law of 1st July 1901 and the
 decree of the 16th August 1901. For more information about the remit of RECON,
 check our official statutes in [English](documents/statutes_en_1.1.pdf) or in
-[French](documents/statutes_fr_1.1.pdf).
+[French](documents/statutes_fr_1.1.pdf).-->
