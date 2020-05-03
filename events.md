@@ -20,13 +20,14 @@ III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC
 ### Eventos Pasados
 
 <ul style="list-style-type:disc;">
+<p style='text-align: justify;'>  
 <li><b>II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</b></li>
-<p style='text-align: justify;'>  El II Encuentro Científico de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 8, 9 y 10 de enero del 2020. Dicho evento contó con la participación de 3 charlas magistrales, 21 charlas orales, 9 posters presentados y 95 asistentes entre profesionales, estudiantes de física y público en general. El afiche del evento puede ser descargado del siguiente [enlace]()</p>
+El II Encuentro Científico de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 8, 9 y 10 de enero del 2020. Dicho evento contó con la participación de 3 charlas magistrales, 21 charlas orales, 9 posters presentados y 95 asistentes entre profesionales, estudiantes de física y público en general. El afiche del evento puede ser descargado del siguiente [enlace]()</p>
 
 <p style='text-align: justify;'> Los tópicos de las ponencias correspondieron a las áreas de Física Teórica, geofísica, Ciencia de Materiales, Física Médica, Física de Altas Energías, Astronomía y Astrofísica. </p>
 
 <p style='text-align: justify;'> Los ponentes invitados, son exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Chile y Perú. Asimismo, hubo participación de 2 estudiantes de la Universidad Nacional Mayor de San Marcos.</p>
-<b>Lista de ponentes</b><br>
+<p style='text-align: justify;'><b>Lista de ponentes</b><br>
 <ol>
 <li>Marco A. Zamalloa Jara, Universidad Nacional de San Antonio Abad del Cusco, Perú.</li>
 <li>Ruben Alfredo Tupayachi Latorre, Pontificia Universidad Católica del Perú, Perú.</li>
@@ -54,8 +55,7 @@ III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC
 <li> Erick Jhordan Reategui Rojas, Universidad Nacional Mayor de San Marcos - Perú.</li>
 <li> Fernando Ccolque Ttito, Universidad Nacional de San Antonio Abad del Cusco - Perú.</li>
 <li> Milida Zarella Pinto Vergara, Centro de Investigaciones Tecnológicas, Biomédicas y Medioambientales - Perú.</li>
-</ol>
-<br>
+</ol></p>
 
 <b>Libro de resumenes</b><br>
 
