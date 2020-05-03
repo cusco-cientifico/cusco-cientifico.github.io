@@ -18,7 +18,7 @@ III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC
 <!--[Link de inscripción](https://docs.google.com/forms/d/e/1FAIpQLScDOYWfKQJMzF0tG4nuV0miR1KvWN35XfXTssgq9pKAFtfp0g/viewform)-->
 
 ### Eventos Pasados
-<br>
+
 <ul style="list-style-type:disc;"> 
 <li><b>II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</b></li>
 <p style='text-align: justify;'> 
