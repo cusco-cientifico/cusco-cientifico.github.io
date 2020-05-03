@@ -53,19 +53,8 @@ executive-board:
     url: https://drive.google.com/open?id=1-p1-HYUchjKBiC-Mxi2PXecxF_fb1KIN
 advisory-board:
   - name: Olintho de la Torre 
-    <!--img: /img/people/gregory-armstrong.jpg
-    desc: Director of the Advanced Molecular Detection initiative, with extensive experience in epidemiology and outbreak response at CDC, Atlanta, USA.
-    website: http://www.cdc.gov/amd/
-    url: http://www.cdc.gov/amd/
-    twitter: https://twitter.com/CDC_AMD-->
 members:
   - name: David Choque Quispe
-    <!--img: /img/people/dean-attali.jpg
-    desc: Web and R developer, designer of the RECON website. AttaliTech, Canada.
-    website: http://deanattali.com/
-    url: http://deanattali.com/
-    github: https://github.com/daattali/
-    twitter: https://twitter.com/daattali-->
 ---
 
 
