@@ -112,11 +112,11 @@ El afiche del evento puede ser descargado del siguiente [enlace]().<br>
 
 <b>Libro de resumenes</b><br>
 
-El libro de resumenes puede ser descargado del siguiente [enlace](https://www.dropbox.com/s/7mxfdk5zgwgue6e/libro_resumenes_encefis_2019.pdf?dl=0).<br><br>
+El libro de resumenes puede ser descargado del siguiente <a href="https://www.dropbox.com/s/7mxfdk5zgwgue6e/libro_resumenes_encefis_2019.pdf?dl=0">enlace.</a><br><br>
 
 <b>Balance</b><br>
 
-El balance é imagenes del evento pueden ser descargados del siguiente [enlace](https://www.dropbox.com/s/szxdl9qdokucny9/Balance-encefis-2019.pdf?dl=0).<br><br>
+El balance é imagenes del evento pueden ser descargados del siguiente <a href="https://www.dropbox.com/s/szxdl9qdokucny9/Balance-encefis-2019.pdf?dl=0">enlace.</a><br><br>
 
 <b>Agradecimientos</b><br>	
 
