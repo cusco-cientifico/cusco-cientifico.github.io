@@ -47,7 +47,7 @@ executive-board:
     url: https://www.dropbox.com/s/2a8nw8u0ydqx81m/Curriculum_Vitae_Fredi_Quispe_H.pdf?dl=0
   - name: Carlos Soncco Meza
     img: /img/miembros_cc/carlos_Soncco.jpg
-    desc: Estudiante de doctorado. Caracterización del sensor ALPIDE-2 y la implementación geométrica para la simulación del Muon Forward Tracker en el nuevo sistema de adquisición de data de ALICE. Lima-Perú.
+    desc: Estudiante de doctorado. Caracterización del sensor ALPIDE-2 y la implementación geométrica para la simulación del <i>Muon Forward Tracker</i> en el nuevo sistema de adquisición de data de ALICE. Lima-Perú.
     website: https://drive.google.com/open?id=1-p1-HYUchjKBiC-Mxi2PXecxF_fb1KIN 
     <!--github: https://github.com/fredifqh-->
     url: https://drive.google.com/open?id=1-p1-HYUchjKBiC-Mxi2PXecxF_fb1KIN
@@ -80,8 +80,8 @@ Miembros áctivos del grupo Cusco Científico
 ## Miembros externos
 
 Miembros que colaboran como ponentes durante los eventos académicos (ENCEFIS) organizado por el grupo Cusco Científico
-
-{% include list-circles.html items=page.members %}
+{% include items=page.members %}
+<!--{% include list-circles.html items=page.members %}-->
 
 
 
@@ -89,5 +89,6 @@ Miembros que colaboran como ponentes durante los eventos académicos (ENCEFIS) o
 
 <!--We are extremely lucky to have the following people supporting and guiding our efforts:-->
 
-{% include list-circles.html items=page.advisory-board %}
+{% include items=page.advisory-board %}
+<!--{% include list-circles.html items=page.advisory-board %}-->
 
