@@ -118,7 +118,6 @@ El balance é imagenes del evento pueden ser descargados del siguiente <a href="
 
 <b>Agradecimientos</b>
 <p style='text-align: justify;'>Este evento no hubiera sido posible sin contar con la ayuda de Profesores del Departamento Académico de Física - UNSAAC, en especial a la MSc. Miriam Romero y la Mgt. Estela Huamán.</p> 
-
 <b>Auspiciadores:</b><br>
 <ol>
 <li>Departamento Académico de Física, Facultad de Ciencias Químicas, Físicas y Matemáticas, Universidad Nacional de San Antonio Abad del Cusco.</li>
