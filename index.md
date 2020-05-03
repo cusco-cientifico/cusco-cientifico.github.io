@@ -10,10 +10,12 @@
 
 ## **Objetivos del grupo**
 
-1. Intercambiar y/o compartir información, experiencias académicas y temas afines entre los miembros integrantes del grupo.
-2. Desarrollar proyectos de investigación y promover la colaboración entre los miembros del grupo.
-3. Incentivar y fomentar un vínculo de colaboración entre estudiantes, docentes y ex-alumnos de Física de la UNSAAC, teniendo como fin común la investigación científica.
-4. Divulgación científica a través de eventos científicos, diferentes redes sociales y medios de comunicación.
+<ol>
+<li><p style='text-align: justify;'> 1. Intercambiar y/o compartir información, experiencias académicas y temas afines entre los miembros integrantes del grupo.</p></li>
+</ol>
+<p style='text-align: justify;'> 2. Desarrollar proyectos de investigación y promover la colaboración entre los miembros del grupo.</p>
+<p style='text-align: justify;'> 3. Incentivar y fomentar un vínculo de colaboración entre estudiantes, docentes y ex-alumnos de Física de la UNSAAC, teniendo como fin común la investigación científica.</p>  
+<p style='text-align: justify;'> 4. Divulgación científica a través de eventos científicos, diferentes redes sociales y medios de comunicación.</p> 
 
 <!--The **R** **E**pidemics **Con**sortium (RECON) is an international
 not-for-profit, **non-governmental organisation** gathering experts in data
