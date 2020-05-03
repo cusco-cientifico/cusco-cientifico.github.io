@@ -84,7 +84,7 @@ El II Encuentro Científico de Exalumnos de Física UNSAAC, se llevó a cabo en 
 <img src="../img/encefis/Foto_oficial_encefis-2020.jpg">
 </p>
 
-<li>I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</li>
+<li><b>I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</b></li>
 <p style='text-align: justify;'> El 1 er Encuentro de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 9 y 10 de enero del 2019. Dicho evento contó con la participación de 14 charlas orales, 2 talleres, 9 posters presentados y 40 asistentes entre profesionales y estudiantes. Los tópicos de las ponencias correspondieron a las áreas de Física Teórica, Física No-lineal, Física Aplicada, Ciencia de Materiales, Física Médica, Física de Altas Energías, Astronomía y Astrofísica. Los ponentes invitados, son exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Estados Unidos, Chile y Perú. El comité organizador, estuvo conformado por el comité local, comité de exalumnos y el comité científico. El afiche del evento puede ser descargado del siguiente [enlace]().</p>
 
 <p style='text-align: justify;'><b>Lista de ponentes</b><br>
