@@ -59,8 +59,7 @@ III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC
 <li> Milida Zarella Pinto Vergara, Centro de Investigaciones Tecnológicas, Biomédicas y Medioambientales - Perú.</li>
 </ol>
 <br>
-<b>Libro de resumenes</b>
-
+<b>Libro de resumenes</b><br>
 
 El libro de resumenes puede ser descargado del siguiente <a href="https://www.dropbox.com/s/wa05dfyq3om4ehf/libro_resumenes_encefis_2020.pdf?dl=0">enlace.</a><br>
 
