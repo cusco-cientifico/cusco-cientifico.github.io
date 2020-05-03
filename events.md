@@ -27,8 +27,10 @@ Los eventos que fueron organizados por el grupo Cusco Científico son el I ENCUE
 <!--<li><b>II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</b></li>-->
 
 <section>
-<h4><p style='text-align: justify;'>El II Encuentro Científico de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 8, 9 y 10 de enero del 2020. Dicho evento contó con la participación de 3 charlas magistrales, 21 charlas orales, 9 posters presentados y 95 asistentes entre profesionales, estudiantes de física y público en general. Los tópicos de las ponencias correspondieron a las áreas de Física Teórica, Geofísica, Ciencia de Materiales, Física Médica, Física de Altas Energías, Astronomía y Astrofísica. Los ponentes invitados, fueron exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Chile y Perú. Asimismo, hubo participación de 2 estudiantes de la Universidad Nacional Mayor de San Marcos.</p></h4>
+<h4>II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</h4>
 </section>
+
+<p style='text-align: justify;'>El II Encuentro Científico de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 8, 9 y 10 de enero del 2020. Dicho evento contó con la participación de 3 charlas magistrales, 21 charlas orales, 9 posters presentados y 95 asistentes entre profesionales, estudiantes de física y público en general. Los tópicos de las ponencias correspondieron a las áreas de Física Teórica, Geofísica, Ciencia de Materiales, Física Médica, Física de Altas Energías, Astronomía y Astrofísica. Los ponentes invitados, fueron exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Chile y Perú. Asimismo, hubo participación de 2 estudiantes de la Universidad Nacional Mayor de San Marcos.</p>
 
 <p style='text-align: justify;'><b>Lista de ponentes</b><br>
 <ol>
@@ -58,6 +60,7 @@ Los eventos que fueron organizados por el grupo Cusco Científico son el I ENCUE
 <li> Fernando Ccolque Ttito, Universidad Nacional de San Antonio Abad del Cusco - Perú.</li>
 <li> Milida Zarella Pinto Vergara, Centro de Investigaciones Tecnológicas, Biomédicas y Medioambientales - Perú.</li>
 </ol></p>
+
 
 <b>Libro de resúmenes</b>
 
@@ -89,7 +92,10 @@ Los eventos que fueron organizados por el grupo Cusco Científico son el I ENCUE
 <img src="../img/encefis/Foto_oficial_encefis-2020.jpg">
 </p>
 
-<li><b>I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</b></li>
+<section>
+<h4>I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</h4>
+</section>
+
 <p style='text-align: justify;'> El I Encuentro de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 9 y 10 de enero del 2019. Dicho evento contó con la participación de 14 charlas orales, 2 talleres, 9 posters presentados y 40 asistentes entre profesionales y estudiantes. Los tópicos de las ponencias correspondieron a las áreas de Física Teórica, Física No-lineal, Física Aplicada, Ciencia de Materiales, Física Médica, Física de Altas Energías, Astronomía y Astrofísica. Los ponentes invitados, fueron exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Estados Unidos, Chile y Perú.</p>
 
 <p style='text-align: justify;'><b>Lista de ponentes</b><br>
@@ -132,4 +138,3 @@ Los eventos que fueron organizados por el grupo Cusco Científico son el I ENCUE
 <p align="center"> 
 <img src="../img/encefis/Foto_oficial_encefis-2019.png">
 </p>
-</ul>
