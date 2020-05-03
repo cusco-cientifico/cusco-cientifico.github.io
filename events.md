@@ -110,19 +110,21 @@ El afiche del evento puede ser descargado del siguiente [enlace]().<br>
 
 <b>Libro de resumenes</b><br>
 
-El libro de resumenes puede ser descargado del siguiente <a href="https://www.dropbox.com/s/7mxfdk5zgwgue6e/libro_resumenes_encefis_2019.pdf?dl=0">enlace.</a><br><br>
+<p style='text-align: justify;'>El libro de resumenes puede ser descargado del siguiente <a href="https://www.dropbox.com/s/7mxfdk5zgwgue6e/libro_resumenes_encefis_2019.pdf?dl=0">enlace.</a></p>
 
 <b>Balance</b><br>
 
-El balance é imagenes del evento pueden ser descargados del siguiente <a href="https://www.dropbox.com/s/szxdl9qdokucny9/Balance-encefis-2019.pdf?dl=0">enlace.</a><br><br>
+<p style='text-align: justify;'>El balance é imagenes del evento pueden ser descargados del siguiente <a href="https://www.dropbox.com/s/szxdl9qdokucny9/Balance-encefis-2019.pdf?dl=0">enlace.</a></p>
 
 <b>Agradecimientos</b>
 <p style='text-align: justify;'>Este evento no hubiera sido posible sin contar con la ayuda de Profesores del Departamento Académico de Física - UNSAAC, en especial a la MSc. Miriam Romero y la Mgt. Estela Huamán.</p> 
-<b>Auspiciadores:</b><br>
+
+<b>Auspiciadores:</b>
+<p style='text-align: justify;'>
 <ol>
 <li>Departamento Académico de Física, Facultad de Ciencias Químicas, Físicas y Matemáticas, Universidad Nacional de San Antonio Abad del Cusco.</li>
 <li>Colegio de Físicos del Perú, Consejo Regional Cusco.</li>
-</ol><br>
+</ol></p>
 
 <b>Foto oficial del evento</b>
 
@@ -130,4 +132,3 @@ El balance é imagenes del evento pueden ser descargados del siguiente <a href="
 <img src="../img/encefis/Foto_oficial_encefis-2019.png">
 </p>
 </ul>
-
