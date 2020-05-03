@@ -27,9 +27,7 @@ III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC
 <p style='text-align: justify;'> Los tópicos de las ponencias correspondieron a las áreas de Física Teórica, geofísica, Ciencia de Materiales, Física Médica, Física de Altas Energías, Astronomía y Astrofísica. </p>
 
 <p style='text-align: justify;'> Los ponentes invitados, son exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Chile y Perú. Asimismo, hubo participación de 2 estudiantes de la Universidad Nacional Mayor de San Marcos.</p>
-
 <b>Lista de ponentes</b><br>
-
 <ol>
 <li>Marco A. Zamalloa Jara, Universidad Nacional de San Antonio Abad del Cusco, Perú.</li>
 <li>Ruben Alfredo Tupayachi Latorre, Pontificia Universidad Católica del Perú, Perú.</li>
