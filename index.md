@@ -3,7 +3,7 @@
 
 <!--<img src="img/miembros_cc/imagen_moche.png" title=" " alt="Imagen Moche" /> -->
 <img src="img/404-people.png" title=" " alt="Imagen Moche" />
-## **Pagina en construcción**
+## **Página en construcción**
 
 <p style='text-align: justify;'> “Cusco Científico”, es un grupo de estudiantes egresados de la <a href="http://www.unsaac.edu.pe/"> Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)</a>  de la <a href="http://fi.unsaac.edu.pe/home/"> Escuela Profesional de Física.</a> Los integrantes que conforman el grupo, que actualmente vienen desarrollando sus proyectos de investigación en diferentes áreas de la Física, comparten un fin común que es promover la investigación científica en nuestra región. El grupo se reúne periódicamente a lo largo del año para la toma de decisiones y discusión de asuntos académicos a partir de Octubre del 2018. Debido a que los miembros se encuentran trabajando en diferentes instituciones del Perú y el extranjero las reuniones son llevadas de manera remota.
 </p> 
