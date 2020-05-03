@@ -62,13 +62,13 @@ III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC
 
 El libro de resumenes puede ser descargado del siguiente <a href="https://www.dropbox.com/s/wa05dfyq3om4ehf/libro_resumenes_encefis_2020.pdf?dl=0">enlace.</a><br><br>
 
-<b>Balance del evento</b><br>
+<b>Balance</b><br>
 
 El balance y algunas imagenes del evento pueden ser accesados a través del siguiente <a href="https://www.dropbox.com/s/lpc0oaxw7u17bx4/Balance-encefis-2020.pdf?dl=0">enlace.</a><br><br>
 
 <b>Agradecimientos</b><br>
 
-Este evento no hubiera sido posible sin contar con la ayuda de los Profesores del Departamento Académico de Física - UNSAAC, en especial a la MSc. Miriam Romero, la Mgt. Estela Huamán y Lic. Olintho De La Torre.<br><br>
+<p style='text-align: justify;'>Este evento no hubiera sido posible sin contar con la ayuda de los Profesores del Departamento Académico de Física - UNSAAC, en especial a la MSc. Miriam Romero, la Mgt. Estela Huamán y Lic. Olintho De La Torre.</p> <br><br>
 
 <b>Auspiciadores:</b><br>
 <ol>
@@ -90,7 +90,7 @@ El afiche del evento puede ser descargado del siguiente [enlace]().<br>
 </p>
 
 <li>II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</li>
-</ul>
+
 
 
 
@@ -132,5 +132,5 @@ Este evento no hubiera sido posible sin contar con la ayuda de Profesores del De
 <p align="center"> 
 <img src="../img/encefis/Foto_oficial_encefis-2019.png">
 </p>
-
+</ul>
 
