@@ -19,7 +19,7 @@ III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC
 
 ### Eventos Pasados
 
-1. **ENCEFIS 2020**
+* **ENCEFIS 2020**
 
 II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020) 
 
@@ -89,7 +89,7 @@ El afiche del evento puede ser descargado del siguiente [enlace]().
 <img src="../img/encefis/Foto_oficial_encefis-2020.jpg">
 </p>
 
-2. ENCEFIS 2019
+* **ENCEFIS 2019**
  
 I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2019) 
 
