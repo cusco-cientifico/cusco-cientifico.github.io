@@ -1,6 +1,6 @@
 ---
 title: Miembros
-subtitle: Grupo de personas dedicados a promover la ciencia y tecnología en la región del Cusco
+subtitle: Grupo de personas dedicadas a promover la ciencia y tecnología en la región del Cusco
 executive-board:
   - name: Pedro Amao Cutipa
     img: /img/miembros_cc/einstein.jpg
@@ -14,34 +14,34 @@ executive-board:
     website: http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=eb1d0cece24752bc9571e11b912e?id_investigador=52462
     url: http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=eb1d0cece24752bc9571e11b912e?id_investigador=52462
     <!--github: https://github.com/annecori/-->
-  - name: Soraya Isabel Flores Chalco
+  - name: Soraya Ysabel Flores Chalco
     img: /img/miembros_cc/Soraya_FloresCh.jpg
-    desc: Estudiante de doctorado. Desarrollo de prototipos de sensores químicos amperométricos sensibles y selectivos para la detección y monitoreo de gases contaminantes. Puerto Rico
+    desc: Estudiante de doctorado. Desarrollo de prototipos de sensores químicos amperométricos sensibles y selectivos para la detección y monitoreo de gases contaminantes. San Juan - Puerto Rico - US.
     url: https://www.dropbox.com/s/1t6bieckdsnoz9c/CV_2020_Soraya_Flores.pdf?dl=0
     website: https://www.dropbox.com/s/1t6bieckdsnoz9c/CV_2020_Soraya_Flores.pdf?dl=0
     <!--github: https://github.com/ffinger-->
   - name: Verónica Loaiza Tacuri
     img: /img/miembros_cc/Veronica_LT.png
-    desc: Estudiante de doctorado. Estudio de abundancias químicas de estrellas a través de espectros obtenidos en el infrarojo y visible. Rio de Janeiro-Brasil
+    desc: Estudiante de doctorado. Estudio de abundancias químicas de estrellas a través de espectros obtenidos en el infrarrojo y visible. Rio de Janeiro-Brasil
     website: https://www.dropbox.com/s/o0h6ata4kz0iy65/CV.pdf?dl=0
     url: https://www.dropbox.com/s/o0h6ata4kz0iy65/CV.pdf?dl=0
     <!--github: https://github.com/thibautjombart/-->
     <!--twitter: https://twitter.com/TeebzR-->
   - name: Elluz Pacheco Cabrera
     img: /img/miembros_cc/ElluzPC.jpg
-    desc: Estudiante de doctorado. Estudio de nubes moleculares a través de espectros obtenidos por el telescópio Arecibo. Puerto Rico.
+    desc: Estudiante de doctorado. Estudio de nubes moleculares a través de espectros obtenidos por el radiotelescópio de Arecibo. San Juan - Puerto Rico - US.
     website: https://www.dropbox.com/s/ahlvxybzwfdnsvc/ELLUZ_PACHECO_CV.pdf?dl=0
     url: https://www.dropbox.com/s/ahlvxybzwfdnsvc/ELLUZ_PACHECO_CV.pdf?dl=0
   - name: Milida Zarella Pinto Vergara
     img: /img/miembros_cc/Milida.png
-    desc: Candidada a Dr. Directora del grupo Cusco Científico. Fabricación y caracterización de películas delgadas mediante la técnica de magnetron sputtering. Lima-Perú.
+    desc: Candidada al grado de doctor. Fabricación y caracterización de películas delgadas mediante la técnica de <i>magnetron sputtering</i>. Lima-Perú.
     website: https://drive.google.com/file/d/1UeBw81zdWBVNH5N9lTLelShnUE9NgSSg/view?usp=sharing
     url: https://drive.google.com/file/d/1UeBw81zdWBVNH5N9lTLelShnUE9NgSSg/view?usp=sharing
     <!--twitter: https://twitter.com/drgregmartin-->
     <!--github: https://github.com/drgregmartin-->
   - name: Fredi Quispe Huaynasi
     img: /img/miembros_cc/Fredi_Photo1.jpg.png
-    desc: Estudiante de doctorado. Busqueda, caracterización e integración de órbitas de estrellas de hipervelocidad en la Galaxia. Rio de Janeiro-Brasil.
+    desc: Estudiante de doctorado. Búsqueda, caracterización e integración de órbitas de estrellas de hipervelocidad en la Galaxia. Rio de Janeiro-Brasil.
     website: https://www.dropbox.com/s/2a8nw8u0ydqx81m/Curriculum_Vitae_Fredi_Quispe_H.pdf?dl=0
     github: https://github.com/fredifqh
     url: https://www.dropbox.com/s/2a8nw8u0ydqx81m/Curriculum_Vitae_Fredi_Quispe_H.pdf?dl=0
@@ -53,19 +53,19 @@ executive-board:
     url: https://drive.google.com/open?id=1-p1-HYUchjKBiC-Mxi2PXecxF_fb1KIN
 advisory-board:
   - name: Olintho de la Torre 
-    img: /img/people/gregory-armstrong.jpg
+    <!--img: /img/people/gregory-armstrong.jpg
     desc: Director of the Advanced Molecular Detection initiative, with extensive experience in epidemiology and outbreak response at CDC, Atlanta, USA.
     website: http://www.cdc.gov/amd/
     url: http://www.cdc.gov/amd/
-    twitter: https://twitter.com/CDC_AMD
+    twitter: https://twitter.com/CDC_AMD-->
 members:
   - name: David Choque Quispe
-    img: /img/people/dean-attali.jpg
+    <!--img: /img/people/dean-attali.jpg
     desc: Web and R developer, designer of the RECON website. AttaliTech, Canada.
     website: http://deanattali.com/
     url: http://deanattali.com/
     github: https://github.com/daattali/
-    twitter: https://twitter.com/daattali
+    twitter: https://twitter.com/daattali-->
 ---
 
 
@@ -85,7 +85,7 @@ Miembros que colaboran como ponentes durante los eventos académicos (ENCEFIS) o
 
 
 
-## Colaboradores externos
+## Colaboradores UNSAAC
 
 We are extremely lucky to have the following people supporting and guiding our efforts:
 

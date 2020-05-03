@@ -13,7 +13,7 @@ title: Eventos
 
 ### Próximos Eventos
 
-III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC (ENCIEFIS 2020)
+III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC
 
 <!--[Link de inscripción](https://docs.google.com/forms/d/e/1FAIpQLScDOYWfKQJMzF0tG4nuV0miR1KvWN35XfXTssgq9pKAFtfp0g/viewform)-->
 
@@ -88,7 +88,6 @@ El afiche del evento puede ser descargado del siguiente [enlace]().
 <p align="center"> 
 <img src="../img/encefis/Foto_oficial_encefis-2020.jpg">
 </p>
-
 
 ### ENCEFIS 2019
  
