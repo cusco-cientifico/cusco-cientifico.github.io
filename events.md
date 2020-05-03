@@ -18,7 +18,7 @@ III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC
 <!--[Link de inscripción](https://docs.google.com/forms/d/e/1FAIpQLScDOYWfKQJMzF0tG4nuV0miR1KvWN35XfXTssgq9pKAFtfp0g/viewform)-->
 
 <section>
-  <h2>Eventos Pasados</h2>
+  <h1>Eventos Pasados</h1>
 </section>
 
 Los eventos que fueron organizados por el grupo Cusco Científico son el I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA y II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA los que son descritos en detalle a continuación: 
