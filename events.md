@@ -61,11 +61,11 @@ III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC
 
 <b>Libro de resumenes</b>
 
-El libro de resumenes puede ser descargado del siguiente [enlace](https://www.dropbox.com/s/wa05dfyq3om4ehf/libro_resumenes_encefis_2020.pdf?dl=0).
+El libro de resumenes puede ser descargado del siguiente <a href="https://www.dropbox.com/s/wa05dfyq3om4ehf/libro_resumenes_encefis_2020.pdf?dl=0">enlace.</a>
 
 <b>Balance del evento</b>
 
-El balance y algunas imagenes del evento pueden ser accesados a través del siguiente [enlace](https://www.dropbox.com/s/lpc0oaxw7u17bx4/Balance-encefis-2020.pdf?dl=0).
+El balance y algunas imagenes del evento pueden ser accesados a través del siguiente <a href="https://www.dropbox.com/s/lpc0oaxw7u17bx4/Balance-encefis-2020.pdf?dl=0">enlace.</a>
 
 <b>Agradecimientos</b>
 
