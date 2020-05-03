@@ -89,45 +89,46 @@ El afiche del evento puede ser descargado del siguiente [enlace]().<br>
 <img src="../img/encefis/Foto_oficial_encefis-2020.jpg">
 </p>
 
-<li>II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</li>
-
-
-
+<li>I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</li><br>
 
 <p style='text-align: justify;'> El 1 er Encuentro de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 9 y 10 de enero del 2019. Dicho evento contó con la participación de 14 charlas orales, 2 talleres, 9 posters presentados y 40 asistentes entre profesionales y estudiantes. Los tópicos de las ponencias correspondieron a las áreas de Física Teórica, Física No-lineal, Física Aplicada, Ciencia de Materiales, Física Médica, Física de Altas Energías, Astronomía y Astrofísica. Los ponentes invitados, son exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Estados Unidos, Chile y Perú. El comité organizador, estuvo conformado por el comité local, comité de exalumnos y el comité científico. El afiche del evento puede ser descargado del siguiente [enlace]().</p>
 
-#### Lista de ponentes
+<b>Lista de ponentes</b><br>
+<ol>
+<ul>Ruben Auccaise, Universidade Estadual de Ponta Grossa - Brasil.</ul>
+<ul>Pedro Amao Cutipa, Pontificia Universidad Católica del Perú - Perú.</ul>
+<ul>David Choque Quispe, Universidad Adolfo Ibañez - Chile.</ul>
+<ul>Gustavo Cuba Supanta, Universidad Nacional Mayor de San Marcos - Perú.</ul>
+<ul>Milida Z. Pinto Vergara, Universidad Nacional Mayor de San Marcos - Perú.</ul>
+<ul>David W. Puma Ttito, Universidad Nacional de Ingeniería - Perú.</ul>
+<ul>Verónica Loaiza Tacuri, Observatorio Nacional - Brasil.</ul>
+<ul>Fredi Quispe Huaynasi, Observatorio Nacional - Brasil.</ul>
+<ul>Milton Rojas Gamarra, Universidad Nacional Mayor de San Marcos - Perú.</ul>
+<ul> Elluz Pacheco Cabrera, Universidad de Puerto Rico, Rio Piedras - Puerto Rico.</ul>
+<ul> John Michael Briceño, Elekta - Estados Unidos.</ul>
+<ul> Carlos Soncco Meza, Pontificia Universidad Católica del Perú - Perú.</ul>
+<ul> Fabiola Jara Caytuiro, Universidad Nacional de Ingeniería - Perú.</ul>
+</ol><br>
 
-1. Ruben Auccaise, Universidade Estadual de Ponta Grossa - Brasil.
-2. Pedro Amao Cutipa, Pontificia Universidad Católica del Perú - Perú.
-3. David Choque Quispe, Universidad Adolfo Ibañez - Chile.
-4. Gustavo Cuba Supanta, Universidad Nacional Mayor de San Marcos - Perú.
-5. Milida Z. Pinto Vergara, Universidad Nacional Mayor de San Marcos - Perú.
-6. David W. Puma Ttito, Universidad Nacional de Ingeniería - Perú.
-7. Verónica Loaiza Tacuri, Observatorio Nacional - Brasil.
-8. Fredi Quispe Huaynasi, Observatorio Nacional - Brasil.
-9. Milton Rojas Gamarra, Universidad Nacional Mayor de San Marcos - Perú.
-10. Elluz Pacheco Cabrera, Universidad de Puerto Rico, Rio Piedras - Puerto Rico.
-11. John Michael Briceño, Elekta - Estados Unidos.
-12. Carlos Soncco Meza, Pontificia Universidad Católica del Perú - Perú.
-13. Fabiola Jara Caytuiro, Universidad Nacional de Ingeniería - Perú.
+<b>Libro de resumenes</b><br>
 
-#### Libro de resumenes
+El libro de resumenes puede ser descargado del siguiente [enlace](https://www.dropbox.com/s/7mxfdk5zgwgue6e/libro_resumenes_encefis_2019.pdf?dl=0).<br><br>
 
-El libro de resumenes puede ser descargado del siguiente [enlace](https://www.dropbox.com/s/7mxfdk5zgwgue6e/libro_resumenes_encefis_2019.pdf?dl=0).
+<b>Balance</b><br>
 
-#### Balance del evento
+El balance é imagenes del evento pueden ser descargados del siguiente [enlace](https://www.dropbox.com/s/szxdl9qdokucny9/Balance-encefis-2019.pdf?dl=0).<br><br>
 
-El balance é imagenes del evento pueden ser descargados del siguiente [enlace](https://www.dropbox.com/s/szxdl9qdokucny9/Balance-encefis-2019.pdf?dl=0).
+<b>Agradecimientos</b><br>	
 
-#### Agradecimientos
+<p style='text-align: justify;'>Este evento no hubiera sido posible sin contar con la ayuda de Profesores del Departamento Académico de Física - UNSAAC, en especial a la MSc. Miriam Romero y la Mgt. Estela Huamán.</p> 
 
-Este evento no hubiera sido posible sin contar con la ayuda de Profesores del Departamento Académico de Física - UNSAAC, en especial a la MSc. Miriam Romero y la Mgt. Estela Huamán. Auspiciadores: (se podrían colocar los logos) 
+<b>Auspiciadores:</b><br>
+<ol>
+<ul>Departamento Académico de Física, Facultad de Ciencias Químicas, Físicas y Matemáticas, Universidad Nacional de San Antonio Abad del Cusco.</ul>
+<ul>Colegio de Físicos del Perú, Consejo Regional Cusco.</ul>
+</ol><br>
 
-1. Departamento Académico de Física, Facultad de Ciencias Químicas, Físicas y Matemáticas, Universidad Nacional de San Antonio Abad del Cusco.
-2. Colegio de Físicos del Perú, Consejo Regional Cusco.
-
-#### Foto oficial del evento
+<b>Foto oficial del evento</b>
 
 <p align="center"> 
 <img src="../img/encefis/Foto_oficial_encefis-2019.png">
