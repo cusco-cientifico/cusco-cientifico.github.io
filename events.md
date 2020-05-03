@@ -17,7 +17,11 @@ III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC
 
 <!--[Link de inscripción](https://docs.google.com/forms/d/e/1FAIpQLScDOYWfKQJMzF0tG4nuV0miR1KvWN35XfXTssgq9pKAFtfp0g/viewform)-->
 
-### Eventos Pasados
+<section>
+  <h2>Eventos Pasados</h2>
+</section>
+
+Los eventos que fueron organizados por el grupo Cusco Científico son el I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA y II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA los que son descritos en detalle a continuación: 
 
 <ul style="list-style-type:disc;"> 
 <li><b>II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</b></li>
