@@ -5,22 +5,15 @@
 <img src="img/404-people.png" title=" " alt="Imagen Moche" />
 ## **Pagina en construcción**
 
-<p style='text-align: justify;'> “Cusco Científico”, es un grupo de estudiantes egresados de la <a href="http://www.unsaac.edu.pe/"> Universidad Nacional de San Antonio Abad del Cusco (UNSAAC) </a>  de la <a href="http://fi.unsaac.edu.pe/home/"> Escuela Profesional de Física </a>. Los integrantes que conforman el grupo, que actualmente vienen desarrollando sus proyectos de investigación en diferentes áreas de la Física, comparten un fin común que es promover la investigación científica en nuestra región. El grupo se reúne periódicamente a lo largo del año para la toma de decisiones y discusión de asuntos académicos a partir de Octubre del 2018. Debido a que los miembros se encuentran trabajando en diferentes instituciones del Perú y el extranjero las reuniones son llevadas de manera remota.
+<p style='text-align: justify;'> “Cusco Científico”, es un grupo de estudiantes egresados de la <a href="http://www.unsaac.edu.pe/"> Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)</a>  de la <a href="http://fi.unsaac.edu.pe/home/"> Escuela Profesional de Física.</a> Los integrantes que conforman el grupo, que actualmente vienen desarrollando sus proyectos de investigación en diferentes áreas de la Física, comparten un fin común que es promover la investigación científica en nuestra región. El grupo se reúne periódicamente a lo largo del año para la toma de decisiones y discusión de asuntos académicos a partir de Octubre del 2018. Debido a que los miembros se encuentran trabajando en diferentes instituciones del Perú y el extranjero las reuniones son llevadas de manera remota.
 </p> 
-
-<p style='text-align: justify;'> Con este objetivo se organizó dos eventos “1er y 2do Encuentro Científico de ex-alumnos de Física”  en los años 2019 y 2020 respectivamente, en las cuales se llevó a cabo charlas, talleres y sesiones de pósters en las diferentes áreas de la Física entre ellas: Astronomía, Astrofísica, Astroquímica, Física de Materiales, Física Teórica y Física de Altas Energías. </p>
-
-<p style='text-align: justify;'> Estos dos primeros eventos brindó a los participantes la oportunidad de intercambiar información, así como también identificar nuevos desafíos en las diversas áreas de la Física para comenzar a fortalecer un apoyo mutuo. </p>
-
 
 ## **Objetivos del grupo**
 
-1. Incentivar y fomentar un vínculo de colaboración entre estudiantes, docentes y ex-alumnos de Física - UNSAAC, teniendo como fin común la investigación científica.
-2. Intercambiar y/o compartir la información, experiencias académicas y temas  afines entre los miembros integrantes del grupo.
-3. Desarrollar y promover colaboraciones y proyectos para el beneficio de los miembros del grupo.
-4. Identificar necesidades y desafíos de nuestra Alma Máter, en las diversas áreas de la Física para fortalecer el apoyo mutuo con docentes y estudiantes. 
-5. Fomentar la amistad y el compañerismo entre los miembros del grupo y otros ex-alumnos de Física.
-
+1. Intercambiar y/o compartir información, experiencias académicas y temas afines entre los miembros integrantes del grupo.
+2. Desarrollar proyectos de investigación y promover la colaboración entre los miembros del grupo.
+3. Incentivar y fomentar un vínculo de colaboración entre estudiantes, docentes y ex-alumnos de Física de la UNSAAC, teniendo como fin común la investigación científica.
+4. Divulgación científica a través de eventos científicos, diferentes redes sociales y medios de comunicación.
 
 <!--The **R** **E**pidemics **Con**sortium (RECON) is an international
 not-for-profit, **non-governmental organisation** gathering experts in data
