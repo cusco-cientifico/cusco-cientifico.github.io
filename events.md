@@ -118,14 +118,14 @@ El libro de resumenes puede ser descargado del siguiente <a href="https://www.dr
 
 El balance é imagenes del evento pueden ser descargados del siguiente <a href="https://www.dropbox.com/s/szxdl9qdokucny9/Balance-encefis-2019.pdf?dl=0">enlace.</a><br><br>
 
-<b>Agradecimientos</b><br>	
+<b>Agradecimientos</b>
 
 <p style='text-align: justify;'>Este evento no hubiera sido posible sin contar con la ayuda de Profesores del Departamento Académico de Física - UNSAAC, en especial a la MSc. Miriam Romero y la Mgt. Estela Huamán.</p> 
 
 <b>Auspiciadores:</b><br>
 <ol>
-<ul>Departamento Académico de Física, Facultad de Ciencias Químicas, Físicas y Matemáticas, Universidad Nacional de San Antonio Abad del Cusco.</ul>
-<ul>Colegio de Físicos del Perú, Consejo Regional Cusco.</ul>
+<li>Departamento Académico de Física, Facultad de Ciencias Químicas, Físicas y Matemáticas, Universidad Nacional de San Antonio Abad del Cusco.</li>
+<li>Colegio de Físicos del Perú, Consejo Regional Cusco.</li>
 </ol><br>
 
 <b>Foto oficial del evento</b>
