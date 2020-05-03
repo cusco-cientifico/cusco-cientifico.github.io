@@ -53,7 +53,6 @@ executive-board:
     url: https://drive.google.com/open?id=1-p1-HYUchjKBiC-Mxi2PXecxF_fb1KIN
 ---
 
-
 ## Miembros áctivos
 
 Miembros áctivos del grupo Cusco Científico
@@ -63,8 +62,5 @@ Miembros áctivos del grupo Cusco Científico
 ## Miembros externos
 
 Miembros que colaboran como ponentes durante los eventos académicos (ENCEFIS) organizado por el grupo Cusco Científico
-<!--{% include list-circles.html items=page.members %}-->
 
 ## Colaboradores UNSAAC
-<!--{% include list-circles.html items=page.advisory-board %}-->
-
