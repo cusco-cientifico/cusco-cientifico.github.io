@@ -51,10 +51,10 @@ executive-board:
     website: https://drive.google.com/open?id=1-p1-HYUchjKBiC-Mxi2PXecxF_fb1KIN 
     <!--github: https://github.com/fredifqh-->
     url: https://drive.google.com/open?id=1-p1-HYUchjKBiC-Mxi2PXecxF_fb1KIN
-advisory-board:
+<!--advisory-board:
   - name: Olintho de la Torre 
 members:
-  - name: David Choque Quispe
+  - name: David Choque Quispe-->
 ---
 
 
@@ -64,20 +64,11 @@ Miembros áctivos del grupo Cusco Científico
 
 {% include list-circles.html items=page.executive-board %}
 
-
-
 ## Miembros externos
 
 Miembros que colaboran como ponentes durante los eventos académicos (ENCEFIS) organizado por el grupo Cusco Científico
-{% include items=page.members %}
 <!--{% include list-circles.html items=page.members %}-->
 
-
-
 ## Colaboradores UNSAAC
-
-<!--We are extremely lucky to have the following people supporting and guiding our efforts:-->
-
-{% include items=page.advisory-board %}
 <!--{% include list-circles.html items=page.advisory-board %}-->
 
