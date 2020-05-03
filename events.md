@@ -20,10 +20,7 @@ III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC
 ### Eventos Pasados
 
 <ul style="list-style-type:disc;">
-	<li><b>ENCEFIS 2020</b></li>
-
-
-II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020) 
+<li><b>II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</b></li>
 
 <p style='text-align: justify;'>  El II Encuentro Científico de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 8, 9 y 10 de enero del 2020. Dicho evento contó con la participación de 3 charlas magistrales, 21 charlas orales, 9 posters presentados y 95 asistentes entre profesionales, estudiantes de física y público en general. El afiche del evento puede ser descargado del siguiente [enlace]()</p>
 
@@ -62,41 +59,41 @@ II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)
 <li> Milida Zarella Pinto Vergara, Centro de Investigaciones Tecnológicas, Biomédicas y Medioambientales - Perú.</li>
 </ol>
 
-#### Libro de resumenes
+<b>Libro de resumenes</b>
 
 El libro de resumenes puede ser descargado del siguiente [enlace](https://www.dropbox.com/s/wa05dfyq3om4ehf/libro_resumenes_encefis_2020.pdf?dl=0).
 
-#### Balance del evento
+<b>Balance del evento</b>
 
 El balance y algunas imagenes del evento pueden ser accesados a través del siguiente [enlace](https://www.dropbox.com/s/lpc0oaxw7u17bx4/Balance-encefis-2020.pdf?dl=0).
 
-#### Agradecimientos
+<b>Agradecimientos</b>
 
 Este evento no hubiera sido posible sin contar con la ayuda de los Profesores del Departamento Académico de Física - UNSAAC, en especial a la MSc. Miriam Romero, la Mgt. Estela Huamán y Lic. Olintho De La Torre. 
 
-#### Auspiciadores: (se podrían colocar los logos) 
-
-1. Departamento Académico de Física
-2. Facultad de Ciencias Químicas, Físicas y Matemáticas, Universidad Nacional de San Antonio Abad del Cusco.
-3. Colegio de Físicos del Perú, Consejo Regional Cusco.
-4. IOP Publishing.
-5. Centro de Investigaciones Tecnológicas, Biomédicas y Medioambientales.
-6. Sociedad Peruana de Física.
-7. Industrial Science & Technology EIRL, SOluciones Analíticas para la Ciencia y la Industria.
-
+<b>Auspiciadores:</b> 
+<ol>
+<li>Departamento Académico de Física</li>
+<li>Facultad de Ciencias Químicas, Físicas y Matemáticas, Universidad Nacional de San Antonio Abad del Cusco.</li>
+<li>Colegio de Físicos del Perú, Consejo Regional Cusco.</li>
+<li>IOP Publishing.</li>
+<li>Centro de Investigaciones Tecnológicas, Biomédicas y Medioambientales.</li>
+<li>Sociedad Peruana de Física.</li>
+<li>Industrial Science & Technology EIRL, SOluciones Analíticas para la Ciencia y la Industria.</li>
+</ol>
 
 El afiche del evento puede ser descargado del siguiente [enlace]().
 
-#### Foto oficial del evento
+<b>Foto oficial del evento</b>
 
 <p align="center"> 
 <img src="../img/encefis/Foto_oficial_encefis-2020.jpg">
 </p>
 
-<li>ENCEFIS 2019</li>
-</ol>
- 
-I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2019) 
+<li>II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</li>
+</ul>
+
+
 
 <p style='text-align: justify;'> El 1 er Encuentro de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 9 y 10 de enero del 2019. Dicho evento contó con la participación de 14 charlas orales, 2 talleres, 9 posters presentados y 40 asistentes entre profesionales y estudiantes. Los tópicos de las ponencias correspondieron a las áreas de Física Teórica, Física No-lineal, Física Aplicada, Ciencia de Materiales, Física Médica, Física de Altas Energías, Astronomía y Astrofísica. Los ponentes invitados, son exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Estados Unidos, Chile y Perú. El comité organizador, estuvo conformado por el comité local, comité de exalumnos y el comité científico. El afiche del evento puede ser descargado del siguiente [enlace]().</p>
 
