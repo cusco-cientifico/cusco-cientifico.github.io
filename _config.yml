@@ -11,11 +11,11 @@ navbar-links:
   Acerca de:
     - Que hacemos: ""
     #- Join us: "join"
-    - Contactanos: "contact"
+    - Contáctanos: "contact"
     #- Code of Conduct: "CODE_OF_CONDUCT"
   Areas: 
     - Astronomía y Astrofísica: "astronomia_astrofisica"
-    - Ciencia de los Materiales: "ciencia_materiales"
+    - Ciencia de Materiales: "ciencia_materiales"
     - Física Teórica: "fisica_teorica"
     - Física de Altas Energías: "altas_energias"
   Miembros: "people"
