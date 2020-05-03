@@ -81,7 +81,7 @@ Miembros áctivos del grupo Cusco Científico
 
 Miembros que colaboran como ponentes durante los eventos académicos (ENCEFIS) organizado por el grupo Cusco Científico
 
-{% include list-circles.html items=page.members %}
+<!--{% include list-circles.html items=page.members %}-->
 
 
 
@@ -89,5 +89,5 @@ Miembros que colaboran como ponentes durante los eventos académicos (ENCEFIS) o
 
 <!--We are extremely lucky to have the following people supporting and guiding our efforts:-->
 
-{% include list-circles.html items=page.advisory-board %}
+<!--{% include list-circles.html items=page.advisory-board %}>
 
