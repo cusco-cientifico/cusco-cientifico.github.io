@@ -95,19 +95,19 @@ El afiche del evento puede ser descargado del siguiente [enlace]().<br>
 
 <b>Lista de ponentes</b><br>
 <ol>
-<ul>Ruben Auccaise, Universidade Estadual de Ponta Grossa - Brasil.</ul>
-<ul>Pedro Amao Cutipa, Pontificia Universidad Católica del Perú - Perú.</ul>
-<ul>David Choque Quispe, Universidad Adolfo Ibañez - Chile.</ul>
-<ul>Gustavo Cuba Supanta, Universidad Nacional Mayor de San Marcos - Perú.</ul>
-<ul>Milida Z. Pinto Vergara, Universidad Nacional Mayor de San Marcos - Perú.</ul>
-<ul>David W. Puma Ttito, Universidad Nacional de Ingeniería - Perú.</ul>
-<ul>Verónica Loaiza Tacuri, Observatorio Nacional - Brasil.</ul>
-<ul>Fredi Quispe Huaynasi, Observatorio Nacional - Brasil.</ul>
-<ul>Milton Rojas Gamarra, Universidad Nacional Mayor de San Marcos - Perú.</ul>
-<ul> Elluz Pacheco Cabrera, Universidad de Puerto Rico, Rio Piedras - Puerto Rico.</ul>
-<ul> John Michael Briceño, Elekta - Estados Unidos.</ul>
-<ul> Carlos Soncco Meza, Pontificia Universidad Católica del Perú - Perú.</ul>
-<ul> Fabiola Jara Caytuiro, Universidad Nacional de Ingeniería - Perú.</ul>
+<li>Ruben Auccaise, Universidade Estadual de Ponta Grossa - Brasil.</li>
+<li>Pedro Amao Cutipa, Pontificia Universidad Católica del Perú - Perú.</li>
+<li>David Choque Quispe, Universidad Adolfo Ibañez - Chile.</li>
+<li>Gustavo Cuba Supanta, Universidad Nacional Mayor de San Marcos - Perú.</li>
+<li>Milida Z. Pinto Vergara, Universidad Nacional Mayor de San Marcos - Perú.</li>
+<li>David W. Puma Ttito, Universidad Nacional de Ingeniería - Perú.</li>
+<li>Verónica Loaiza Tacuri, Observatorio Nacional - Brasil.</li>
+<li>Fredi Quispe Huaynasi, Observatorio Nacional - Brasil.</li>
+<li>Milton Rojas Gamarra, Universidad Nacional Mayor de San Marcos - Perú.</li>
+<li> Elluz Pacheco Cabrera, Universidad de Puerto Rico, Rio Piedras - Puerto Rico.</li>
+<li> John Michael Briceño, Elekta - Estados Unidos.</li>
+<li> Carlos Soncco Meza, Pontificia Universidad Católica del Perú - Perú.</li>
+<li> Fabiola Jara Caytuiro, Universidad Nacional de Ingeniería - Perú.</li>
 </ol><br>
 
 <b>Libro de resumenes</b><br>
