@@ -9,7 +9,7 @@ title: Eventos
 
 ### **Descripción**
 
-<p style='text-align: justify;'> Este evento posee un programa de conferencias magistrales, charlas, sesión de pósters, talleres y mesa redonda a cargo de exalumnos que vienen realizando sus estudios de posgrado y trabajos de investigación en diferentes instituciones nacionales y del extranjero. Estos eventos se vienen realizando con ayuda de docentes del departamento académico de Física. </p>
+<p style='text-align: justify;'> Este evento posee un programa de conferencias magistrales, charlas, sesión de pósters, talleres y mesa redonda a cargo de exalumnos que vienen realizando sus estudios de posgrado y trabajos de investigación en diferentes instituciones nacionales y del extranjero. Estos eventos se vienen realizando con ayuda de docentes del departamento académico de Física UNSAAC.</p>
 
 ### Próximos Eventos
 
@@ -22,18 +22,17 @@ III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC
 <ul style="list-style-type:disc;"> 
 <li><b>II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</b></li>
 <p style='text-align: justify;'> 
-El II Encuentro Científico de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 8, 9 y 10 de enero del 2020. Dicho evento contó con la participación de 3 charlas magistrales, 21 charlas orales, 9 posters presentados y 95 asistentes entre profesionales, estudiantes de física y público en general. Los tópicos de las ponencias correspondieron a las áreas de Física Teórica, geofísica, Ciencia de Materiales, Física Médica, Física de Altas Energías, Astronomía y Astrofísica. Los ponentes invitados, son exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Chile y Perú. Asimismo, hubo participación de 2 estudiantes de la Universidad Nacional Mayor de San Marcos.</p>
+El II Encuentro Científico de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 8, 9 y 10 de enero del 2020. Dicho evento contó con la participación de 3 charlas magistrales, 21 charlas orales, 9 posters presentados y 95 asistentes entre profesionales, estudiantes de física y público en general. Los tópicos de las ponencias correspondieron a las áreas de Física Teórica, Geofísica, Ciencia de Materiales, Física Médica, Física de Altas Energías, Astronomía y Astrofísica. Los ponentes invitados, fueron exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Chile y Perú. Asimismo, hubo participación de 2 estudiantes de la Universidad Nacional Mayor de San Marcos.</p>
 
 <p style='text-align: justify;'><b>Lista de ponentes</b><br>
 <ol>
 <li>Marco A. Zamalloa Jara, Universidad Nacional de San Antonio Abad del Cusco, Perú.</li>
 <li>Ruben Alfredo Tupayachi Latorre, Pontificia Universidad Católica del Perú, Perú.</li>
 <li>Henry Holguin Gallegos, Universidad Nacional de San Antonio Abad del Cusco, Perú.</li>
-<li>Hernán Joel Cervantes R., Instituto de Física, Universidade de São Paulo - Brasil.</li>
+<li>Hernán Joel Cervantes R., Instituto de Física, Universidad de São Paulo - Brasil.</li>
 <li>Gladis Vera Singuña, Universidad Nacional de San Antonio Abad del Cusco - Perú.</li>
 <li>Hermelinda Hanampa Roque, Universidad Nacional de San Antonio Abad del Cusco - Perú.</li>
 <li>Joseph O. Ricaldi Sarapura, Universidad Nacional del Centro del Perú - Perú.</li>
-<li>Wilbert L. Calluco Espinoza, Universidad Nacional de Ingeniería - Perú.</li>
 <li>Gustavo Cuba Supanta, Universidad Nacional Mayor de San Marcos - Perú.</li>
 <li> Soraya Y. Flores Chalco, Universidad de Puerto Rico, Río Piedras - Puerto Rico.</li>
 <li> Abraham Aslla Quispe, Universidad Federal de Uberlandia - Brasil.</li>
@@ -54,13 +53,13 @@ El II Encuentro Científico de Exalumnos de Física UNSAAC, se llevó a cabo en 
 <li> Milida Zarella Pinto Vergara, Centro de Investigaciones Tecnológicas, Biomédicas y Medioambientales - Perú.</li>
 </ol></p>
 
-<b>Libro de resumenes</b>
+<b>Libro de resúmenes</b>
 
-<p style='text-align: justify;'>El libro de resumenes puede ser descargado del siguiente <a href="https://www.dropbox.com/s/wa05dfyq3om4ehf/libro_resumenes_encefis_2020.pdf?dl=0">enlace.</a></p>
+<p style='text-align: justify;'>El libro de resúmenes puede ser descargado del siguiente <a href="https://www.dropbox.com/s/wa05dfyq3om4ehf/libro_resumenes_encefis_2020.pdf?dl=0">enlace.</a></p>
 
 <b>Balance</b><br>
 
-<p style='text-align: justify;'>El balance y algunas imagenes del evento pueden ser accesados a través del siguiente <a href="https://www.dropbox.com/s/lpc0oaxw7u17bx4/Balance-encefis-2020.pdf?dl=0">enlace.</a></p>
+<p style='text-align: justify;'>El balance y algunas imágenes del evento pueden ser accesadas a través del siguiente <a href="https://www.dropbox.com/s/lpc0oaxw7u17bx4/Balance-encefis-2020.pdf?dl=0">enlace.</a></p>
 
 <b>Agradecimientos</b>
 
@@ -75,7 +74,7 @@ El II Encuentro Científico de Exalumnos de Física UNSAAC, se llevó a cabo en 
 <li>IOP Publishing.</li>
 <li>Centro de Investigaciones Tecnológicas, Biomédicas y Medioambientales.</li>
 <li>Sociedad Peruana de Física.</li>
-<li>Industrial Science & Technology EIRL, SOluciones Analíticas para la Ciencia y la Industria.</li>
+<li>Industrial Science & Technology EIRL, Soluciones Analíticas para la Ciencia y la Industria.</li>
 </ol></p>
 
 <b>Foto oficial del evento</b><br>
@@ -85,11 +84,11 @@ El II Encuentro Científico de Exalumnos de Física UNSAAC, se llevó a cabo en 
 </p>
 
 <li><b>I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</b></li>
-<p style='text-align: justify;'> El 1 er Encuentro de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 9 y 10 de enero del 2019. Dicho evento contó con la participación de 14 charlas orales, 2 talleres, 9 posters presentados y 40 asistentes entre profesionales y estudiantes. Los tópicos de las ponencias correspondieron a las áreas de Física Teórica, Física No-lineal, Física Aplicada, Ciencia de Materiales, Física Médica, Física de Altas Energías, Astronomía y Astrofísica. Los ponentes invitados, son exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Estados Unidos, Chile y Perú. El comité organizador, estuvo conformado por el comité local, comité de exalumnos y el comité científico.</p>
+<p style='text-align: justify;'> El I Encuentro de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 9 y 10 de enero del 2019. Dicho evento contó con la participación de 14 charlas orales, 2 talleres, 9 posters presentados y 40 asistentes entre profesionales y estudiantes. Los tópicos de las ponencias correspondieron a las áreas de Física Teórica, Física No-lineal, Física Aplicada, Ciencia de Materiales, Física Médica, Física de Altas Energías, Astronomía y Astrofísica. Los ponentes invitados, fueron exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Estados Unidos, Chile y Perú.</p>
 
 <p style='text-align: justify;'><b>Lista de ponentes</b><br>
 <ol>
-<li>Ruben Auccaise, Universidade Estadual de Ponta Grossa - Brasil.</li>
+<li>Ruben Auccaise, Universidad Estadual de Ponta Grossa - Brasil.</li>
 <li>Pedro Amao Cutipa, Pontificia Universidad Católica del Perú - Perú.</li>
 <li>David Choque Quispe, Universidad Adolfo Ibañez - Chile.</li>
 <li>Gustavo Cuba Supanta, Universidad Nacional Mayor de San Marcos - Perú.</li>
@@ -97,16 +96,16 @@ El II Encuentro Científico de Exalumnos de Física UNSAAC, se llevó a cabo en 
 <li>David W. Puma Ttito, Universidad Nacional de Ingeniería - Perú.</li>
 <li>Verónica Loaiza Tacuri, Observatorio Nacional - Brasil.</li>
 <li>Fredi Quispe Huaynasi, Observatorio Nacional - Brasil.</li>
-<li>Milton Rojas Gamarra, Universidad Nacional Mayor de San Marcos - Perú.</li>
+<li>Milton Rojas Gamarra, Universidad Nacional de San Antonio Abad del Cusco - Perú.</li>
 <li> Elluz Pacheco Cabrera, Universidad de Puerto Rico, Rio Piedras - Puerto Rico.</li>
 <li> John Michael Briceño, Elekta - Estados Unidos.</li>
 <li> Carlos Soncco Meza, Pontificia Universidad Católica del Perú - Perú.</li>
 <li> Fabiola Jara Caytuiro, Universidad Nacional de Ingeniería - Perú.</li>
 </ol></p>
 
-<b>Libro de resumenes</b><br>
+<b>Libro de resúmenes</b><br>
 
-<p style='text-align: justify;'>El libro de resumenes puede ser descargado del siguiente <a href="https://www.dropbox.com/s/7mxfdk5zgwgue6e/libro_resumenes_encefis_2019.pdf?dl=0">enlace.</a></p>
+<p style='text-align: justify;'>El libro de resúmenes puede ser descargado del siguiente <a href="https://www.dropbox.com/s/7mxfdk5zgwgue6e/libro_resumenes_encefis_2019.pdf?dl=0">enlace.</a></p>
 
 <b>Balance</b><br>
 
