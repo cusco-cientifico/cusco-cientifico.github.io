@@ -30,34 +30,60 @@ II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)
 
 <p style='text-align: justify;'> Los ponentes invitados, son exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Chile y Perú. Asimismo, hubo participación de 2 estudiantes de la Universidad Nacional Mayor de San Marcos. </p>
 
-#### Lista de ponentes
+**Lista de ponentes**
 
 1. Marco A. Zamalloa Jara, Universidad Nacional de San Antonio Abad del Cusco, Perú.
+
 2. Ruben Alfredo Tupayachi Latorre, Pontificia Universidad Católica del Perú, Perú.
+
 3. Henry Holguin Gallegos, Universidad Nacional de San Antonio Abad del Cusco, Perú.
+
 4. Hernán Joel Cervantes R., Instituto de Física, Universidade de São Paulo - Brasil.
+
 5. Gladis Vera Singuña, Universidad Nacional de San Antonio Abad del Cusco - Perú.
+
 6. Hermelinda Hanampa Roque, Universidad Nacional de San Antonio Abad del Cusco - Perú.
+
 7. Joseph O. Ricaldi Sarapura, Universidad Nacional del Centro del Perú - Perú.
+
 8. Wilbert L. Calluco Espinoza, Universidad Nacional de Ingeniería - Perú.
+
 9. Gustavo Cuba Supanta, Universidad Nacional Mayor de San Marcos - Perú.
+
 10. Soraya Y. Flores Chalco, Universidad de Puerto Rico, Río Piedras - Puerto Rico.
+
 11. Abraham Aslla Quispe, Universidad Federal de Uberlandia - Brasil.
+
 12. Roger Challco, Universidad Nacional de Ingeniería - Perú.
+
 13. Alexander Ccala Ccopa, Universidad Nacional de San Antonio Abad del Cusco - Perú.
+
 14. Eduardo Vargas Soto - Perú.
+
 15. Odilón Correa Cuba, Universidad Nacional José María Arguedas - Perú.
+
 16. Milton Rojas Gamarra, Universidad Nacional de San Antonio Abad del Cusco - Perú.
+
 17. Carlos Soncco Meza, Pontificia Universidad Católica del Perú - Perú.
+
 18. Verónica Loaiza Tacuri, Observatorio Nacional - Brasil.
+
 19. Elluz Pacheco Cabrera, Universidad de Puerto Rico, Rio Piedras - Puerto Rico.
+
 20. Fredi Quispe Huaynasi, Observatorio Nacional de Rio de Janeiro - Brasil.
+
 21. David Choque Quispe, Universidad Adolfo Ibañez - Chile.
+
 22. Pedro Amao Cutipa, Pontificia Universidad Católica del Perú - Perú.
+
 23. Omar Moises Asto Rojas, Universidad Nacional Mayor de San Marcos - Perú.
+
 24. Erick Jhordan Reategui Rojas, Universidad Nacional Mayor de San Marcos - Perú.
+
 25. Fernando Ccolque Ttito, Universidad Nacional de San Antonio Abad del Cusco - Perú.
+
 26. Milida Zarella Pinto Vergara, Centro de Investigaciones Tecnológicas, Biomédicas y Medioambientales - Perú.
+
 
 #### Libro de resumenes
 
