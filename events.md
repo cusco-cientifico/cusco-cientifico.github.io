@@ -67,7 +67,7 @@ El balance y algunas imagenes del evento pueden ser accesados a través del sigu
 
 <b>Agradecimientos</b><br>
 
-<p style='text-align: justify;'>Este evento no hubiera sido posible sin contar con la ayuda de los Profesores del Departamento Académico de Física - UNSAAC, en especial a la MSc. Miriam Romero, la Mgt. Estela Huamán y Lic. Olintho De La Torre.</p> <br><br>
+<p style='text-align: justify;'>Este evento no hubiera sido posible sin contar con la ayuda de los Profesores del Departamento Académico de Física - UNSAAC, en especial a la MSc. Miriam Romero, la Mgt. Estela Huamán y Lic. Olintho De La Torre.</p>
 
 <b>Auspiciadores:</b><br>
 <ol>
