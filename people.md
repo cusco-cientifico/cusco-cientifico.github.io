@@ -73,7 +73,7 @@ members:
 
 Miembros áctivos del grupo Cusco Científico
 
-{% include list-circles.html items=page.executive-board %}
+{% include list-circles.html items=page.members %}
 
 
 
