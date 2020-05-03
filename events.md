@@ -58,19 +58,19 @@ III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC
 </ol>
 <br>
 
-<b>Libro de resumenes</b><br><br>
+<b>Libro de resumenes</b><br>
 
-El libro de resumenes puede ser descargado del siguiente <a href="https://www.dropbox.com/s/wa05dfyq3om4ehf/libro_resumenes_encefis_2020.pdf?dl=0">enlace.</a><br>
+El libro de resumenes puede ser descargado del siguiente <a href="https://www.dropbox.com/s/wa05dfyq3om4ehf/libro_resumenes_encefis_2020.pdf?dl=0">enlace.</a><br><br>
 
-<b>Balance del evento</b><br><br>
+<b>Balance del evento</b><br>
 
-El balance y algunas imagenes del evento pueden ser accesados a través del siguiente <a href="https://www.dropbox.com/s/lpc0oaxw7u17bx4/Balance-encefis-2020.pdf?dl=0">enlace.</a><br>
+El balance y algunas imagenes del evento pueden ser accesados a través del siguiente <a href="https://www.dropbox.com/s/lpc0oaxw7u17bx4/Balance-encefis-2020.pdf?dl=0">enlace.</a><br><br>
 
-<b>Agradecimientos</b><br><br>
+<b>Agradecimientos</b><br>
 
-Este evento no hubiera sido posible sin contar con la ayuda de los Profesores del Departamento Académico de Física - UNSAAC, en especial a la MSc. Miriam Romero, la Mgt. Estela Huamán y Lic. Olintho De La Torre.<br>
+Este evento no hubiera sido posible sin contar con la ayuda de los Profesores del Departamento Académico de Física - UNSAAC, en especial a la MSc. Miriam Romero, la Mgt. Estela Huamán y Lic. Olintho De La Torre.<br><br>
 
-<b>Auspiciadores:</b><br><br>
+<b>Auspiciadores:</b><br>
 <ol>
 <li>Departamento Académico de Física</li>
 <li>Facultad de Ciencias Químicas, Físicas y Matemáticas, Universidad Nacional de San Antonio Abad del Cusco.</li>
