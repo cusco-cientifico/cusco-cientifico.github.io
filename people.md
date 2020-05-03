@@ -51,10 +51,6 @@ executive-board:
     website: https://drive.google.com/open?id=1-p1-HYUchjKBiC-Mxi2PXecxF_fb1KIN 
     <!--github: https://github.com/fredifqh-->
     url: https://drive.google.com/open?id=1-p1-HYUchjKBiC-Mxi2PXecxF_fb1KIN
-<!--advisory-board:
-  - name: Olintho de la Torre 
-members:
-  - name: David Choque Quispe-->
 ---
 
 
