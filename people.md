@@ -25,7 +25,7 @@ executive-board:
     desc: Estudiante de doctorado. Estudio de abundancias químicas de estrellas a través de espectros obtenidos en el infrarrojo y visible. Rio de Janeiro-Brasil
     website: https://www.dropbox.com/s/o0h6ata4kz0iy65/CV.pdf?dl=0
     url: https://www.dropbox.com/s/o0h6ata4kz0iy65/CV.pdf?dl=0
-    <!--github: https://github.com/thibautjombart/-->
+    github: https://github.com/veronicaloatac
     <!--twitter: https://twitter.com/TeebzR-->
   - name: Elluz Pacheco Cabrera
     img: /img/miembros_cc/ElluzPC.jpg
