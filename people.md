@@ -34,7 +34,7 @@ executive-board:
     url: https://www.dropbox.com/s/ahlvxybzwfdnsvc/ELLUZ_PACHECO_CV.pdf?dl=0
   - name: Milida Zarella Pinto Vergara
     img: /img/miembros_cc/Milida.png
-    desc: Candidada al grado de doctor. Fabricación y caracterización de películas delgadas mediante la técnica de <i>magnetron sputtering</i>. Lima-Perú.
+    desc: Candidata al grado de doctor. Fabricación y caracterización de películas delgadas mediante la técnica de <i>magnetron sputtering</i>. Lima-Perú.
     website: https://drive.google.com/file/d/1UeBw81zdWBVNH5N9lTLelShnUE9NgSSg/view?usp=sharing
     url: https://drive.google.com/file/d/1UeBw81zdWBVNH5N9lTLelShnUE9NgSSg/view?usp=sharing
     <!--twitter: https://twitter.com/drgregmartin-->
