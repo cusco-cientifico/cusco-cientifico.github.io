@@ -10,7 +10,7 @@ executive-board:
     <!--twitter: http://twitter.com/fcampbell-->
   - name: Gustavo Cuba Supanta
     img: /img/miembros_cc/photo_GCS.jpg
-    desc: Dr. en el área de Ciencia de los Materiales. Estudio de las propiedades físicas y de transporte de nanomateriales tipo 2D y 1D mediante métodos computacionales. Lima-Perú.
+    desc: Dr. en el área de Ciencia de Materiales. Estudio de las propiedades físicas y de transporte de nanomateriales tipo 2D y 1D mediante métodos computacionales. Lima-Perú.
     website: http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=eb1d0cece24752bc9571e11b912e?id_investigador=52462
     url: http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=eb1d0cece24752bc9571e11b912e?id_investigador=52462
     <!--github: https://github.com/annecori/-->
