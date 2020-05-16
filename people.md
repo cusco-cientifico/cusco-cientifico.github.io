@@ -53,7 +53,7 @@ executive-board:
     url: https://drive.google.com/open?id=1-p1-HYUchjKBiC-Mxi2PXecxF_fb1KIN
 ---
 
-## Miembros áctivos
+## Miembros activos
 
 Miembros áctivos del grupo Cusco Científico
 
