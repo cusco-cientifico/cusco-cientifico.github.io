@@ -24,6 +24,8 @@ navbar-links:
   Eventos: "events"
   #Funding: "funding"
   Foro: "forum"
+  Publicaciones:
+   - Miembros: "member_publication"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
