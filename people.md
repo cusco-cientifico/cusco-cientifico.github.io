@@ -19,7 +19,7 @@ executive-board:
     desc: Estudiante de doctorado. Desarrollo de prototipos de sensores químicos amperométricos sensibles y selectivos para la detección y monitoreo de gases contaminantes. San Juan - Puerto Rico - US.
     url: https://www.dropbox.com/s/1t6bieckdsnoz9c/CV_2020_Soraya_Flores.pdf?dl=0
     website: https://www.dropbox.com/s/1t6bieckdsnoz9c/CV_2020_Soraya_Flores.pdf?dl=0
-    <!--github: https://github.com/ffinger-->
+    github: https://github.com/S0rayaYFlores
   - name: Verónica Loaiza Tacuri
     img: /img/miembros_cc/Veronica_LT.png
     desc: Estudiante de doctorado. Estudio de abundancias químicas de estrellas a través de espectros obtenidos en el infrarrojo y visible. Rio de Janeiro-Brasil
