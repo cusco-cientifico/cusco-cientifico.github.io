@@ -50,7 +50,7 @@ executive-board:
     img: /img/miembros_cc/carlos_Soncco.jpg
     desc: Estudiante de doctorado. Caracterización del sensor ALPIDE-2 y la implementación geométrica para la simulación del <i>Muon Forward Tracker</i> en el nuevo sistema de adquisición de data de ALICE. Lima-Perú.
     website: https://drive.google.com/open?id=1-p1-HYUchjKBiC-Mxi2PXecxF_fb1KIN 
-    <!--github: https://github.com/fredifqh-->
+    github: https://github.com/carlos-soncco
     url: https://drive.google.com/open?id=1-p1-HYUchjKBiC-Mxi2PXecxF_fb1KIN
 ---
 
