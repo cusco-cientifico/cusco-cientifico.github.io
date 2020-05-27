@@ -32,6 +32,7 @@ executive-board:
     desc: Estudiante de doctorado. Estudio de nubes moleculares a través de espectros obtenidos por el radiotelescópio de Arecibo. San Juan - Puerto Rico - US.
     website: https://www.dropbox.com/s/ahlvxybzwfdnsvc/ELLUZ_PACHECO_CV.pdf?dl=0
     url: https://www.dropbox.com/s/ahlvxybzwfdnsvc/ELLUZ_PACHECO_CV.pdf?dl=0
+    github: https://github.com/Elluzita
   - name: Milida Zarella Pinto Vergara
     img: /img/miembros_cc/Milida.png
     desc: Candidata al grado de doctor. Fabricación y caracterización de películas delgadas mediante la técnica de <i>magnetron sputtering</i>. Lima-Perú.
