@@ -3,7 +3,7 @@
 
 ![](img/altas_energias/particle_physics.png)
 
-*Imagen extraída del siguiente [link](https://home.cern/science/physics/standard-model)*
+<font size="1.5"> <i>Imagen extraída del siguiente <a href="https://home.cern/science/physics/standard-model">enlace</a> </i> </font> 
 # **Física de Altas Energías**
 
 <p style='text-align: justify;'> Física de altas energías o física de partículas estudia las propiedades y componentes fundamentales de la materia y antimateria, como también las interacciones entre partículas. Según el modelo estándar de Física de partículas son establecidos 6 leptones (electrón, neutrino-electrónico, muon, neutrino-muónico, tau y neutrino-tauónico) y 6 quarks (arriba, abajo, encanto, extraño, cima y fondo) como partículas fundamentales de la materia que conocemos. Adicionalmente el modelo describe 5 bosones que son los intermediadores de la fuerza fuerte, débil y electromagnética de las cuatro fuerzas fundamentales de la naturaleza. Existen aún muchas interrogantes y discrepancias con el modelo estándar, como por ejemplo, la oscilación de neutrinos o asimetría entre materia-antimateria. Para responder estas y otras interrogantes se ha utilizado la colisión de partículas en diferentes aceleradores de partículas construidos alrededor del mundo.</p>
