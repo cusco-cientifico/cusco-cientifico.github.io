@@ -2,7 +2,36 @@
 ---
 
 <!--<img src="img/miembros_cc/imagen_moche.png" title=" " alt="Imagen Moche" /> -->
-<img src="img/404-people.png" title=" " alt="Imagen Moche" />
+<!--<img src="img/404-people.png" title=" " alt="Imagen Moche" /> -->
+
+<!-- Carousel ================================================== -->
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+<ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+</ol>
+
+<div class="carousel-inner">
+  <div class="item active">
+    <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:slide img/Albert_Einstein_1.jpg" alt="loading image">
+    <img src="images/slide-0.png" alt="nice pictures of Toulouse and the conference venue" />
+  </div>
+  <div class="item">
+    <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:slide img/physics_brands_image_2.jpg" alt="loading image">
+    <img src="images/slide-1.png" alt="nice pictures of Toulouse and the conference venue" />
+  </div>
+  <div class="item">
+    <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:slide img/physicist_image_3.jpg" alt="loading image">
+    <img src="images/slide-2.png" alt="nice pictures of Toulouse and the conference venue" />
+  </div>
+  <div class="item">
+</div>
+<a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+<a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+div><!-- /.carousel -->
+
 ## **Página en construcción**
 
 <p style='text-align: justify;'> “Cusco Científico”, es un grupo de estudiantes egresados de la <a href="http://fi.unsaac.edu.pe/home/"> Escuela Profesional de Física</a> de la <a href="http://www.unsaac.edu.pe/">Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)</a>. Los integrantes que conforman el grupo, que actualmente vienen desarrollando sus proyectos de investigación en diferentes áreas de la Física, comparten el fin común de promover la investigación científica en nuestra región. El grupo se reúne periódicamente a lo largo del año para la toma de decisiones y discusión de asuntos académicos a partir de octubre del 2018. Dichas reuniones se llevan a cabo de manera remota debido a que los miembros se encuentran trabajando en diferentes instituciones del Perú y el extranjero.
