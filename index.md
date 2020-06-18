@@ -16,15 +16,15 @@
 <div class="carousel-inner">
   <div class="item active">
     <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:slide img/slide-0.png" alt="loading image">
-    <img src="img/slide-0.png" alt="nice pictures of Toulouse and the conference venue" />
+    <img src="img/slide-0.png" alt="nice picture of Einstein" />
   </div>
   <div class="item">
     <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:slide img/slide-1.png" alt="loading image">
-    <img src="img/slide-1.png" alt="nice pictures of Toulouse and the conference venue" />
+    <img src="img/slide-1.png" alt="nice picture of physics brands" />
   </div>
   <div class="item">
     <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:slide img/slide-2.png" alt="loading image">
-    <img src="img/slide-2.png" alt="nice pictures of Toulouse and the conference venue" />
+    <img src="img/slide-2.png" alt="nice picture of physicist" />
   </div>
   <div class="item">
 </div>
