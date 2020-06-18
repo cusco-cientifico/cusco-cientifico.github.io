@@ -6,30 +6,29 @@
 
 <!-- Carousel ================================================== -->
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <!-- Indicators -->
-<ol class="carousel-indicators">
+<!-- Indicators -->
+  <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
-</ol>
+  </ol>
 
-<div class="carousel-inner">
-  <div class="item active">
-    <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:slide img/slide-0.png" alt="loading image">
-    <img src="img/slide-0.png" alt="nice picture of Einstein" />
+  <div class="carousel-inner">
+    <div class="item active">
+    <!--<img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:slide img/slide-0.png" alt="loading image">-->
+      <img src="img/slide-0.png" alt="nice picture of Einstein" />
+    </div>
+    <div class="item">
+    <!--<img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:slide img/slide-1.png" alt="loading image">-->
+      <img src="img/slide-1.png" alt="nice picture of physics brands" />
+    </div>
+    <div class="item">
+    <!--<img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:slide img/slide-2.png" alt="loading image">-->
+      <img src="img/slide-2.png" alt="nice picture of physicist" />
+    </div>
   </div>
-  <div class="item">
-    <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:slide img/slide-1.png" alt="loading image">
-    <img src="img/slide-1.png" alt="nice picture of physics brands" />
-  </div>
-  <div class="item">
-    <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:slide img/slide-2.png" alt="loading image">
-    <img src="img/slide-2.png" alt="nice picture of physicist" />
-  </div>
-  <div class="item">
-</div>
-<a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-<a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
 </div> <!-- /.carousel -->
 
 ## **Página en construcción**
