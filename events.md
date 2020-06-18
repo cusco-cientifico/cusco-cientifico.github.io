@@ -9,7 +9,7 @@ title: Eventos
 
 ### **Descripción**
 
-<p style='text-align: justify;'> Este evento posee un programa de conferencias magistrales, charlas, sesión de pósters, talleres y mesa redonda a cargo de exalumnos que vienen realizando sus estudios de posgrado y trabajos de investigación en diferentes instituciones nacionales y del extranjero. Estos eventos se vienen realizando con ayuda de docentes del departamento académico de Física UNSAAC.</p>
+<p style='text-align: justify;'> Este evento posee un programa de conferencias magistrales, charlas, sesión de pósteres, talleres y mesa redonda a cargo de exalumnos que vienen realizando sus estudios de posgrado y trabajos de investigación en diferentes instituciones nacionales y del extranjero. Estos eventos se vienen realizando con ayuda de docentes del departamento académico de Física UNSAAC.</p>
 
 ### Próximos Eventos
 
@@ -121,7 +121,7 @@ Los eventos que fueron organizados por el grupo Cusco Científico son el <a href
 
 <b>Balance</b><br>
 
-<p style='text-align: justify;'>El balance é imagenes del evento pueden ser descargados del siguiente <a href="https://www.dropbox.com/s/szxdl9qdokucny9/Balance-encefis-2019.pdf?dl=0">enlace.</a></p>
+<p style='text-align: justify;'>El balance é imágenes del evento pueden ser descargados del siguiente <a href="https://www.dropbox.com/s/szxdl9qdokucny9/Balance-encefis-2019.pdf?dl=0">enlace.</a></p>
 
 <b>Agradecimientos</b>
 <p style='text-align: justify;'>Este evento no hubiera sido posible sin contar con la ayuda de Profesores del Departamento Académico de Física - UNSAAC, en especial a la MSc. Miriam Romero y la Mgt. Estela Huamán.</p> 

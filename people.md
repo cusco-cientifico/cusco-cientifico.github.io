@@ -4,7 +4,7 @@ subtitle: Grupo de personas dedicadas a promover la ciencia y tecnología en la 
 executive-board:
   - name: Pedro Amao Cutipa
     img: /img/miembros_cc/einstein.jpg
-    desc: Estudiante de doctorado. Lima-Perú.
+    desc: Algebras de Clifford y sus aplicaciones a la mecánica cuántica. Estudiante de doctorado. Lima, Perú
     <!--github: http://github.com/finlaycampbell-->
     <!--url: http://github.com/finlaycampbell-->
     <!--twitter: http://twitter.com/fcampbell-->
@@ -54,7 +54,7 @@ executive-board:
     url: https://drive.google.com/open?id=1-p1-HYUchjKBiC-Mxi2PXecxF_fb1KIN
 ---
 
-## Miembros activos
+## Miembros áctivos
 
 Miembros áctivos del grupo Cusco Científico
 
