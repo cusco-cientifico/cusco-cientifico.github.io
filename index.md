@@ -2,7 +2,7 @@
 ---
 
 <head>
-  <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+  <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 <!--  <link rel="stylesheet" href="style.css">-->
 </head>
 <!--<img src="img/miembros_cc/imagen_moche.png" title=" " alt="Imagen Moche" /> -->
