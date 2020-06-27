@@ -31,11 +31,11 @@
     </div>
   </div>
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-    <span class="material-icons">cloud></span>
+    <i class="material-icons">face</i>
     <span class="sr-only">Previous</span>
   </a>
   <a class="right carousel-control" href="#myCarousel" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right"></span>
+    <i class="material-icons">face</i>
     <span class="sr-only">Next</span>
   </a>
 </div> <!-- /.carousel -->
