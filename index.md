@@ -3,7 +3,7 @@
 
 <!--<img src="img/miembros_cc/imagen_moche.png" title=" " alt="Imagen Moche" /> -->
 <!--<img src="img/404-people.png" title=" " alt="Imagen Moche" /> -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
 <!-- Carousel ================================================== -->
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
 <!-- Indicators -->
