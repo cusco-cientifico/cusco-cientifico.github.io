@@ -28,11 +28,11 @@
     </div>
   </div>
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="glyphicon glyphicon-chevron-left" style="font-size: 26px;font-weight: 200;letter-spacing: 0.6em;"></span>
     <span class="sr-only">Previous</span>
   </a>
   <a class="right carousel-control" href="#myCarousel" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="glyphicon glyphicon-chevron-right" style="letter-spacing: -0.2em;font-size: 26px;font-weight: 200;" ></span>
     <span class="sr-only">Next</span>
   </a>
 </div> <!-- /.carousel -->
