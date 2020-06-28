@@ -4,7 +4,7 @@
 <head>
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <style>
- .material-icons {vertical-align:-14%}
+ .material-icons {vertical-align:30%}
  </style>
 </head>
 <!--<img src="img/miembros_cc/imagen_moche.png" title=" " alt="Imagen Moche" /> -->
