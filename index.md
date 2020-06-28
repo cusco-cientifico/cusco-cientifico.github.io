@@ -28,7 +28,7 @@
     </div>
   </div>
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" style="font-size: 26px;font-weight: 200;letter-spacing: 0.6em;"></span>
+    <span class="glyphicon glyphicon-menu-left" style="font-size: 26px;font-weight: 200;letter-spacing: 0.6em;"></span>
     <span class="sr-only">Previous</span>
   </a>
   <a class="right carousel-control" href="#myCarousel" data-slide="next">
