@@ -3,6 +3,9 @@
 
 <head>
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <style>
+ .material-icons {vertical-align:-14%}
+ </style>
 </head>
 <!--<img src="img/miembros_cc/imagen_moche.png" title=" " alt="Imagen Moche" /> -->
 <!--<img src="img/404-people.png" title=" " alt="Imagen Moche" /> -->
@@ -31,11 +34,11 @@
     </div>
   </div>
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-    <i class="update">chevron_left</i>
+    <i class="material-icons">chevron_left</i>
     <span class="sr-only">Previous</span>
   </a>
   <a class="right carousel-control" href="#myCarousel" data-slide="next">
-    <i class="update">chevron_right</i>
+    <i class="material-icons">chevron_right</i>
     <span class="sr-only">Next</span>
   </a>
 </div> <!-- /.carousel -->
