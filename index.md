@@ -31,7 +31,7 @@
     </div>
   </div>
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-    <i class="material-icons" style="vertical-align: -6px;">chevron_left</i>
+    <i class="material-icons" style="vertical-align: 50px;">chevron_left</i>
     <span class="sr-only">Previous</span>
   </a>
   <a class="right carousel-control" href="#myCarousel" data-slide="next">
