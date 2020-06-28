@@ -703,3 +703,9 @@ td.gutter {
 .list-circles-item .item-link:hover {
   color: #042265;
 }
+
+.update {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
