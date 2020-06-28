@@ -30,11 +30,11 @@
       <img src="img/slide-2.png" alt="nice picture of physicist" />
     </div>
   </div>
-  <a class="container" href="#myCarousel" data-slide="prev">
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
     <i class="material-icons">chevron_left</i>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="container" href="#myCarousel" data-slide="next">
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
     <i class="material-icons">chevron_right</i>
     <span class="sr-only">Next</span>
   </a>
