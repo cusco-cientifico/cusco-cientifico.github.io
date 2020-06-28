@@ -1,12 +1,9 @@
 ---
 ---
 
-<head>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-</head>
 <!--<img src="img/miembros_cc/imagen_moche.png" title=" " alt="Imagen Moche" /> -->
 <!--<img src="img/404-people.png" title=" " alt="Imagen Moche" /> -->
-
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 <!-- Carousel ================================================== -->
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
 <!-- Indicators -->
@@ -31,11 +28,11 @@
     </div>
   </div>
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-    <i class="material-icons" style="font-size: 50px;letter-spacing: 0.8em;line-height: 380px;font-style: normal;font-weight: 100;">chevron_left</i>
+    <span class="glyphicon glyphicon-chevron-left"></span>
     <span class="sr-only">Previous</span>
   </a>
   <a class="right carousel-control" href="#myCarousel" data-slide="next">
-    <i class="material-icons" style="font-size: 50px;letter-spacing: -0.7em;line-height: 380px;font-style: normal;font-weight: 100;">chevron_right</i>
+    <span class="glyphicon glyphicon-chevron-right"></span>
     <span class="sr-only">Next</span>
   </a>
 </div> <!-- /.carousel -->
