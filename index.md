@@ -39,16 +39,16 @@
 
 ## **Página en construcción**
 
-<p style='text-align: justify;'> “Cusco Científico”, es un grupo de estudiantes egresados de la <a href="http://fi.unsaac.edu.pe/home/"> Escuela Profesional de Física</a> de la <a href="http://www.unsaac.edu.pe/">Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)</a>. Los integrantes que conforman el grupo, que actualmente vienen desarrollando sus proyectos de investigación en diferentes áreas de la Física, comparten el fin común de promover la investigación científica en nuestra región. El grupo se reúne periódicamente a lo largo del año para la toma de decisiones y discusión de asuntos académicos a partir de octubre del 2018. Dichas reuniones se llevan a cabo de manera remota debido a que los miembros se encuentran trabajando en diferentes instituciones del Perú y el extranjero.
+<p style='text-align: justify; font-size:18px;'> “Cusco Científico”, es un grupo de estudiantes egresados de la <a href="http://fi.unsaac.edu.pe/home/"> Escuela Profesional de Física</a> de la <a href="http://www.unsaac.edu.pe/">Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)</a>. Los integrantes que conforman el grupo, que actualmente vienen desarrollando sus proyectos de investigación en diferentes áreas de la Física, comparten el fin común de promover la investigación científica en nuestra región. El grupo se reúne periódicamente a lo largo del año para la toma de decisiones y discusión de asuntos académicos a partir de octubre del 2018. Dichas reuniones se llevan a cabo de manera remota debido a que los miembros se encuentran trabajando en diferentes instituciones del Perú y el extranjero.
 </p> 
 
 ## **Objetivos del grupo**
 
 <ol>
-<li><p style='text-align: justify;'>Intercambiar y/o compartir información, experiencias académicas y temas afines entre los miembros integrantes del grupo.</p></li>
-<li><p style='text-align: justify;'>Desarrollar proyectos de investigación y promover la colaboración entre los miembros del grupo.</p></li>
-<li><p style='text-align: justify;'>Incentivar y fomentar un vínculo de colaboración entre estudiantes, docentes y exalumnos de Física de la UNSAAC, teniendo como fin común la investigación científica.</p>  </li>
-<li><p style='text-align: justify;'>Realizar divulgación científica a través de eventos, redes sociales y medios de comunicación.</p> </li>
+<li><p style='text-align: justify; font-size:18px;'>Intercambiar y/o compartir información, experiencias académicas y temas afines entre los miembros integrantes del grupo.</p></li>
+<li><p style='text-align: justify; font-size:18px;'>Desarrollar proyectos de investigación y promover la colaboración entre los miembros del grupo.</p></li>
+<li><p style='text-align: justify; font-size:18px;'>Incentivar y fomentar un vínculo de colaboración entre estudiantes, docentes y exalumnos de Física de la UNSAAC, teniendo como fin común la investigación científica.</p>  </li>
+<li><p style='text-align: justify; font-size:18px;'>Realizar divulgación científica a través de eventos, redes sociales y medios de comunicación.</p> </li>
 </ol>
 <!--The **R** **E**pidemics **Con**sortium (RECON) is an international
 not-for-profit, **non-governmental organisation** gathering experts in data
