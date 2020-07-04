@@ -21,5 +21,5 @@
 
 <h3>Tesis de Maestría</h3> 
 <h3>Tesis de Licenciatura</h3>
-<h2>Artículos Científicos</h2>
+<h3>Artículos Científicos</h3>
 
