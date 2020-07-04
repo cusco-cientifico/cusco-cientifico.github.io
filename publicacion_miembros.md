@@ -9,7 +9,7 @@
     </style> 
 </head> 
 
-<center><h2>Publicaciones</h2></center>
+<center><h1>Publicaciones</h1></center>
 
 
 <h3>Tesis de Doctorado</h3>
