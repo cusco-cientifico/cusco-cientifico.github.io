@@ -18,5 +18,5 @@
 
 <h3>Tesis de Maestría</h3> 
 <h3>Tesis de Licenciatura</h3>
-<h2>Publicaciones</h2>
+<h2>Artículos Científicos</h2>
 
