@@ -3,11 +3,14 @@
 <head> 
   <title>Publicaciones</title> 
     <style> 
-      h2 { 
+      h1 { 
         color:green; 
          } 
     </style> 
 </head> 
+
+<center><h2>Publicaciones</h2></center>
+
 
 <h3>Tesis de Doctorado</h3>
 <h4>2019</h4>
