@@ -11,6 +11,11 @@
 
 
 <h3>Tesis de Maestría</h3> 
+<h4>2018</h4>
+<p style='text-align: justify; font-size:18px;'> Astrometria de objetos Transnetunianos e Centauros na eraGaia: posições a partir de imageamento direto e de ocultação estelar (<a href="http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/ASTRONOMIA/[417_09-06_C]on_2018_m_frediquispe.pdf">http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/ASTRONOMIA/[417_09-06_C]on_2018_m_frediquispe.pdf</a>).</p>
+<p style='text-align: justify; font-size:18px;'>Quispe Huaynasi, Fredi</p>
+<p style='text-align: justify; font-size:18px;'>Observatorio Nacional, Rio de Janeiro - Brasil</p>
+
 <h3>Tesis de Licenciatura</h3>
 <h3>Artículos Científicos</h3>
 
