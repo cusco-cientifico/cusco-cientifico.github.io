@@ -1,16 +1,7 @@
 ---
 ---
-<head> 
-  <title>Publicaciones</title> 
-    <style> 
-      h1 { 
-        color:green; 
-         } 
-    </style> 
-</head> 
 
 <center><h1>Publicaciones</h1></center>
-
 
 <h3>Tesis de Doctorado</h3>
 <h4>2019</h4>
