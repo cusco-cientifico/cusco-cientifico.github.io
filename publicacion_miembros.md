@@ -14,7 +14,7 @@
 
 <p style='text-align: justify; font-size:18px;'> <b> Título:</b> Astrometria de objetos Transnetunianos e Centauros na eraGaia: posições a partir de imageamento direto e de ocultação estelar (<a href="http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/ASTRONOMIA/[417_09-06_C]on_2018_m_frediquispe.pdf">Tesis</a>)<br><br>
 <b> Autor:</b> Quispe Huaynasi, Fredi<br>
-<b> Institución:</b> Observatorio Nacional, Rio de Janeiro - Brasil<br><br><br>
+<b> Institución:</b> Observatorio Nacional, Rio de Janeiro - Brasil<br><br>
 
 
 <p style='text-align: justify; font-size:18px;'> <b> Título:</b> Astrometria de objetos Transnetunianos e Centauros na eraGaia: posições a partir de imageamento direto e de ocultação estelar (<a href="http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/ASTRONOMIA/[417_09-06_C]on_2018_m_frediquispe.pdf">Tesis</a>)<br><br>
