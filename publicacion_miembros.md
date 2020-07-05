@@ -6,7 +6,7 @@
 <h3>Tesis de Doctorado</h3>
 <h4>2019</h4>
 
-<p style='text-align: justify; font-size:18px;'> Efectos del dopaje y de la temperatura sobre las propiedades térmicas de hetero-estructuras de C/BN y su potencial uso como sensor ambiental del formaldehído (<a href="https://cybertesis.unmsm.edu.pe/handle/20.500.12672/12312">Tesis</a></p>
+<p style='text-align: justify; font-size:18px;'> Efectos del dopaje y de la temperatura sobre las propiedades térmicas de hetero-estructuras de C/BN y su potencial uso como sensor ambiental del formaldehído (<a href="https://cybertesis.unmsm.edu.pe/handle/20.500.12672/12312">Tesis</a>)</p>
 <p style='text-align: justify; font-size:18px;'>Cuba Supanta, Gustavo</p>
 <p style='text-align: justify; font-size:18px;'>Universidad Nacional Mayor de San Marcos, Lima - Perú</p>
 
@@ -14,7 +14,7 @@
 <h3>Tesis de Maestría</h3> 
 <h4>2018</h4>
 
-<p style='text-align: justify; font-size:18px;'> Astrometria de objetos Transnetunianos e Centauros na eraGaia: posições a partir de imageamento direto e de ocultação estelar (<a href="http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/ASTRONOMIA/[417_09-06_C]on_2018_m_frediquispe.pdf">http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/ASTRONOMIA/[417_09-06_C]on_2018_m_frediquispe.pdf</a>).</p>
+<p style='text-align: justify; font-size:18px;'> Astrometria de objetos Transnetunianos e Centauros na eraGaia: posições a partir de imageamento direto e de ocultação estelar (<a href="http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/ASTRONOMIA/[417_09-06_C]on_2018_m_frediquispe.pdf">Tesis</a>)</p>
 <p style='text-align: justify; font-size:18px;'>Quispe Huaynasi, Fredi</p>
 <p style='text-align: justify; font-size:18px;'>Observatorio Nacional, Rio de Janeiro - Brasil</p>
 
@@ -24,21 +24,21 @@
 
 <h4>2015</h4>
 
-<p style='text-align: justify; font-size:18px;'> title (<a href="url">url</a>).</p>
+<p style='text-align: justify; font-size:18px;'> title (<a href="url">Tesis</a>)</p>
 <p style='text-align: justify; font-size:18px;'>autor</p>
 <p style='text-align: justify; font-size:18px;'>institución</p>
 
 
-<p style='text-align: justify; font-size:18px;'> title (<a href="url">url</a>).</p>
+<p style='text-align: justify; font-size:18px;'> title (<a href="url">Tesis</a>)</p>
 <p style='text-align: justify; font-size:18px;'>autor</p>
 <p style='text-align: justify; font-size:18px;'>institución</p>
 
 
-<p style='text-align: justify; font-size:18px;'> title (<a href="url">url</a>).</p>
+<p style='text-align: justify; font-size:18px;'> title (<a href="url">Tesis</a>)</p>
 <p style='text-align: justify; font-size:18px;'>autor</p>
 <p style='text-align: justify; font-size:18px;'>institución</p>
 
-<p style='text-align: justify; font-size:18px;'> title (<a href="url">url</a>).</p>
+<p style='text-align: justify; font-size:18px;'> title (<a href="url">Tesis</a>)</p>
 <p style='text-align: justify; font-size:18px;'>autor</p>
 <p style='text-align: justify; font-size:18px;'>institución</p>
 
