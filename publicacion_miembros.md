@@ -16,6 +16,30 @@
 <p style='text-align: justify; font-size:18px;'>Quispe Huaynasi, Fredi</p>
 <p style='text-align: justify; font-size:18px;'>Observatorio Nacional, Rio de Janeiro - Brasil</p>
 
+<p style='text-align: justify; font-size:18px;'> Abundância química em estrelas gigantes Vermelho dos Aglomerados abertos NGC 2420, NGC 6819 e NGC 6705 de dois espectros APOGEE (<a href="http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/ASTRONOMIA/%5B398_50-38_C%5Don_2018_m_veronicaloaizatacuri-novo.pdf">http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/ASTRONOMIA/%5B398_50-38_C%5Don_2018_m_veronicaloaizatacuri-novo.pdf</a>).</p>
+<p style='text-align: justify; font-size:18px;'>Loaiza Tacuri, Verónica</p>
+<p style='text-align: justify; font-size:18px;'>Observatorio Nacional, Rio de Janeiro - Brasil</p>
+
+<h4>2015</h4>
+
+<p style='text-align: justify; font-size:18px;'> title (<a href="url">url</a>).</p>
+<p style='text-align: justify; font-size:18px;'>autor</p>
+<p style='text-align: justify; font-size:18px;'>institución</p>
+
+
+<p style='text-align: justify; font-size:18px;'> title (<a href="url">url</a>).</p>
+<p style='text-align: justify; font-size:18px;'>autor</p>
+<p style='text-align: justify; font-size:18px;'>institución</p>
+
+
+<p style='text-align: justify; font-size:18px;'> title (<a href="url">url</a>).</p>
+<p style='text-align: justify; font-size:18px;'>autor</p>
+<p style='text-align: justify; font-size:18px;'>institución</p>
+
+<p style='text-align: justify; font-size:18px;'> title (<a href="url">url</a>).</p>
+<p style='text-align: justify; font-size:18px;'>autor</p>
+<p style='text-align: justify; font-size:18px;'>institución</p>
+
 <h3>Tesis de Licenciatura</h3>
 <h3>Artículos Científicos</h3>
 
