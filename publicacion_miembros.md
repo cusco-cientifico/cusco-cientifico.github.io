@@ -30,7 +30,31 @@
 <b> Autor:</b> Pacheco-Cabrera, Elluz<br>
 <b> Institución:</b> Universidad de Puerto Rico, Mayagüez - Puerto Rico</p>
 
+<p style='text-align: justify; font-size:18px;'> <b> Título:</b> Estudio de los sistemas cuánticos de dos estados desde el enfoque del álgebra geométrica (<a href="http://tesis.pucp.edu.pe/repositorio/bitstream/handle/20.500.12404/6715/AMAO_CUTIPA_PEDRO_ESTUDIO_SISTEMAS_CUANTICOS_1.pdf?sequence=4&isAllowed=y">Tesis</a>)<br><br>
+<b> Autor:</b> Amao Cutipa, Pedro<br>
+<b> Institución:</b> Pontificia Universidad Católica del Perú, Lima - Perú</p>
+
+<h4>2014</h4>
+<p style='text-align: justify; font-size:18px;'> <b> Título:</b> Influencia de la velocidad de enfriamiento sobre las propiedades estructurales y electrónicas de nano-hilos mono-metálicos de Ag y Cu (<a href="https://cybertesis.unmsm.edu.pe/handle/20.500.12672/5786">Tesis</a>)<br><br>
+<b> Autor:</b> Cuba Supanta, Gustavo<br>
+<b> Institución:</b> Universidad Nacional Mayor de San Marcos, Lima - Perú</p>
+
+<h4>2013</h4>
+<p style='text-align: justify; font-size:18px;'> <b> Título:</b> Estudio de la masa invariante de las partículas j/ψ y z en la actualización del experimento cms (<a href="https://scholar.uprm.edu/handle/20.500.11801/2034">Tesis</a>)<br><br>
+<b> Autor:</b> Flores Chalco, Soraya Ysabel<br>
+<b> Institución:</b> Universidad de Puerto Rico, Mayagüez - Puerto Rico</p>
+
+
+<p style='text-align: justify; font-size:18px;'> <b> Título:</b> Estudio de la síntesis de la fase cristalina ω-Al7Cu2Fe y el efecto de la nanoestructuración sobre sus propiedades estructurales y magnéticas (<a href="https://cybertesis.unmsm.edu.pe/bitstream/handle/20.500.12672/3781/Pinto_vm.pdf?sequence=1">Tesis</a>)<br><br>
+<b> Autor:</b> Pinto Vergara, Milida Zarella<br>
+<b> Institución:</b> Universidad Nacional Mayor de San Marcos, Lima - Perú</p>
+
 <h3>Tesis de Licenciatura</h3>
+
+<p style='text-align: justify; font-size:18px;'> <b> Título:</b> Efectos de la aperiodicidad química sobre el calor específico en el modelo del collar de Kondo a temperatura finita (<a href="http://repositorio.unsaac.edu.pe/handle/UNSAAC/5208">Tesis</a>)<br><br>
+<b> Autor:</b> Cuba Supanta, Gustavo<br>
+<b> Institución:</b> Universidad Nacional de San Antonio Abad del Cusco, Cusco - Perú</p>
+
 <h3>Artículos Científicos</h3>
 
 
