@@ -31,6 +31,7 @@ div.a {
 <b> Institución:</b> Observatorio Nacional, Rio de Janeiro - Brasil </div>
 
 <h4>2015</h4>
+
 <div class="a"> <b> Título:</b> Uma comparação das distribuições das direções de chegada dos raios cósmicos de ultra-alta energia detetados nos hemisférios sul e norte (<a href="http://objdig.ufrj.br/14/teses/842460.pdf">Tesis</a>)<br>
 <b> Autor:</b> Soncco Meza, Carlos<br>
 <b> Institución:</b> Universidade Federal do Rio de Janeiro, Observatório do Valongo, Rio de Janeiro - Brasil <br><br>
@@ -39,7 +40,7 @@ div.a {
 <b> Autor:</b> Pacheco-Cabrera, Elluz<br>
 <b> Institución:</b> Universidad de Puerto Rico, Mayagüez - Puerto Rico <br><br>
 
-<div class="a"> <b> Título:</b> Estudio de los sistemas cuánticos de dos estados desde el enfoque del álgebra geométrica (<a href="http://tesis.pucp.edu.pe/repositorio/bitstream/handle/20.500.12404/6715/AMAO_CUTIPA_PEDRO_ESTUDIO_SISTEMAS_CUANTICOS_1.pdf?sequence=4&isAllowed=y">Tesis</a>)<br><br>
+<div class="a"> <b> Título:</b> Estudio de los sistemas cuánticos de dos estados desde el enfoque del álgebra geométrica (<a href="http://tesis.pucp.edu.pe/repositorio/bitstream/handle/20.500.12404/6715/AMAO_CUTIPA_PEDRO_ESTUDIO_SISTEMAS_CUANTICOS_1.pdf?sequence=4&isAllowed=y">Tesis</a>)<br>
 <b> Autor:</b> Amao Cutipa, Pedro<br>
 <b> Institución:</b> Pontificia Universidad Católica del Perú, Lima - Perú </div>
 
