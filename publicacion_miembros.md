@@ -66,36 +66,34 @@ div.a {
 
 <h3>Artículos Científicos</h3>
 
-<div class="a"> <b> Título:</b> Two-State Quantum Systems Revisited: a Geometric Algebra Approach (<a href="https://arxiv.org/pdf/2001.00656.pdf">Artículo</a>)<br><br>
+<div class="a"> <b> Título:</b> Two-State Quantum Systems Revisited: a Geometric Algebra Approach (<a href="https://arxiv.org/pdf/2001.00656.pdf">Artículo</a>)<br>
 <b> Autor:</b> Amao, P., & Castillo, H.<br>
-arXiv preprint arXiv:2001.00656 (2020) </div>
+arXiv preprint arXiv:2001.00656 (2020) <br><br>
 
-
-<div class="a"> <b> Título:</b> Radio Recombination Line Observations Toward the Massive Star Forming Region W51 IRS1 (<a href="https://arxiv.org/abs/1912.04019">Artículo</a>)<br><br>
+<b> Título:</b> Radio Recombination Line Observations Toward the Massive Star Forming Region W51 IRS1 (<a href="https://arxiv.org/abs/1912.04019">Artículo</a>)<br>
 <b> Autor:</b> Jan, M., Roshi, D. A., Lebrón, M. E., Pacheco, E., Ghosh, T., Salter, C. J., ... & Arce, H. G...<br>
-arXiv preprint arXiv:1912.04019 (2019) </div>
+arXiv preprint arXiv:1912.04019 (2019) <br><br>
 
-
-<div class="a"> <b> Título:</b> Formaldehyde trapping by radical initiated reaction on hydrogenated boron nitride (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0169433219309936#!">Artículo</a>)<br><br>
+<b> Título:</b> Formaldehyde trapping by radical initiated reaction on hydrogenated boron nitride (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0169433219309936#!">Artículo</a>)<br>
 <b> Autor:</b> Cuba-Supanta, G., Guerrero-Sanchez, J., Rojas-Tapia, J., Landauro, C. V., & Takeuchi, N.<br>
-Applied Surface Science (2019) 484, 470-478 </div>
+Applied Surface Science (2019) 484, 470-478 <br><br>
 
-<div class="a"> <b> Título:</b> Doping engineering of thermoelectric transport in BNC heteronanotubes (<a href="https://pubs.rsc.org/en/content/articlelanding/2019/CP/C8CP05592K#!divAbstract">Artículo</a>)<br><br>
+<b> Título:</b> Doping engineering of thermoelectric transport in BNC heteronanotubes (<a href="https://pubs.rsc.org/en/content/articlelanding/2019/CP/C8CP05592K#!divAbstract">Artículo</a>)<br>
 <b> Autor:</b> Sandonas, L. M., Cuba-Supanta, G., Gutierrez, R., Landauro, C. V., Rojas-Tapia, J., & Cuniberti, G.<br>
-Physical Chemistry Chemical Physics (2019) 21(4), 1904-1911 </div>
+Physical Chemistry Chemical Physics (2019) 21(4), 1904-1911 <br><br>
 
-<div class="a"> <b> Título:</b> Aperiodic exchange modulation effect on the specific heat in the Kondo necklace model (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304885318304955">Artículo</a>)<br><br>
+<b> Título:</b> Aperiodic exchange modulation effect on the specific heat in the Kondo necklace model (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304885318304955">Artículo</a>)<br>
 <b> Autor:</b> Reyes, D., Cuba-Supanta, G., Tarazona, H. S., Landauro, C. V., & Espinoza-Bernardo, R. M.<br>
-Journal of Magnetism and Magnetic Materials (2019) 469, 461-466 </div>
+Journal of Magnetism and Magnetic Materials (2019) 469, 461-466 <br><br>
 
-<div class="a"> <b> Título:</b> Enhancement of thermal transport properties of asymmetric Graphene/hBN nanoribbon heterojunctions by substrate engineering (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0008622317308771">Artículo</a>)<br><br>
+<b> Título:</b> Enhancement of thermal transport properties of asymmetric Graphene/hBN nanoribbon heterojunctions by substrate engineering (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0008622317308771">Artículo</a>)<br><br>
 <b> Autor:</b> Sandonas, L. M., Cuba-Supanta, G., Gutierrez, R., Dianat, A., Landauro, C. V., & Cuniberti, G.<br>
-Carbon (2017) 124, 642-650 </div>
+Carbon (2017) 124, 642-650 <br><br>
 
-<div class="a"> <b> Título:</b> Kondo necklace model in approximants of Fibonacci chains (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304885317301816">Artículo</a>)<br><br>
+<b> Título:</b> Kondo necklace model in approximants of Fibonacci chains (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304885317301816">Artículo</a>)<br>
 <b> Autor:</b> Reyes, D., Tarazona, H., Cuba-Supanta, G., Landauro, C. V., Espinoza, R., & Quispe-Marcatoma, J.<br>
-arXiv preprint arXiv:2001.00656 (2020) </div>
+arXiv preprint arXiv:2001.00656 (2020) <br><br>
 
-<div class="a"> <b> Título:</b> Influence of high energy milling on the microstructure and magnetic properties of the Al–Cu–Fe phases: the case of the i-Al 64 Cu 23 Fe 13 quasicrystalline and the ω-Al 70 Cu 20 Fe 10 crystalline phases (<a href="https://pubs.rsc.org/en/content/articlelanding/2016/ra/c5ra21093c#!divAbstract">Artículo</a>)<br><br>
+<b> Título:</b> Influence of high energy milling on the microstructure and magnetic properties of the Al–Cu–Fe phases: the case of the i-Al 64 Cu 23 Fe 13 quasicrystalline and the ω-Al 70 Cu 20 Fe 10 crystalline phases (<a href="https://pubs.rsc.org/en/content/articlelanding/2016/ra/c5ra21093c#!divAbstract">Artículo</a>)<br>
 <b> Autor:</b> Quispe, M. P., Landauro, C. V., Vergara, Pinto M. Z., Quispe-Marcatoma, J., Rojas-Ayala, C., Peña-Rodríguez, V. A., & Baggio-Saitovitch, E.<br>
 Rsc Advances (2016) 6(7), 5367-5376 </div>
