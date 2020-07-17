@@ -15,9 +15,9 @@ div.a {
 <h3>Tesis de Doctorado</h3>
 <center> <h4>2019</h4> </center>
 
-<div class="a"> <b> Título:</b>  <body style="background-color:powderblue;"> Efectos del dopaje y de la temperatura sobre las propiedades térmicas de hetero-estructuras de C/BN y su potencial uso como sensor ambiental del formaldehído (<a href="https://cybertesis.unmsm.edu.pe/handle/20.500.12672/12312">Tesis</a>)<br>
+<div class="a"> <b> Título:</b> Efectos del dopaje y de la temperatura sobre las propiedades térmicas de hetero-estructuras de C/BN y su potencial uso como sensor ambiental del formaldehído (<a href="https://cybertesis.unmsm.edu.pe/handle/20.500.12672/12312">Tesis</a>)<br>
 <b> Autor:</b> Cuba Supanta, Gustavo<br>
-<b> Institución:</b> Universidad Nacional Mayor de San Marcos, Lima - Perú </body> </div> 
+<b> Institución:</b> Universidad Nacional Mayor de San Marcos, Lima - Perú </div> 
 
 <h3>Tesis de Maestría</h3> 
 <center><h4>2018</h4></center>
