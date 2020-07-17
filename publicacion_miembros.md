@@ -58,13 +58,13 @@ div.a {
 <b> Autor:</b> Pinto Vergara, Milida Zarella<br>
 <b> Institución:</b> Universidad Nacional Mayor de San Marcos, Lima - Perú </div>
 
-<h3>Tesis de Licenciatura</h3>
+<center><h3>Tesis de Licenciatura</h3></center>
 
 <div class="a"> <b> Título:</b> Efectos de la aperiodicidad química sobre el calor específico en el modelo del collar de Kondo a temperatura finita (<a href="http://repositorio.unsaac.edu.pe/handle/UNSAAC/5208">Tesis</a>)<br>
 <b> Autor:</b> Cuba Supanta, Gustavo<br>
 <b> Institución:</b> Universidad Nacional de San Antonio Abad del Cusco, Cusco - Perú </div>
 
-<h3>Artículos Científicos</h3>
+<center><h3>Artículos Científicos</h3></center>
 
 <div class="a"> <b> Título:</b> Two-State Quantum Systems Revisited: a Geometric Algebra Approach<br>
 <b> Autor:</b> Amao, P., & Castillo, H.<br>
