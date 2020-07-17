@@ -10,6 +10,7 @@ body {
   position: relative;
   background: #FFF;
   /*background-image: url(../img/background.png);*/
+  background-image: url(../img/BG_upper.png);
   background-repeat: no-repeat;
 }
 p {
