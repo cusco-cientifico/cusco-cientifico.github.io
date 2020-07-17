@@ -121,7 +121,7 @@ Los eventos que fueron organizados por el grupo Cusco Científico son el <a href
 
 <b>Balance</b><br>
 
-<p style='text-align: justify;'>El balance é imágenes del evento pueden ser descargados del siguiente <a href="https://www.dropbox.com/s/szxdl9qdokucny9/Balance-encefis-2019.pdf?dl=0">enlace.</a></p>
+<p style='text-align: justify;'>El balance e imágenes del evento pueden ser descargados del siguiente <a href="https://www.dropbox.com/s/szxdl9qdokucny9/Balance-encefis-2019.pdf?dl=0">enlace.</a></p>
 
 <b>Agradecimientos</b>
 <p style='text-align: justify;'>Este evento no hubiera sido posible sin contar con la ayuda de Profesores del Departamento Académico de Física - UNSAAC, en especial a la MSc. Miriam Romero y la Mgt. Estela Huamán.</p> 
