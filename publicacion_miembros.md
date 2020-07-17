@@ -22,7 +22,7 @@ div.a {
 <h3>Tesis de Maestría</h3> 
 <center><h4>2018</h4></center>
 
-<div class="a"> <b> Título:</b> <p style="font-family:verdana">This is a paragraph.</p> Astrometria de objetos Transnetunianos e Centauros na era Gaia: posições a partir de imageamento direto e de ocultação estelar (<a href="http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/ASTRONOMIA/[417_09-06_C]on_2018_m_frediquispe.pdf">Tesis</a>)<br>
+<div class="a"> <b> Título:</b> <p style="color:blue"> Astrometria de objetos Transnetunianos e Centauros na era Gaia: posições a partir de imageamento direto e de ocultação estelar (<a href="http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/ASTRONOMIA/[417_09-06_C]on_2018_m_frediquispe.pdf">Tesis</a>)<br>
 <b> Autor:</b> Quispe Huaynasi, Fredi<br>
 <b> Institución:</b> Observatorio Nacional, Rio de Janeiro - Brasil </p> <br><br> 
 
