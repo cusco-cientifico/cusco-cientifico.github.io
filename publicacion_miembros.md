@@ -86,7 +86,7 @@ Physical Chemistry Chemical Physics (2019) 21(4), 1904-1911 <br><br>
 <b> Autor:</b> Reyes, D., Cuba-Supanta, G., Tarazona, H. S., Landauro, C. V., & Espinoza-Bernardo, R. M.<br>
 Journal of Magnetism and Magnetic Materials (2019) 469, 461-466 <br><br>
 
-<b> Título:</b> Enhancement of thermal transport properties of asymmetric Graphene/hBN nanoribbon heterojunctions by substrate engineering (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0008622317308771">Artículo</a>)<br><br>
+<b> Título:</b> Enhancement of thermal transport properties of asymmetric Graphene/hBN nanoribbon heterojunctions by substrate engineering (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0008622317308771">Artículo</a>)<br>
 <b> Autor:</b> Sandonas, L. M., Cuba-Supanta, G., Gutierrez, R., Dianat, A., Landauro, C. V., & Cuniberti, G.<br>
 Carbon (2017) 124, 642-650 <br><br>
 
