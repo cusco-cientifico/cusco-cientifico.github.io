@@ -68,11 +68,11 @@ div.a {
 
 <div class="a"> <b> Título:</b> Two-State Quantum Systems Revisited: a Geometric Algebra Approach<br>
 <b> Autor:</b> Amao, P., & Castillo, H.<br>
-(<a href="https://arxiv.org/pdf/2001.00656.pdf">https://arxiv.org/pdf/2001.00656.pdf</a>) <br><br>
+<a href="https://arxiv.org/pdf/2001.00656.pdf">https://arxiv.org/pdf/2001.00656.pdf</a> <br><br>
 
-<b> Título:</b> Radio Recombination Line Observations Toward the Massive Star Forming Region W51 IRS1 (<a href="https://arxiv.org/abs/1912.04019">Artículo</a>)<br>
+<b> Título:</b> Radio Recombination Line Observations Toward the Massive Star Forming Region W51 IRS1 <br>
 <b> Autor:</b> Jan, M., Roshi, D. A., Lebrón, M. E., Pacheco, E., Ghosh, T., Salter, C. J., ... & Arce, H. G...<br>
-arXiv preprint arXiv:1912.04019 (2019) <br><br>
+<a href="https://arxiv.org/abs/1912.04019"> https://arxiv.org/abs/1912.04019 </a> <br><br>
 
 <b> Título:</b> Formaldehyde trapping by radical initiated reaction on hydrogenated boron nitride (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0169433219309936#!">Artículo</a>)<br>
 <b> Autor:</b> Cuba-Supanta, G., Guerrero-Sanchez, J., Rojas-Tapia, J., Landauro, C. V., & Takeuchi, N.<br>
