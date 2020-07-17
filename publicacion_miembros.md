@@ -66,9 +66,9 @@ div.a {
 
 <h3>Artículos Científicos</h3>
 
-<div class="a"> <b> Título:</b> Two-State Quantum Systems Revisited: a Geometric Algebra Approach (<a href="https://arxiv.org/pdf/2001.00656.pdf">Artículo</a>)<br>
+<div class="a"> <b> Título:</b> Two-State Quantum Systems Revisited: a Geometric Algebra Approach<br>
 <b> Autor:</b> Amao, P., & Castillo, H.<br>
-arXiv preprint arXiv:2001.00656 (2020) <br><br>
+(<a href="https://arxiv.org/pdf/2001.00656.pdf">https://arxiv.org/pdf/2001.00656.pdf</a>) <br><br>
 
 <b> Título:</b> Radio Recombination Line Observations Toward the Massive Star Forming Region W51 IRS1 (<a href="https://arxiv.org/abs/1912.04019">Artículo</a>)<br>
 <b> Autor:</b> Jan, M., Roshi, D. A., Lebrón, M. E., Pacheco, E., Ghosh, T., Salter, C. J., ... & Arce, H. G...<br>
