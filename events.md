@@ -90,7 +90,7 @@ Los eventos que fueron organizados por el grupo Cusco Científico son el <a href
 
 <p align="center"> 
 <img src="../img/encefis/Foto_oficial_encefis-2020.jpg">
-</p>
+</p><br>
 
 <section>
 <center><h4 id="primer">I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</h4></center>
