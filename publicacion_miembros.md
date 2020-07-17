@@ -24,9 +24,9 @@ div.a {
 
 <div class="a"> <b> Título:</b> Astrometria de objetos Transnetunianos e Centauros na era Gaia: posições a partir de imageamento direto e de ocultação estelar (<a href="http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/ASTRONOMIA/[417_09-06_C]on_2018_m_frediquispe.pdf">Tesis</a>)<br>
 <b> Autor:</b> Quispe Huaynasi, Fredi<br>
-<b> Institución:</b> Observatorio Nacional, Rio de Janeiro - Brasil </div> <br>
+<b> Institución:</b> Observatorio Nacional, Rio de Janeiro - Brasil <br>
 
-<div class="a"> <b> Título:</b> Abundâncias químicas em estrelas gigantes vermelhas dos aglomerados abertos NGC 2420, NGC 6819 e NGC 6705 dos espectros APOGEE (<a href="http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/ASTRONOMIA/%5B398_50-38_C%5Don_2018_m_veronicaloaizatacuri-novo.pdf">Tesis</a>)<br>
+<b> Título:</b> Abundâncias químicas em estrelas gigantes vermelhas dos aglomerados abertos NGC 2420, NGC 6819 e NGC 6705 dos espectros APOGEE (<a href="http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/ASTRONOMIA/%5B398_50-38_C%5Don_2018_m_veronicaloaizatacuri-novo.pdf">Tesis</a>)<br>
 <b> Autor:</b> Loaiza Tacuri, Verónica<br>
 <b> Institución:</b> Observatorio Nacional, Rio de Janeiro - Brasil </div>
 
