@@ -74,13 +74,13 @@ div.a {
 <b> Autor:</b> Jan, M., Roshi, D. A., Lebrón, M. E., Pacheco, E., Ghosh, T., Salter, C. J., ... & Arce, H. G...<br>
 <a href="https://arxiv.org/abs/1912.04019"> https://arxiv.org/abs/1912.04019 </a> <br><br>
 
-<b> Título:</b> Formaldehyde trapping by radical initiated reaction on hydrogenated boron nitride (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0169433219309936#!">Artículo</a>)<br>
+<b> Título:</b> Formaldehyde trapping by radical initiated reaction on hydrogenated boron nitride<br>
 <b> Autor:</b> Cuba-Supanta, G., Guerrero-Sanchez, J., Rojas-Tapia, J., Landauro, C. V., & Takeuchi, N.<br>
-Applied Surface Science (2019) 484, 470-478 <br><br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0169433219309936#!">https://www.sciencedirect.com/science/article/abs/pii/S0169433219309936#!</a><br><br>
 
-<b> Título:</b> Doping engineering of thermoelectric transport in BNC heteronanotubes (<a href="https://pubs.rsc.org/en/content/articlelanding/2019/CP/C8CP05592K#!divAbstract">Artículo</a>)<br>
+<b> Título:</b> Doping engineering of thermoelectric transport in BNC heteronanotubes<br>
 <b> Autor:</b> Sandonas, L. M., Cuba-Supanta, G., Gutierrez, R., Landauro, C. V., Rojas-Tapia, J., & Cuniberti, G.<br>
-Physical Chemistry Chemical Physics (2019) 21(4), 1904-1911 <br><br>
+<a href="https://pubs.rsc.org/en/content/articlelanding/2019/CP/C8CP05592K#!divAbstract">https://pubs.rsc.org/en/content/articlelanding/2019/CP/C8CP05592K#!divAbstract</a><br><br>
 
 <b> Título:</b> Aperiodic exchange modulation effect on the specific heat in the Kondo necklace model (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304885318304955">Artículo</a>)<br>
 <b> Autor:</b> Reyes, D., Cuba-Supanta, G., Tarazona, H. S., Landauro, C. V., & Espinoza-Bernardo, R. M.<br>
