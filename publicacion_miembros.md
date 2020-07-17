@@ -45,23 +45,22 @@ div.a {
 <b> Institución:</b> Pontificia Universidad Católica del Perú, Lima - Perú </div>
 
 <center><h4>2014</h4></center>
-<div class="a"> <b> Título:</b> Influencia de la velocidad de enfriamiento sobre las propiedades estructurales y electrónicas de nano-hilos mono-metálicos de Ag y Cu (<a href="https://cybertesis.unmsm.edu.pe/handle/20.500.12672/5786">Tesis</a>)<br><br>
+<div class="a"> <b> Título:</b> Influencia de la velocidad de enfriamiento sobre las propiedades estructurales y electrónicas de nano-hilos mono-metálicos de Ag y Cu (<a href="https://cybertesis.unmsm.edu.pe/handle/20.500.12672/5786">Tesis</a>)<br>
 <b> Autor:</b> Cuba Supanta, Gustavo<br>
 <b> Institución:</b> Universidad Nacional Mayor de San Marcos, Lima - Perú </div>
 
 <center><h4>2013</h4></center>
-<div class="a"> <b> Título:</b> Estudio de la masa invariante de las partículas j/ψ y z en la actualización del experimento cms (<a href="https://scholar.uprm.edu/handle/20.500.11801/2034">Tesis</a>)<br><br>
+<div class="a"> <b> Título:</b> Estudio de la masa invariante de las partículas j/ψ y z en la actualización del experimento cms (<a href="https://scholar.uprm.edu/handle/20.500.11801/2034">Tesis</a>)<br>
 <b> Autor:</b> Flores Chalco, Soraya Ysabel<br>
-<b> Institución:</b> Universidad de Puerto Rico, Mayagüez - Puerto Rico </div>
+<b> Institución:</b> Universidad de Puerto Rico, Mayagüez - Puerto Rico <br><br>
 
-
-<div class="a"> <b> Título:</b> Estudio de la síntesis de la fase cristalina ω-Al7Cu2Fe y el efecto de la nanoestructuración sobre sus propiedades estructurales y magnéticas (<a href="https://cybertesis.unmsm.edu.pe/bitstream/handle/20.500.12672/3781/Pinto_vm.pdf?sequence=1">Tesis</a>)<br><br>
+<b> Título:</b> Estudio de la síntesis de la fase cristalina ω-Al7Cu2Fe y el efecto de la nanoestructuración sobre sus propiedades estructurales y magnéticas (<a href="https://cybertesis.unmsm.edu.pe/bitstream/handle/20.500.12672/3781/Pinto_vm.pdf?sequence=1">Tesis</a>)<br><br>
 <b> Autor:</b> Pinto Vergara, Milida Zarella<br>
 <b> Institución:</b> Universidad Nacional Mayor de San Marcos, Lima - Perú </div>
 
 <h3>Tesis de Licenciatura</h3>
 
-<div class="a"> <b> Título:</b> Efectos de la aperiodicidad química sobre el calor específico en el modelo del collar de Kondo a temperatura finita (<a href="http://repositorio.unsaac.edu.pe/handle/UNSAAC/5208">Tesis</a>)<br><br>
+<div class="a"> <b> Título:</b> Efectos de la aperiodicidad química sobre el calor específico en el modelo del collar de Kondo a temperatura finita (<a href="http://repositorio.unsaac.edu.pe/handle/UNSAAC/5208">Tesis</a>)<br>
 <b> Autor:</b> Cuba Supanta, Gustavo<br>
 <b> Institución:</b> Universidad Nacional de San Antonio Abad del Cusco, Cusco - Perú </div>
 
