@@ -54,7 +54,7 @@ div.a {
 <b> Autor:</b> Flores Chalco, Soraya Ysabel<br>
 <b> Institución:</b> Universidad de Puerto Rico, Mayagüez - Puerto Rico <br><br>
 
-<b> Título:</b> Estudio de la síntesis de la fase cristalina ω-Al7Cu2Fe y el efecto de la nanoestructuración sobre sus propiedades estructurales y magnéticas (<a href="https://cybertesis.unmsm.edu.pe/bitstream/handle/20.500.12672/3781/Pinto_vm.pdf?sequence=1">Tesis</a>)<br><br>
+<b> Título:</b> Estudio de la síntesis de la fase cristalina ω-Al7Cu2Fe y el efecto de la nanoestructuración sobre sus propiedades estructurales y magnéticas (<a href="https://cybertesis.unmsm.edu.pe/bitstream/handle/20.500.12672/3781/Pinto_vm.pdf?sequence=1">Tesis</a>)<br>
 <b> Autor:</b> Pinto Vergara, Milida Zarella<br>
 <b> Institución:</b> Universidad Nacional Mayor de San Marcos, Lima - Perú </div>
 
