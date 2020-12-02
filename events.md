@@ -11,9 +11,9 @@ title: Eventos
 
 <p style='text-align: justify;'> Este evento posee un programa de conferencias magistrales, charlas, sesión de pósteres, talleres y mesa redonda a cargo de exalumnos que vienen realizando sus estudios de posgrado y trabajos de investigación en diferentes instituciones nacionales y del extranjero. Estos eventos se vienen realizando con ayuda de docentes del departamento académico de Física UNSAAC.</p>
 
-### Próximos Eventos
+<!--### Próximos Eventos-->
 
-III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC
+## **III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC**
 
 * [Link de inscripción](https://docs.google.com/forms/d/1y-nHSnHt7eKDY8k_1pJQqWHPLEZ7K78UGNVTdaY2Swg/prefill)
 * [Afiche del evento]()
