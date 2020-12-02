@@ -77,11 +77,11 @@ Los eventos que fueron organizados por el grupo Cusco Científico son el <a href
 
 <b>Libro de resúmenes</b>
 
-<p style='text-align: justify;'>El libro de resúmenes puede ser descargado del siguiente <a href="https://www.dropbox.com/s/wa05dfyq3om4ehf/libro_resumenes_encefis_2020.pdf?dl=0">enlace.</a></p>
+<p style='text-align: justify;'>Para ver los resúmenes puede acceder a través del siguiente <a href="https://www.dropbox.com/s/wa05dfyq3om4ehf/libro_resumenes_encefis_2020.pdf?dl=0">enlace.</a></p>
 
 <b>Balance</b><br>
 
-<p style='text-align: justify;'>El balance y algunas imágenes del evento pueden ser accesadas a través del siguiente <a href="https://www.dropbox.com/s/lpc0oaxw7u17bx4/Balance-encefis-2020.pdf?dl=0">enlace.</a></p>
+<p style='text-align: justify;'>Para ver el balance y algunas imágenes del evento puede realizarlo a través del siguiente <a href="https://www.dropbox.com/s/lpc0oaxw7u17bx4/Balance-encefis-2020.pdf?dl=0">enlace.</a></p>
 
 <b>Agradecimientos</b>
 
@@ -130,11 +130,11 @@ Los eventos que fueron organizados por el grupo Cusco Científico son el <a href
 
 <b>Libro de resúmenes</b><br>
 
-<p style='text-align: justify;'>El libro de resúmenes puede ser descargado del siguiente <a href="https://www.dropbox.com/s/7mxfdk5zgwgue6e/libro_resumenes_encefis_2019.pdf?dl=0">enlace.</a></p>
+<p style='text-align: justify;'>Para ver los resúmenes puede acceder a través del siguiente <a href="https://www.dropbox.com/s/7mxfdk5zgwgue6e/libro_resumenes_encefis_2019.pdf?dl=0">enlace.</a></p>
 
 <b>Balance</b><br>
 
-<p style='text-align: justify;'>El balance e imágenes del evento pueden ser descargados del siguiente <a href="https://www.dropbox.com/s/szxdl9qdokucny9/Balance-encefis-2019.pdf?dl=0">enlace.</a></p>
+<p style='text-align: justify;'>Para ver el balance y algunas imágenes del evento puede realizarlo a través del siguiente <a href="https://www.dropbox.com/s/szxdl9qdokucny9/Balance-encefis-2019.pdf?dl=0">enlace.</a></p>
 
 <b>Agradecimientos</b>
 <p style='text-align: justify;'>Este evento no hubiera sido posible sin contar con la ayuda de Profesores del Departamento Académico de Física - UNSAAC, en especial a la MSc. Miriam Romero y la Mgt. Estela Huamán.</p> 
