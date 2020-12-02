@@ -15,7 +15,9 @@ title: Eventos
 * [Lista de ponentes]()
 * [Lista de participantes]()
 
-### **ENCUENTRO CIENTÍFICO INTERNACIONAL DE EXALUMNOS DE FÍSICA - UNSAAC**
+<section>
+  <h3>Acerca de ENCEFIS y eventos pasados</h3>
+</section>
 
 ### **Presentación**
 <p style='text-align: justify;'> Las actividades de divulgación científica son uno de los objetivos del grupo Cusco Científico establecida en su reglamento. Una de estas actividades es el "Encuentro de exalumnos de física - UNSAAC", que es el evento más importante organizado por el grupo Cusco Científico y que tiene por propósito fortalecer el vínculo de colaboración académico entre estudiantes, profesores y exalumnos de la escuela profesional de Física. Además, brinda espacio oportuno de presentar trabajos de investigación científica y tecnológica a la comunidad Cusqueña, donde los participantes pueden ampliar el conocimiento mediante las conferencias magistrales, charlas y talleres. </p>
