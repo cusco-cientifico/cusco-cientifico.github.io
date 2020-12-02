@@ -13,7 +13,7 @@ title: Eventos
 * [Programación]()
 * [Afiche del evento]()
 * [Libro de resumenes]()
-* <a href="https://www.dropbox.com/s/ybp3j0j366jd5pj/Lista%20de%20Ponentes%20ENCEFIS-2021.pdf?dl=0" target="_blank">Lista de ponentes</a> 
+* <a href="https://www.dropbox.com/s/tkl26d3yjsij44h/Lista%20de%20Ponentes%20ENCEFIS-2021.pdf?dl=0" target="_blank">Lista de ponentes</a> 
 * [Lista de participantes]()
 
 <section>
