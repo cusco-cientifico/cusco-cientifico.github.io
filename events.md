@@ -2,7 +2,13 @@
 title: Eventos
 ---
 
-## **ENCUENTRO CIENTÍFICO INTERNACIONAL DE EXALUMNOS DE FÍSICA - UNSAAC**
+### **III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC**
+
+* [Link de inscripción](https://docs.google.com/forms/d/1x7Z7seJ_2bYduqUzvXNjC4m_97BXixZsr79xFerN2bo/prefill)
+* [Afiche del evento]()
+* [Libro de resumenes]()
+
+### **ENCUENTRO CIENTÍFICO INTERNACIONAL DE EXALUMNOS DE FÍSICA - UNSAAC**
 
 ### **Presentación**
 <p style='text-align: justify;'> Las actividades de divulgación científica son uno de los objetivos del grupo Cusco Científico establecida en su reglamento. Una de estas actividades es el "Encuentro de exalumnos de física - UNSAAC", que es el evento más importante organizado por el grupo Cusco Científico y que tiene por propósito fortalecer el vínculo de colaboración académico entre estudiantes, profesores y exalumnos de la escuela profesional de Física. Además, brinda espacio oportuno de presentar trabajos de investigación científica y tecnológica a la comunidad Cusqueña, donde los participantes pueden ampliar el conocimiento mediante las conferencias magistrales, charlas y talleres. </p>
@@ -12,12 +18,6 @@ title: Eventos
 <p style='text-align: justify;'> Este evento posee un programa de conferencias magistrales, charlas, sesión de pósteres, talleres y mesa redonda a cargo de exalumnos que vienen realizando sus estudios de posgrado y trabajos de investigación en diferentes instituciones nacionales y del extranjero. Estos eventos se vienen realizando con ayuda de docentes del departamento académico de Física UNSAAC.</p>
 
 <!--### Próximos Eventos-->
-
-## **III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC**
-
-* [Link de inscripción](https://docs.google.com/forms/d/1x7Z7seJ_2bYduqUzvXNjC4m_97BXixZsr79xFerN2bo/prefill)
-* [Afiche del evento]()
-* [Libro de resumenes]()
 
 <section>
   <h3>Eventos Pasados</h3>
