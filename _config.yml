@@ -19,7 +19,7 @@ navbar-links:
     - Física Teórica: "fisica_teorica"
     - Física de Altas Energías: "altas_energias"
   Miembros: "people"
-  Projectos: "projects"
+  Proyectos: "projects"
   Blog: "blog"
   Eventos: "events"
   #Funding: "funding"
