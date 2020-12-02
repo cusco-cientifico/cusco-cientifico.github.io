@@ -10,6 +10,7 @@ title: Eventos
 
 * <a href="https://docs.google.com/forms/d/e/1FAIpQLSfA8MR_GzQAz0F4VpQmOYJXo86d87CWBB7n5R_J2aTlw7EqRw/viewform?embedded=true" target="_blank">Enlace para inscripción</a> 
 <!--* [Enlace de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfA8MR_GzQAz0F4VpQmOYJXo86d87CWBB7n5R_J2aTlw7EqRw/viewform?usp=sf_link)-->
+* [Programación]()
 * [Afiche del evento]()
 * [Libro de resumenes]()
 * [Lista de ponentes]()
