@@ -4,7 +4,7 @@ title: Eventos
 
 ### **III ENCUENTRO CIENTIFICO INTERNACIONAL DE EXALUMNOS DE FISICA - UNSAAC**
 
-* [Link de inscripción](https://docs.google.com/forms/d/1x7Z7seJ_2bYduqUzvXNjC4m_97BXixZsr79xFerN2bo/prefill)
+* [Link de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfA8MR_GzQAz0F4VpQmOYJXo86d87CWBB7n5R_J2aTlw7EqRw/viewform)
 * [Afiche del evento]()
 * [Libro de resumenes]()
 
