@@ -1,8 +1,8 @@
 ---
 ---
 
-![](img/astronomy/galaxy.png)
-<font size="1.5"> <i><a href="https://www.bbc.com/portuguese/internacional-50274440">Imagen</a> de nuestra Galaxia tomada por el astrofotógrafo peruano Jheison Huerta </i> </font> 
+![](img/fisica_teorica/bh.png)
+<font size="1.5"> <i><a href="https://www.bbc.com/portuguese/internacional-50274440">Imagen</a> del agujero negro en la galaxia M87 tomada por el Event Horizon Telescope o EHT por sus siglas en inglés </i> </font> 
 # **Física teórica**
 
 
