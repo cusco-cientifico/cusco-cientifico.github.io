@@ -8,7 +8,8 @@
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
 <!-- Indicators -->
   <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="4" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="0"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
   </ol>
@@ -18,12 +19,16 @@
       <a href="https://cusco-cientifico.github.io/events/">
     <!--https://www.brisbanekids.com.au/awesome-guide-brisbane-kids-love-astronomy-/-->
     <!--<img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:slide img/slide-0.png" alt="loading image">-->
-        <img src="img/slide-0.png" href="http://google.com" alt="nice picture of Einstein" />
+        <img src="img/slide-4.jpeg" alt="Evento ENCEFIS" />
       </a>
     </div>
     <div class="item">
     <!--<img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:slide img/slide-1.png" alt="loading image">-->
-      <img src="img/slide-1.png" alt="nice picture of physics brands" />
+      <img src="img/slide-0.png" alt="nice picture of physics brands" />
+    </div>
+    <div class="item">
+    <!--<img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:slide img/slide-2.png" alt="loading image">-->
+      <img src="img/slide-1.png" alt="nice picture of physicist" />
     </div>
     <div class="item">
     <!--<img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:slide img/slide-2.png" alt="loading image">-->
