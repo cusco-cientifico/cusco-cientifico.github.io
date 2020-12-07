@@ -8,13 +8,13 @@ title: Eventos
   <h3>III ENCUENTRO CIENTÍFICO INTERNACIONAL DE EXALUMNOS DE FÍSICA - UNSAAC</h3>
 </section>
 
-* <a href="https://docs.google.com/forms/d/e/1FAIpQLSfA8MR_GzQAz0F4VpQmOYJXo86d87CWBB7n5R_J2aTlw7EqRw/viewform?embedded=true" target="_blank">Enlace para inscripción</a> 
+* Para inscripción y mayores detalles del evento click en el siguiente <a href="https://docs.google.com/forms/d/e/1FAIpQLSfA8MR_GzQAz0F4VpQmOYJXo86d87CWBB7n5R_J2aTlw7EqRw/viewform?embedded=true" target="_blank">enlace</a> 
 <!--* [Enlace de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfA8MR_GzQAz0F4VpQmOYJXo86d87CWBB7n5R_J2aTlw7EqRw/viewform?usp=sf_link)-->
-* [Programación]()
+<!--* [Programación]()
 * [Afiche del evento]()
 * [Libro de resumenes]()
 * <a href="https://www.dropbox.com/s/tkl26d3yjsij44h/Lista%20de%20Ponentes%20ENCEFIS-2021.pdf?dl=0" target="_blank">Lista de ponentes</a> 
-* [Lista de participantes]()
+* [Lista de participantes]()-->
 
 <section>
   <h3>Acerca de ENCEFIS y eventos pasados</h3>
