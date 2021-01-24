@@ -46,7 +46,7 @@ Los eventos que fueron organizados por el grupo Cusco Científico son el <a href
 
 <p style='text-align: justify;'>El II Encuentro Científico de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 8, 9 y 10 de enero del 2020. Dicho evento contó con la participación de 3 charlas magistrales, 21 charlas orales, 9 posters presentados y 95 asistentes entre profesionales, estudiantes de física y público en general. Los tópicos de las ponencias correspondieron a las áreas de Física Teórica, Geofísica, Ciencia de Materiales, Física Médica, Física de Altas Energías, Astronomía y Astrofísica. Los ponentes invitados, fueron exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Chile y Perú. Asimismo, hubo participación de 2 estudiantes de la Universidad Nacional Mayor de San Marcos.</p>
 
-<p style='text-align: justify;'><b>Lista de ponentes</b><br>
+<!-- <p style='text-align: justify;'><b>Lista de ponentes</b><br>
 <ol>
 <li>Marco A. Zamalloa Jara, Universidad Nacional de San Antonio Abad del Cusco, Perú.</li>
 <li>Ruben Alfredo Tupayachi Latorre, Pontificia Universidad Católica del Perú, Perú.</li>
@@ -73,7 +73,35 @@ Los eventos que fueron organizados por el grupo Cusco Científico son el <a href
 <li> Erick Jhordan Reategui Rojas, Universidad Nacional Mayor de San Marcos - Perú.</li>
 <li> Fernando Ccolque Ttito, Universidad Nacional de San Antonio Abad del Cusco - Perú.</li>
 <li> Milida Zarella Pinto Vergara, Centro de Investigaciones Tecnológicas, Biomédicas y Medioambientales - Perú.</li>
-</ol></p>
+</ol></p> -->
+
+| Ponente                      | Institución                                                  | Pais        |
+| ---------------------------- | ------------------------------------------------------------ | :---------- |
+| Marco A. Zamalloa Jara       | Universidad Nacional San Antonio de Abad del Cusco           | Perú        |
+| Ruben A. Tupayachi Latorre   | Pontificia Universidad Católica del Perú                     | Perú        |
+| Henry Holguin Gallegos       | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
+| Hernán Joel Cervantes R      | Instituto de Física, Universidad de São Paulo                | Brasil      |
+| Gladis Vera Singuña          | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
+| Hermelinda Hanampa Roque     | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
+| Joseph O. Ricaldi Sarapura   | Universidad Nacional del Centro                              | Perú        |
+| Gustavo Cuba Supanta         | Universidad Nacional Mayor de San Marcos                     | Perú        |
+| Soraya Y. Flores Chalco      | Universidad de Puerto Rico, Río Piedras                      | Puerto Rico |
+| Abraham Aslla Quispe         | Universidad Federal de Uberlandia                            | Brasil      |
+| Roger Challco                | Universidad Nacional de Ingeniería                           | Perú        |
+| Alexander Ccala Ccopa        | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
+| Eduardo Vargas Soto          |                                                              | Perú        |
+| Odilón Correa Cuba           | Universidad Nacional José María Arguedas                     | Perú        |
+| Milton Rojas Gamarra         | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
+| Carlos Soncco Meza           | Pontificia Universidad Católica del Perú                     | Perú        |
+| Verónica Loaiza Tacuri       | Observatorio Nacional de Rio de Janeiro                      | Brasil      |
+| Elluz Pacheco Cabrera        | Universidad de Puerto Rico, Rio Piedras                      | Puerto Rico |
+| Fredi Quispe Huaynasi        | Observatorio Nacional de Rio de Janeiro                      | Brasil      |
+| David Choque Quispe          | Universidad Adolfo Ibañez                                    | Chile       |
+| Pedro Amao Cutipa            | Pontificia Universidad Católica del Perú                     | Perú        |
+| Omar Moises Asto Rojas       | Universidad Nacional Mayor de San Marcos                     | Perú        |
+| Erick Jhordan Reategui Rojas | Universidad Nacional Mayor de San Marcos                     | Perú        |
+| Fernando Ccolque Ttito       | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
+| Milida Zarella Pinto Vergara | Centro de Investigaciones Tecnológicas, Biomédicas y Medioambientales | Perú        |
 
 
 <b>Libro de resúmenes</b>
