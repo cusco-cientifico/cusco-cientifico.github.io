@@ -58,7 +58,7 @@ Puesto que la mayoria de los miembros se encuentran trabajando en diferentes ins
 <li><p style='text-align: justify; font-size:18px;'>Intercambiar y/o compartir información, experiencias académicas y temas afines entre los miembros integrantes del grupo.</p></li>
 <li><p style='text-align: justify; font-size:18px;'>Desarrollar proyectos de investigación y promover la colaboración entre los miembros del grupo.</p></li>
 <li><p style='text-align: justify; font-size:18px;'>Incentivar y fomentar un vínculo de colaboración entre estudiantes, docentes y exalumnos de Física de la UNSAAC, teniendo como fin común la investigación científica.</p>  </li>
-<li><p style='text-align: justify; font-size:18px;'>Realizar divulgación científica a través de eventos, redes sociales y medios de comunicación.</p> </li>
+<li><p style='text-align: justify; font-size:18px;'>Realizar divulgación científica a través de eventos, redes sociales y otros medios de comunicación.</p> </li>
 </ol>
 <!--The **R** **E**pidemics **Con**sortium (RECON) is an international
 not-for-profit, **non-governmental organisation** gathering experts in data
