@@ -49,36 +49,10 @@ Eventos organizados por el grupo Cusco Científico:
 <center><h4 id="segundo">II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</h4></center>
 </section>
 
-<p style='text-align: justify;'>El II Encuentro Científico de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 8, 9 y 10 de enero del 2020. Dicho evento contó con la participación de 3 charlas magistrales, 21 charlas orales, 9 posters presentados y 95 asistentes entre profesionales, estudiantes de física y público en general. Los tópicos de las ponencias correspondieron a las áreas de Física Teórica, Geofísica, Ciencia de Materiales, Física Médica, Física de Altas Energías, Astronomía y Astrofísica. Los ponentes invitados, fueron exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Chile y Perú. Asimismo, hubo participación de 2 estudiantes de la Universidad Nacional Mayor de San Marcos.</p>
+<p style='text-align: justify;'>El II Encuentro Científico de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 8, 9 y 10 de enero del 2020. Dicho evento contó con la participación de 3 charlas magistrales, 21 charlas orales, 9 posters presentados y 95 asistentes entre profesionales, estudiantes de física y público en general. Los tópicos de las ponencias correspondieron a las áreas de Física Teórica, Geofísica, Ciencia de Materiales, Física Médica, Física de Altas Energías, Astronomía y Astrofísica. Los ponentes invitados, fueron exalumnos que vienen desarrollando sus estudios y trabajos de investigación en países como Brasil, Puerto Rico, Chile y Perú. Asimismo, hubo participación de 2 estudiantes de la Universidad Nacional Mayor de San Marcos. Para saber más ingrese al siguiente [enlace](/events/encefis_2.md) </p>
+
 
 <p style='text-align: justify;'><b>Lista de ponentes</b><br></p>
-<!-- <ol>
-<li>Marco A. Zamalloa Jara, Universidad Nacional de San Antonio Abad del Cusco, Perú.</li>
-<li>Ruben Alfredo Tupayachi Latorre, Pontificia Universidad Católica del Perú, Perú.</li>
-<li>Henry Holguin Gallegos, Universidad Nacional de San Antonio Abad del Cusco, Perú.</li>
-<li>Hernán Joel Cervantes R., Instituto de Física, Universidad de São Paulo - Brasil.</li>
-<li>Gladis Vera Singuña, Universidad Nacional de San Antonio Abad del Cusco - Perú.</li>
-<li>Hermelinda Hanampa Roque, Universidad Nacional de San Antonio Abad del Cusco - Perú.</li>
-<li>Joseph O. Ricaldi Sarapura, Universidad Nacional del Centro del Perú - Perú.</li>
-<li>Gustavo Cuba Supanta, Universidad Nacional Mayor de San Marcos - Perú.</li>
-<li> Soraya Y. Flores Chalco, Universidad de Puerto Rico, Río Piedras - Puerto Rico.</li>
-<li> Abraham Aslla Quispe, Universidad Federal de Uberlandia - Brasil.</li>
-<li> Roger Challco, Universidad Nacional de Ingeniería - Perú.</li>
-<li> Alexander Ccala Ccopa, Universidad Nacional de San Antonio Abad del Cusco - Perú.</li>
-<li> Eduardo Vargas Soto - Perú.</li>
-<li> Odilón Correa Cuba, Universidad Nacional José María Arguedas - Perú.</li>
-<li> Milton Rojas Gamarra, Universidad Nacional de San Antonio Abad del Cusco - Perú.</li>
-<li> Carlos Soncco Meza, Pontificia Universidad Católica del Perú - Perú.</li>
-<li> Verónica Loaiza Tacuri, Observatorio Nacional - Brasil.</li>
-<li> Elluz Pacheco Cabrera, Universidad de Puerto Rico, Rio Piedras - Puerto Rico.</li>
-<li> Fredi Quispe Huaynasi, Observatorio Nacional de Rio de Janeiro - Brasil.</li>
-<li> David Choque Quispe, Universidad Adolfo Ibañez - Chile.</li>
-<li> Pedro Amao Cutipa, Pontificia Universidad Católica del Perú - Perú.</li>
-<li> Omar Moises Asto Rojas, Universidad Nacional Mayor de San Marcos - Perú.</li>
-<li> Erick Jhordan Reategui Rojas, Universidad Nacional Mayor de San Marcos - Perú.</li>
-<li> Fernando Ccolque Ttito, Universidad Nacional de San Antonio Abad del Cusco - Perú.</li>
-<li> Milida Zarella Pinto Vergara, Centro de Investigaciones Tecnológicas, Biomédicas y Medioambientales - Perú.</li>
-</ol></p> -->
 
 | Ponente                      | Institución                                                  | Pais        |
 | ---------------------------- | ------------------------------------------------------------ | :---------- |
