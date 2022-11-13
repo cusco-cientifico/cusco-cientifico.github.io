@@ -8,7 +8,7 @@ title: Eventos
   <h3>V ENCUENTRO CIENTÍFICO INTERNACIONAL DE EXALUMNOS DE FÍSICA - UNSAAC</h3>
 </section>
 
-* Para mayores detalles sobre este evento haga click en el siguiente enlace <a href="https://encefis.github.io/encefis-v/" target="_blank">enlace</a>
+Para mayores detalles sobre este evento haga click en el siguiente enlace <a href="https://encefis.github.io/encefis-v/" target="_blank">enlace</a>
 
 <section>
   <h2 style="text-align: center;">ENCEFIS</h2>
@@ -46,4 +46,5 @@ Para mayores detalles sobre este evento visite la pagina oficial del <a href="ht
 Para mayores detalles sobre este evento visite el siguiente [enlace](./events/encefis_2.md).
 
 #### **I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)**
+
 Para mayores detalles sobre este evento visite el siguiente [enlace](./events/encefis_1.md).
