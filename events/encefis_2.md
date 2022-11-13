@@ -27,3 +27,34 @@
 | Erick J. Reategui R.         | UNMSM         | Perú        |
 | Fernando Ccolque T.          | UNSAAC        | Perú        |
 | Milida Z. Pinto V.           | CITBM         | Perú        |
+
+
+<b>Libro de resúmenes</b>
+
+<p style='text-align: justify;'>Para ver los resúmenes puede acceder a través del siguiente <a href="https://www.dropbox.com/s/wa05dfyq3om4ehf/libro_resumenes_encefis_2020.pdf?dl=0">enlace.</a></p>
+
+<b>Balance</b><br>
+
+<p style='text-align: justify;'>Para ver el balance y algunas imágenes del evento puede realizarlo a través del siguiente <a href="https://www.dropbox.com/s/lpc0oaxw7u17bx4/Balance-encefis-2020.pdf?dl=0">enlace.</a></p>
+
+<b>Agradecimientos</b>
+
+<p style='text-align: justify;'>Este evento no hubiera sido posible sin contar con la ayuda de los Profesores del Departamento Académico de Física - UNSAAC, en especial a la MSc. Miriam Romero, la Mgt. Estela Huamán y Lic. Olintho De La Torre.</p>
+
+<b>Auspiciadores:</b>
+<p style='text-align: justify;'>
+<ol>
+<li>Departamento Académico de Física</li>
+<li>Facultad de Ciencias Químicas, Físicas y Matemáticas, Universidad Nacional de San Antonio Abad del Cusco.</li>
+<li>Colegio de Físicos del Perú, Consejo Regional Cusco.</li>
+<li>IOP Publishing.</li>
+<li>Centro de Investigaciones Tecnológicas, Biomédicas y Medioambientales.</li>
+<li>Sociedad Peruana de Física.</li>
+<li>Industrial Science & Technology EIRL, Soluciones Analíticas para la Ciencia y la Industria.</li>
+</ol></p>
+
+<b>Foto oficial del evento</b><br>
+
+<p align="center"> 
+<img src="../img/encefis/Foto_oficial_encefis-2020.jpg">
+</p><br>
