@@ -32,22 +32,18 @@ Eventos organizados por el grupo Cusco Científico:
 #### **IV ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)**
 
 
-- Para mayores detalles sobre este evento visite la pagina oficial del <a href="https://encefis.github.io/encefis-iv/" target="_blank">evento</a>
+Para mayores detalles sobre este evento visite la pagina oficial del <a href="https://encefis.github.io/encefis-iv/" target="_blank">evento</a>.
 
 
 #### **III ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)**
 
 
-- Para inscripción y mayores detalles sobre el evento, click en el siguiente <a href="https://sites.google.com/view/encefis-iii/" target="_blank">enlace</a>. 
+Para mayores detalles sobre este evento visite la pagina oficial del <a href="https://sites.google.com/view/encefis-iii/" target="_blank">enlace</a>. 
 
 
 #### **II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)**
 
-- El II Encuentro Científico de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 8, 9 y 10 de enero del 2020. Para saber más sobre este evento ingrese al siguiente [enlace](./events/encefis_2.md)
-
+Para mayores detalles sobre este evento visite el siguiente [enlace](./events/encefis_2.md).
 
 #### **I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)**
-- El I Encuentro de Exalumnos de Física UNSAAC, se llevó a cabo en el Auditorio de Pabellón de Ciencias (pabellón C) de la Universidad Nacional de San Antonio Abad del Cusco los días 9 y 10 de enero del 2019. Para saber más sobre este evento ingrese al siguiente [enlace](./events/encefis_1.md) 
-
-
-
+Para mayores detalles sobre este evento visite el siguiente [enlace](./events/encefis_1.md).
