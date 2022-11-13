@@ -8,9 +8,13 @@ title: Eventos
   <h3>V ENCUENTRO CIENTÍFICO INTERNACIONAL DE EXALUMNOS DE FÍSICA - UNSAAC</h3>
 </section>
 
+* Para mayores detalles sobre este evento haga click en el siguiente enlace <a href="https://encefis.github.io/encefis-v/" target="_blank">enlace</a>
+
 <section>
   <h3>IV ENCUENTRO CIENTÍFICO INTERNACIONAL DE EXALUMNOS DE FÍSICA - UNSAAC</h3>
 </section>
+
+* Para mayores detalles sobre este evento haga click en el siguiente enlace <a href="https://encefis.github.io/encefis-iv/" target="_blank">enlace</a>
 
 <section>
   <h3>III ENCUENTRO CIENTÍFICO INTERNACIONAL DE EXALUMNOS DE FÍSICA - UNSAAC</h3>
@@ -31,7 +35,7 @@ title: Eventos
 <section>
   <h4>Presentación</h4>
 </section>
-<p style='text-align: justify;'> Las actividades de divulgación científica son uno de los objetivos del grupo Cusco Científico establecida en su reglamento. Una de estas actividades es el <b>"Encuentro Científico Internacional de Exalumnos de Física - UNSAAC"</b>, que es el evento más importante organizado por el grupo Cusco Científico y que tiene por propósito fortalecer el vínculo de colaboración académico entre estudiantes, profesores y exalumnos de la escuela profesional de Física. Además, brinda espacio oportuno de presentar trabajos de investigación científica y tecnológica a la comunidad Cusqueña, donde los participantes pueden ampliar el conocimiento mediante las conferencias magistrales, charlas y talleres. <!--more--> </p>
+<p style='text-align: justify;'> Las actividades de divulgación científica son uno de los objetivos del grupo Cusco Científico establecida en su reglamento. Una de estas actividades es el <b>"Encuentro Científico Internacional de Exalumnos de Física - UNSAAC"</b>, que es el evento más importante organizado por el grupo Cusco Científico y que tiene por propósito fortalecer el vínculo de colaboración académico entre estudiantes, profesores y exalumnos de la escuela profesional de Física. Además, brinda espacio oportuno de presentar trabajos de investigación científica y tecnológica a la comunidad Cusqueña, donde los participantes pueden ampliar el conocimiento mediante las conferencias magistrales, charlas y talleres. </p>
 <section>
   <h4>Descripción</h4>
 </section>
