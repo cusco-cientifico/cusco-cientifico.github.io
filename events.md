@@ -38,7 +38,7 @@ Para mayores detalles sobre este evento visite la pagina oficial del <a href="ht
 #### **III ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)**
 
 
-Para mayores detalles sobre este evento visite la pagina oficial del <a href="https://sites.google.com/view/encefis-iii/" target="_blank">enlace</a>. 
+Para mayores detalles sobre este evento visite la pagina oficial del <a href="https://sites.google.com/view/encefis-iii/" target="_blank">evento</a>. 
 
 
 #### **II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)**
