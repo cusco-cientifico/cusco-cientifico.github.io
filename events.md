@@ -82,31 +82,31 @@ Eventos organizados por el grupo Cusco Científico:
 
 | Ponente                      | Institución                                                  | Pais        |
 | ---------------------------- | ------------------------------------------------------------ | :---------- |
-| Marco A. Zamalloa Jara       | Universidad Nacional San Antonio de Abad del Cusco           | Perú        |
-| Ruben A. Tupayachi Latorre   | Pontificia Universidad Católica del Perú                     | Perú        |
-| Henry Holguin Gallegos       | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
-| Hernán Joel Cervantes R      | Instituto de Física, Universidad de São Paulo                | Brasil      |
-| Gladis Vera Singuña          | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
-| Hermelinda Hanampa Roque     | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
-| Joseph O. Ricaldi Sarapura   | Universidad Nacional del Centro                              | Perú        |
-| Gustavo Cuba Supanta         | Universidad Nacional Mayor de San Marcos                     | Perú        |
-| Soraya Y. Flores Chalco      | Universidad de Puerto Rico, Río Piedras                      | Puerto Rico |
-| Abraham Aslla Quispe         | Universidad Federal de Uberlandia                            | Brasil      |
+| Marco A. Zamalloa J.         | Universidad Nacional San Antonio de Abad del Cusco           | Perú        |
+| Ruben A. Tupayachi L.        | Pontificia Universidad Católica del Perú                     | Perú        |
+| Henry Holguin G.             | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
+| Hernán J. Cervantes R.       | Instituto de Física, Universidad de São Paulo                | Brasil      |
+| Gladis Vera S.               | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
+| Hermelinda Hanampa R.        | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
+| Joseph O. Ricaldi S.         | Universidad Nacional del Centro                              | Perú        |
+| Gustavo Cuba S.              | Universidad Nacional Mayor de San Marcos                     | Perú        |
+| Soraya Y. Flores C.          | Universidad de Puerto Rico, Río Piedras                      | Puerto Rico |
+| Abraham Aslla Q.             | Universidad Federal de Uberlandia                            | Brasil      |
 | Roger Challco                | Universidad Nacional de Ingeniería                           | Perú        |
-| Alexander Ccala Ccopa        | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
-| Eduardo Vargas Soto          |                                                              | Perú        |
-| Odilón Correa Cuba           | Universidad Nacional José María Arguedas                     | Perú        |
-| Milton Rojas Gamarra         | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
-| Carlos Soncco Meza           | Pontificia Universidad Católica del Perú                     | Perú        |
-| Verónica Loaiza Tacuri       | Observatorio Nacional de Rio de Janeiro                      | Brasil      |
-| Elluz Pacheco Cabrera        | Universidad de Puerto Rico, Rio Piedras                      | Puerto Rico |
-| Fredi Quispe Huaynasi        | Observatorio Nacional de Rio de Janeiro                      | Brasil      |
-| David Choque Quispe          | Universidad Adolfo Ibañez                                    | Chile       |
-| Pedro Amao Cutipa            | Pontificia Universidad Católica del Perú                     | Perú        |
-| Omar Moises Asto Rojas       | Universidad Nacional Mayor de San Marcos                     | Perú        |
-| Erick Jhordan Reategui Rojas | Universidad Nacional Mayor de San Marcos                     | Perú        |
-| Fernando Ccolque Ttito       | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
-| Milida Zarella Pinto Vergara | Centro de Investigaciones Tecnológicas, Biomédicas y Medioambientales | Perú        |
+| Alexander Ccala C.           | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
+| Eduardo Vargas S.            |                                                              | Perú        |
+| Odilón Correa C.             | Universidad Nacional José María Arguedas                     | Perú        |
+| Milton Rojas G.              | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
+| Carlos Soncco M.             | Pontificia Universidad Católica del Perú                     | Perú        |
+| Verónica Loaiza T.           | Observatorio Nacional de Rio de Janeiro                      | Brasil      |
+| Elluz Pacheco C.             | Universidad de Puerto Rico, Rio Piedras                      | Puerto Rico |
+| Fredi Quispe H.              | Observatorio Nacional de Rio de Janeiro                      | Brasil      |
+| David Choque Q.              | Universidad Adolfo Ibañez                                    | Chile       |
+| Pedro Amao C.                | Pontificia Universidad Católica del Perú                     | Perú        |
+| Omar Moises Asto R.          | Universidad Nacional Mayor de San Marcos                     | Perú        |
+| Erick J. Reategui R.         | Universidad Nacional Mayor de San Marcos                     | Perú        |
+| Fernando Ccolque T.          | Universidad Nacional de San Antonio Abad del Cusco           | Perú        |
+| Milida Z. Pinto V.           | Centro de Investigaciones Tecnológicas, Biomédicas y Medioambientales | Perú        |
 
 
 <b>Libro de resúmenes</b>
