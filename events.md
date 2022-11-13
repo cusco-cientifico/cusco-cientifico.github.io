@@ -8,7 +8,7 @@ title: Eventos
   <h3>V ENCUENTRO CIENTÍFICO INTERNACIONAL DE EXALUMNOS DE FÍSICA - UNSAAC</h3>
 </section>
 
-Para mayores detalles sobre este evento haga click en el siguiente enlace <a href="https://encefis.github.io/encefis-v/" target="_blank">enlace</a>
+Para mayores detalles sobre este evento haga click en el siguiente <a href="https://encefis.github.io/encefis-v/" target="_blank">enlace</a>.
 
 <section>
   <h2 style="text-align: center;">ENCEFIS</h2>
