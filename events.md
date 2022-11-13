@@ -11,25 +11,6 @@ title: Eventos
 * Para mayores detalles sobre este evento haga click en el siguiente enlace <a href="https://encefis.github.io/encefis-v/" target="_blank">enlace</a>
 
 <section>
-  <h3>IV ENCUENTRO CIENTÍFICO INTERNACIONAL DE EXALUMNOS DE FÍSICA - UNSAAC</h3>
-</section>
-
-* Para mayores detalles sobre este evento haga click en el siguiente enlace <a href="https://encefis.github.io/encefis-iv/" target="_blank">enlace</a>
-
-<section>
-  <h3>III ENCUENTRO CIENTÍFICO INTERNACIONAL DE EXALUMNOS DE FÍSICA - UNSAAC</h3>
-</section>
-
-* Para inscripción y mayores detalles sobre el evento, click en el siguiente <a href="https://sites.google.com/view/encefis-iii/" target="_blank">enlace</a>. 
-
-<!--* [Enlace de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfA8MR_GzQAz0F4VpQmOYJXo86d87CWBB7n5R_J2aTlw7EqRw/viewform?usp=sf_link)-->
-<!--* [Programación]()
-* [Afiche del evento]()
-* [Libro de resumenes]()
-* <a href="https://www.dropbox.com/s/tkl26d3yjsij44h/Lista%20de%20Ponentes%20ENCEFIS-2021.pdf?dl=0" target="_blank">Lista de ponentes</a> 
-* [Lista de participantes]()-->
-
-<section>
   <h3>Acerca de ENCEFIS y eventos pasados</h3>
 </section>
 <section>
@@ -51,6 +32,18 @@ Los eventos que fueron organizados por el grupo Cusco Científico son el <a href
 
 <!--<ul style="list-style-type:disc;"> -->
 <!--<li><b>II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</b></li>-->
+
+<section>
+<center><h4 id="segundo">IV ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</h4></center>
+</section>
+
+* Para mayores detalles sobre este evento haga click en el siguiente enlace <a href="https://encefis.github.io/encefis-iv/" target="_blank">enlace</a>
+
+<section>
+<center><h4 id="segundo">III ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</h4></center>
+</section>
+
+* Para inscripción y mayores detalles sobre el evento, click en el siguiente <a href="https://sites.google.com/view/encefis-iii/" target="_blank">enlace</a>. 
 
 <section>
 <center><h4 id="segundo">II ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)</h4></center>
