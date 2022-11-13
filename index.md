@@ -16,8 +16,8 @@
 
   <div class="carousel-inner">
     <div class="item active">
-      <a href="https://cusco-cientifico.github.io/events/">
-        <img src="img/slide-0.jpeg" alt="Evento ENCEFIS" />
+      <a href="https://encefis.github.io/encefis-v/">
+        <img src="img/slide-0.png" alt="Evento ENCEFIS" />
       </a>
     </div>
     <div class="item">
