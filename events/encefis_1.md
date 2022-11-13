@@ -45,5 +45,5 @@ title: I ENCEFIS
 <b>Foto oficial del evento</b>
 
 <p align="center"> 
-<img src="../img/encefis/Foto_oficial_encefis-2019.png">
+<img src="/img/encefis/Foto_oficial_encefis-2019.png">
 </p>
