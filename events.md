@@ -29,13 +29,13 @@ Para mayores detalles sobre este evento haga click en el siguiente <a href="http
 Eventos organizados por el grupo Cusco Científico: 
 
 
-#### **IV ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)**
+#### **IV ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2022)**
 
 
 Para mayores detalles sobre este evento visite la pagina oficial del <a href="https://encefis.github.io/encefis-iv/" target="_blank">evento</a>.
 
 
-#### **III ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)**
+#### **III ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2021)**
 
 
 Para mayores detalles sobre este evento visite la pagina oficial del <a href="https://sites.google.com/view/encefis-iii/" target="_blank">evento</a>. 
@@ -45,6 +45,6 @@ Para mayores detalles sobre este evento visite la pagina oficial del <a href="ht
 
 Para mayores detalles sobre este evento visite el siguiente [enlace](./events/encefis_2.md).
 
-#### **I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2020)**
+#### **I ENCUENTRO CIENTIFICO DE EXALUMNOS DE FISICA - UNSAAC (ENCEFIS 2019)**
 
 Para mayores detalles sobre este evento visite el siguiente [enlace](./events/encefis_1.md).
