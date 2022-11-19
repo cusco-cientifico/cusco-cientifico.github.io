@@ -8,6 +8,6 @@ Para saber sobre los temas de investigación, en la cual los integrantes del gru
 
 Las tesis de doctorado y de maestria pueden ser accesadas a través del siguiente [enlace](./publicaciones/tesis.md).
 
-### **Publicaciones**
+### **Artículos científicos**
 
 Las publicaciones en revistas científicas pueden ser accesadas a través del siguiente [enlace](./publicaciones/publicaciones.md).
