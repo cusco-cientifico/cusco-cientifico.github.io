@@ -1,6 +1,6 @@
 ---
 title: Miembros
-subtitle: Grupo de personas dedicadas a promover la ciencia y tecnología en la región del Cusco
+subtitle: Grupo dedicado a promover la ciencia y tecnología en la región del Cusco
 executive-board:
   - name: Pedro Amao Cutipa
     img: /img/miembros_cc/pedro_amao.png
@@ -10,7 +10,7 @@ executive-board:
     <!--twitter: http://twitter.com/fcampbell-->
   - name: Gustavo Cuba Supanta
     img: /img/miembros_cc/photo_GCS.jpg
-    desc: Dr. en el área de Ciencia de Materiales. Estudio de las propiedades físicas y de transporte de nanomateriales tipo 2D y 1D mediante métodos computacionales. Lima-Perú.
+    desc: Doctor en Física (área de ciencia de materiales). Estudio de las propiedades físicas y de transporte en nanomateriales mediante diferentes métodos computacionales. Lima-Perú.
     website: http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=eb1d0cece24752bc9571e11b912e?id_investigador=52462
     url: http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=eb1d0cece24752bc9571e11b912e?id_investigador=52462
     <!--github: https://github.com/annecori/-->
@@ -29,7 +29,7 @@ executive-board:
     <!--twitter: https://twitter.com/TeebzR-->
   - name: Elluz Pacheco Cabrera
     img: /img/miembros_cc/ElluzPC.jpg
-    desc: Estudiante de doctorado. Estudio de nubes moleculares a través de espectros obtenidos por el radiotelescópio de Arecibo. San Juan - Puerto Rico - US.
+    desc: Estudiante de doctorado. Fotodetectores UV basados en Nanocables de Diamante Ultrananocristalino dopados con Nitrógeno, Boro y ZnO. San Juan, PR - US.
     website: https://www.dropbox.com/s/ahlvxybzwfdnsvc/ELLUZ_PACHECO_CV.pdf?dl=0
     url: https://www.dropbox.com/s/ahlvxybzwfdnsvc/ELLUZ_PACHECO_CV.pdf?dl=0
     github: https://github.com/Elluzita
