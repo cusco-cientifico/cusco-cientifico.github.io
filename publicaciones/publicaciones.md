@@ -1,8 +1,6 @@
 ---
-title: Publicaciones
+title: Artículos científicos
 ---
-
-<h3>Artículos Científicos</h3>
 
 <div class="a"> <b> Título:</b> Two-State Quantum Systems Revisited: a Geometric Algebra Approach<br>
 <b> Autor:</b> Amao, P., & Castillo, H.<br>
