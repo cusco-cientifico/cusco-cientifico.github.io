@@ -24,7 +24,7 @@ navbar-links:
   Eventos: "events"
   #Funding: "funding"
   #Foro: "forum"
-  Publicaciones: "publicaciones"
+  Publicaciones: "publicaciones_miembros"
   # - Miembros: "publicacion_miembros"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).

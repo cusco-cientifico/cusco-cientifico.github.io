@@ -24,9 +24,7 @@ title: Artículos científicos
 <b> Autor:</b> Amao, P., & Castillo, H.<br>
 <a href="https://arxiv.org/pdf/2001.00656.pdf">https://arxiv.org/pdf/2001.00656.pdf</a> <br><br>
 
-<b> Título:</b> Radio Recombination Line Observations Toward the Massive Star Forming Region W51 IRS1 <br>
-<b> Autor:</b> Jan, M., Roshi, D. A., Lebrón, M. E., Pacheco, E., Ghosh, T., Salter, C. J., ... & Arce, H. G...<br>
-<a href="https://arxiv.org/abs/1912.04019"> https://arxiv.org/abs/1912.04019 </a> <br><br>
+
 
 <b> Título:</b> Formaldehyde trapping by radical initiated reaction on hydrogenated boron nitride<br>
 <b> Autor:</b> Cuba-Supanta, G., Guerrero-Sanchez, J., Rojas-Tapia, J., Landauro, C. V., & Takeuchi, N.<br>
