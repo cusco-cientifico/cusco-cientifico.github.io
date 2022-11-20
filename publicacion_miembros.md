@@ -19,3 +19,5 @@ Las publicaciones por año en revistas científicas pueden ser accesadas a trav�
 [2020](./publicaciones/pub_2020.md)
 
 [2019](./publicaciones/pub_2019.md)
+
+[Anteriores](./publicaciones/pub_anteriores.md)
