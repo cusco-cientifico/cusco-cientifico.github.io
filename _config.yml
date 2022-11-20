@@ -20,10 +20,10 @@ navbar-links:
     - Física de Altas Energías: "altas_energias"
   Miembros: "people"
   Proyectos: "projects"
-  Blog: "blog"
+  #Blog: "blog"
   Eventos: "events"
   #Funding: "funding"
-  Foro: "forum"
+  #Foro: "forum"
   Publicaciones:
    - Miembros: "publicacion_miembros"
 

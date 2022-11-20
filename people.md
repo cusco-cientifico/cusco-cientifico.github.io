@@ -35,7 +35,7 @@ executive-board:
     github: https://github.com/Elluzita
   - name: Milida Zarella Pinto Vergara
     img: /img/miembros_cc/Milida.png
-    desc: Candidata al grado de doctor. Fabricación y caracterización de películas delgadas mediante la técnica de <i>magnetron sputtering</i>. Lima-Perú.
+    desc: Técnico de Laboratorio de Modelamiento y Simulación en la Facultad de Ciencias Físicas, UNMSM. Analista de Difracción de Rayos X en FA Ingenieros S.A.C. Lima - Perú.
     website: https://drive.google.com/file/d/1UeBw81zdWBVNH5N9lTLelShnUE9NgSSg/view?usp=sharing
     url: https://drive.google.com/file/d/1UeBw81zdWBVNH5N9lTLelShnUE9NgSSg/view?usp=sharing
     <!--twitter: https://twitter.com/drgregmartin-->
