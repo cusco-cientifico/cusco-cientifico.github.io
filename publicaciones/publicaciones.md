@@ -2,6 +2,12 @@
 title: Artículos científicos
 ---
 
+### 2022
+
+<div class="a"> <b> Título:</b> High-velocity Stars in SDSS/APOGEE DR17<br>
+<b> Autor:</b> . Quispe-Huaynasi 1 , F. Roig et al.<br>
+<a href="https://ui.adsabs.harvard.edu/abs/2022AJ....164..187Q/abstract">2022AJ....164..187Q%2F</a> <br><br>
+
 <div class="a"> <b> Título:</b> Two-State Quantum Systems Revisited: a Geometric Algebra Approach<br>
 <b> Autor:</b> Amao, P., & Castillo, H.<br>
 <a href="https://arxiv.org/pdf/2001.00656.pdf">https://arxiv.org/pdf/2001.00656.pdf</a> <br><br>

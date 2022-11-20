@@ -12,11 +12,11 @@ title: Tesis
 <h3>Maestría</h3> 
 <center><h4>2018</h4></center>
 
-<div class="a"> <b> Título:</b> Astrometria de objetos Transnetunianos e Centauros na era Gaia: posições a partir de imageamento direto e de ocultação estelar (<a href="http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/ASTRONOMIA/[417_09-06_C]on_2018_m_frediquispe.pdf">Tesis</a>)<br>
+<div class="a"> <b> Título:</b> Astrometria de objetos Transnetunianos e Centauros na era Gaia: posições a partir de imageamento direto e de ocultação estelar (<a href="http://sistede.on.br:8080/jspui/handle/tede/31">Tesis</a>)<br>
 <b> Autor:</b> Quispe Huaynasi, Fredi<br>
 <b> Institución:</b> Observatorio Nacional, Rio de Janeiro - Brasil <br><br>
 
-<b> Título:</b> Abundâncias químicas em estrelas gigantes vermelhas dos aglomerados abertos NGC 2420, NGC 6819 e NGC 6705 dos espectros APOGEE (<a href="http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/ASTRONOMIA/%5B398_50-38_C%5Don_2018_m_veronicaloaizatacuri-novo.pdf">Tesis</a>)<br>
+<b> Título:</b> Abundâncias químicas em estrelas gigantes vermelhas dos aglomerados abertos NGC 2420, NGC 6819 e NGC 6705 dos espectros APOGEE (<a href="http://sistede.on.br:8080/jspui/handle/tede/30">Tesis</a>)<br>
 <b> Autor:</b> Loaiza Tacuri, Verónica<br>
 <b> Institución:</b> Observatorio Nacional, Rio de Janeiro - Brasil </div>
 
