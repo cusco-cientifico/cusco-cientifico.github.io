@@ -5,8 +5,20 @@ title: Artículos científicos
 ### 2022
 
 <div class="a"> <b> Título:</b> High-velocity Stars in SDSS/APOGEE DR17<br>
-<b> Autor:</b> . Quispe-Huaynasi 1 , F. Roig et al.<br>
+<b> Autor:</b> F. Quispe-Huaynasi, F. Roig, et al.<br>
 <a href="https://ui.adsabs.harvard.edu/abs/2022AJ....164..187Q/abstract">2022AJ....164..187Q%2F</a> <br><br>
+
+### 2021
+
+<div class="a"> <b> Título:</b> Size-Dependent Electrical Transport Properties in Conducting Diamond Nanostripes <br>
+<b> Autor:</b> Andrew F. Zhou, Elluz Pacheco, et al.<br>
+<a href="https://www.mdpi.com/2079-4991/11/7/1765">https://www.mdpi.com/2079-4991/11/7/1765</a> <br><br>
+
+<div class="a"> <b> Título:</b> Ultrananocrystalline Diamond Nanowires: Fabrication, Characterization, and Sensor Applications <br>
+<b> Autor:</b> Andrew F. Zhou, Xinpeng Wang, Elluz Pacheco, et al. <br>
+<a href="https://www.mdpi.com/1996-1944/14/3/661">https://www.mdpi.com/1996-1944/14/3/661</a> <br><br>
+
+
 
 <div class="a"> <b> Título:</b> Two-State Quantum Systems Revisited: a Geometric Algebra Approach<br>
 <b> Autor:</b> Amao, P., & Castillo, H.<br>

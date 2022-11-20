@@ -11,3 +11,5 @@ Las tesis de doctorado y de maestria pueden ser accesadas a través del siguient
 ### **Artículos científicos**
 
 Las publicaciones en revistas científicas pueden ser accesadas a través del siguiente [enlace](./publicaciones/publicaciones.md).
+
+[2022](./publicaciones/publicaciones.md)
