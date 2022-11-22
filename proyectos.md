@@ -1,5 +1,6 @@
 ---
 ---
+
 ### **Efecto de la composición sobre las propiedades estructurales y termodinámicas de nanoaleaciones ternarias metálicas de Cu-Ag-Au**
 ![](./img/project_image.png)
 
