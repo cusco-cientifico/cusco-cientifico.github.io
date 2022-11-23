@@ -2,7 +2,7 @@
 title: Publicaciones
 ---
 
-Para saber sobre los temas de investigación, en la cual los integrantes del grupo científico trabajan, visite los enlaces descritos abajo.
+Para saber sobre los temas de investigación en los que trabajan los integrantes del grupo científico, visite los enlaces abajo.
 
 ### **Tesis**
 
