@@ -1,9 +1,7 @@
 ---
 ---
-
-### **Efecto de la composición sobre las propiedades estructurales y termodinámicas de nanoaleaciones ternarias metálicas de Cu-Ag-Au**
 ![](./img/proyecto_img.png)
-
+### **Efecto de la composición sobre las propiedades estructurales y termodinámicas de nanoaleaciones ternarias metálicas de Cu-Ag-Au**
 
 #### **Descripción general:**
 <p style='text-align: justify;'> En los últimos años, la investigación sobre las nanoaleaciones ternarias metálicas han atraído mucho interés en áreas multidisciplinarias como física, química e ingenierías debido a sus aplicaciones potenciales en los campos como la óptica, electrónica, magnetismo y catálisis [1-6]. Los efectos que trae consigo la nanoaleación son de interés, ya que son importantes para determinar especialmente el uso de nanopartículas como catalizadores, porque es bien sabido que las nanoaleaciones tienen una gran relación de volumen-superficie que mejora la actividad catalítica y modula las propiedades físico-químicas [7-9]. Actualmente, estos estudios pertenecen a un área de investigación activa. Especialmente, los metales de transición y sus aleaciones son de gran interés como catalizadores a escalas nanométricas debido a la capacidad que tienen los metales de transición de estar en una variedad de estados de oxidación. Esta combinación entre la capacidad de intercambiar estados de oxidación y la capacidad de formar reactivos complejos es una buena fuente de electrones [10,11]. Además, la nanoaleación de Cu-Ag-Au es de interés debido a la composición de metales relativamente nobles cuyas propiedades son bien conocidas [4,12]. Por lo tanto, la demanda de investigación sobre este tema está aumentando continuamente y ha sido ampliamente estudiado experimentalmente [13-18] y teóricamente [4,5,19,20] en estos años.</p>
