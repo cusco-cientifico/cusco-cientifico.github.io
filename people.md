@@ -42,7 +42,7 @@ executive-board:
     <!--github: https://github.com/drgregmartin-->
   - name: Fredi Quispe Huaynasi
     img: /img/miembros_cc/Fredi_Photo1.jpg.png
-    desc: Estudiante de doctorado. Búsqueda, caracterización de estrellas con alta rvelocidad en la Galaxia. ON, Rio de Janeiro-Brasil.
+    desc: Estudiante de doctorado. Búsqueda, caracterización de estrellas con alta velocidad en la Galaxia. ON, Rio de Janeiro-Brasil.
     website: https://www.dropbox.com/s/2a8nw8u0ydqx81m/Curriculum_Vitae_Fredi_Quispe_H.pdf?dl=0
     github: https://github.com/fredifqh
     url: https://www.dropbox.com/s/2a8nw8u0ydqx81m/Curriculum_Vitae_Fredi_Quispe_H.pdf?dl=0
